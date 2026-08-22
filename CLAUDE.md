@@ -149,20 +149,25 @@ Create a Visual Style Profile to use for all subsequent prompts.
 
 Then stop.
 
-## STATE 8 — Image Prompts (every script beat, max 3–5s each)
+## STATE 8 — Image Prompts (scene-based, not sentence-by-sentence)
 
-Generate image prompts for every script beat. Rules:
+Generate image prompts by complete visual scene, not one prompt per sentence or clause.
+Think like a professional YouTube editor: combine related sentences and ideas into one
+scene when they share the same setting, moment, or beat of the explanation. Each prompt
+should carry the full concept being explained, using multiple visual elements within the
+scene when needed, rather than splitting one idea across several small prompts. Rules:
 
-- Each beat = max 3–5 seconds of script
+- Group by complete idea/scene, not by fixed duration
 - Each prompt fully standalone
-- Each prompt labeled with the exact script segment text
-- Don't skip any part of the script
+- Each prompt labeled with the exact script text it covers (can span multiple sentences)
+- Don't skip any part of the script — every scene transition and idea must be covered
 - Each prompt follows the Visual Style Profile exactly
+- Prioritize clarity, explanation, and viewer engagement over granularity
 
-For each beat:
+For each scene:
 
-- [Script Segment Text]
-- Image Prompt (fully standalone)
+- [Script Segment Text — may span multiple sentences]
+- Image Prompt (fully standalone, may describe multiple visual elements in one scene)
 - Camera Angle
 - Lighting
 - Mood
@@ -259,5 +264,5 @@ transcripts and explicitly asks to refresh the lock.
 
 - Never copy wording from the source channel
 - Match style, not phrasing
-- Each beat = 3–5 seconds max
+- Image prompts are grouped by complete scene/idea, not split sentence-by-sentence
 - Stay in the current state until the user replies
