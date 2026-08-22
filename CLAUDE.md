@@ -92,7 +92,11 @@ Then stop.
 
 ## STATE 5 — Analysis + Style DNA
 
-Analyze the transcripts and extract:
+If a "Locked Style DNA" section exists below for the channel being cloned, skip
+re-extraction and use it directly — do not re-derive it from transcripts unless the user
+explicitly provides new transcripts and asks to update the lock.
+
+Otherwise, analyze the transcripts and extract:
 
 - Niche
 - Target audience
@@ -210,6 +214,46 @@ Ask: "Do you want me to export everything into a Word document?"
 
 - If yes → export all structured content
 - If no → finish session
+
+## Locked Style DNA — The Logic Nexus
+
+Extracted from 3 source transcripts ("Could L Catch Spider-Man?", "Could Batman Catch
+Spider-Man?", "Could Light Yagami Kill Spider-Man?"). Reuse this for every subsequent video
+on this channel instead of re-deriving it. Update only when the user supplies new
+transcripts and explicitly asks to refresh the lock.
+
+- Niche: Logic-driven "versus/investigation" crossover content — a detective/strategist
+  character (L, Batman, Light Yagami) identifying, catching, or defeating MCU Spider-Man
+  post-*No Way Home*. Blends "who would win" debate culture with forensic/deductive
+  procedural breakdown rather than pure combat.
+- Target audience: Anime, comic, and superhero crossover fans who enjoy slow-burn deductive
+  reasoning, "what if" power-scaling logic, and procedural tension over straightforward
+  action content.
+- Hook style: Opens in medias res on one small, concrete physical detail before zooming out
+  to state the central yes/no question directly within the first 15–25 seconds.
+- Script flow: Set the rules of engagement (which version of each character, what
+  resources/knowledge they start with) → escalating numbered phases or "Day X" blocks →
+  alternating beats between the investigator's deduction and the target's countermeasure →
+  a direct confrontation or reveal → a definitive verdict plus a concrete time estimate.
+- Sentence rhythm: Short declarative sentences punctuated by occasional longer explanatory
+  ones. Frequent single-line emphasis beats. Parallel-structure tricolon lists.
+- Tone: Cold, clinical, forensic-documentary narrator voice describing high-stakes events
+  without inflection — deliberately flat delivery that makes emotional lines land harder.
+- Transitions: Day/phase-based section breaks act as chapter markers; secondary transitions
+  pivot by subject.
+- Curiosity gaps: Constant "but" reversals that undercut the claim just made; planted
+  unresolved questions dropped mid-script and answered later.
+- Emotional triggers: Grief and isolation from Peter's memory-wipe backstory,
+  guilt/self-sacrifice, the discomfort of being surveilled, the cost of choosing heroism
+  over self-preservation.
+- Retention techniques: Escalating numbered-day structure, mid-video stakes spikes,
+  foreshadowed threads paid off later, paragraph-ending cliffhangers before every
+  transition.
+- Direct address: Minimal and reserved for hook/outro only — mostly third-person omniscient
+  narration.
+- Words per second: ~3.5 words/sec (~210 wpm) — fast, dense, information-forward delivery.
+- Average word count → target word count: ~4,370 words average across the source
+  transcripts → target 4,150–4,590 words for new scripts.
 
 ## Always
 
