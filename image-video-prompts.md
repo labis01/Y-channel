@@ -1,8 +1,8 @@
-# The Logic Nexus — Image & Video Prompts (Scene-Based)
+# The Logic Nexus — "Could L Catch Spider-Man?"
 
-Scene-based image and video prompts for the script (working topic: a self-taught
-detective-strategist tracking down Peter Parker's Spider-Man through pure deduction).
-Generated per CLAUDE.md STATE 8/9. 39 scenes, full script coverage.
+Scene-based image and video prompts for the script (L tracking down Peter Parker's
+Spider-Man through pure deduction). Generated per CLAUDE.md STATE 8/9. 41 scenes,
+full script coverage.
 
 ---
 
