@@ -338,10 +338,29 @@ Video Prompt: Slow cross-dissolve cycling through the three heroic moments into 
 
 ## STATE 10 — Thumbnail Analysis
 
-- Text style: Minimal on-thumbnail text — no large headline; only a small bold white timestamp badge (e.g., "15:21") in a rounded dark pill, bottom-right corner.
-- Composition: Symmetrical vertical split-face — Spider-Man's mask fills the left half, the opposing character's face fills the right half, meeting at a hard center seam; both halves sit against a mugshot/police-lineup height-ruler backdrop; a small prop icon (Death Note book, spider silhouette, bat shape) tucked into a corner reinforces the matchup.
-- Composition contrast: Strong warm-vs-cool split — red/web-textured tones on the Spider-Man half against a cooler palette matched to the opponent (navy for Batman, grey-blue anime tones for L, warm sepia-red for the Death Note character) — the seam itself becomes the visual "versus" line.
-- Emotion triggers: Literal mugshot/lineup framing implies capture and consequence, tying directly to the video's premise; symmetrical face-off staging creates instant rivalry tension; pairing two highly recognizable IPs drives curiosity through recognition alone.
+Based on reference screenshots from the source channel (3 examples: Spider-Man/L with
+a Death Note icon, Spider-Man/L variant, Spider-Man/Batman with a bat icon).
+
+- Text style: No headline text at all — the only overlay is a small bold white timestamp
+  badge (e.g., "15:21", "24:51") in a rounded dark pill, bottom-right corner.
+- Composition: Symmetrical vertical split-face mugshot — Spider-Man's mask fills the left
+  half, the opposing character's face fills the right half, meeting at a hard center seam;
+  both halves sit against a police-lineup height-ruler backdrop with foot/inch markings
+  running the full height; a small flat-icon prop (Death Note book, bat silhouette, spider
+  silhouette) sits tucked in a lower corner to name the matchup at a glance.
+- Color contrast: Strong warm-vs-cool split — red/web-textured tones on the Spider-Man half
+  against a cooler palette matched to the opponent (navy for Batman, grey-blue/red-eyed
+  anime tones for L) — the center seam is the visual "versus" line, reinforced by a thin
+  bleed of color across it.
+- Emotion triggers: Literal mugshot/lineup framing implies capture and consequence, tying
+  directly to the video's premise; symmetrical face-off staging creates instant rivalry
+  tension; pairing two highly recognizable IPs drives curiosity through recognition alone.
+
+**Divergence note:** this exact template (ruler backdrop, hard split seam, corner prop icon,
+bottom-right timestamp pill) is the source channel's signature layout — reusing it verbatim
+risks the clone reading as a copy and getting flagged. The STATE 11 set below intentionally
+uses five different compositions that borrow the *appeal* (contrast, tension, recognition,
+consequence) without repeating the literal mugshot format.
 
 ## STATE 11 — Thumbnails (5)
 
