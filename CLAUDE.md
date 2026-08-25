@@ -19,7 +19,7 @@ without needing to be re-briefed.
   method is deliberately built to contrast with L's — physical trace
   evidence, personal observation, and a human informant network instead of
   digital surveillance — so the series doesn't reskin the same investigation
-  twice. ~20 min runtime target. Status: draft, ready for review.
+  twice. ~20 min runtime target. Status: locked, ready to post.
 
 ## Reference/style modeling
 

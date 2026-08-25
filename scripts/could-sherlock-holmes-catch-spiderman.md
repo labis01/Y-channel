@@ -1,6 +1,6 @@
 # THE LOGIC NEXUS — Could Sherlock Holmes Catch Spider-Man?
 
-Status: draft, ready for review
+Status: locked, ready to post
 Format: scene breakdown + continuous narration version (TTS/voiceover-ready)
 Runtime target: ~20 minutes
 
