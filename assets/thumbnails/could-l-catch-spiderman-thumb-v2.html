@@ -1,0 +1,234 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+  html,body{margin:0;padding:0;}
+  .frame{
+    width:1280px;height:720px;position:relative;overflow:hidden;
+    font-family:Arial,Helvetica,sans-serif;
+    background:#050505;
+  }
+  .half{ position:absolute; top:0; width:640px; height:720px; overflow:hidden; }
+  .left{ left:0; background:radial-gradient(circle at 28% 18%, #c21f1f 0%, #7a0f0f 50%, #3a0606 100%); }
+  .right{ left:640px; background:radial-gradient(circle at 72% 18%, #34496b 0%, #182333 55%, #060a10 100%); }
+
+  .ruler-line{ position:absolute; left:0; right:0; height:2px; background:rgba(255,255,255,0.16); }
+  .ruler-label{
+    position:absolute; left:14px; color:rgba(255,255,255,0.45); font-size:14px; font-weight:700;
+    transform:translateY(-50%); letter-spacing:0.5px;
+  }
+  .right .ruler-label{ left:auto; right:14px; }
+
+  .web{ position:absolute; inset:0; opacity:0.28; }
+
+  .seam{
+    position:absolute; left:637px; top:0; width:6px; height:720px;
+    background:linear-gradient(to bottom, #fff, #ccc 40%, #fff 60%, #ccc 100%);
+    box-shadow:0 0 30px 6px rgba(255,255,255,0.55);
+    z-index:6;
+  }
+
+  .mask-wrap{ position:absolute; left:40px; top:50px; width:540px; height:620px; z-index:3; }
+  .l-wrap{ position:absolute; right:20px; top:60px; width:540px; height:610px; z-index:3; }
+
+  .vignette{
+    position:absolute; inset:0; z-index:8; pointer-events:none;
+    background:radial-gradient(ellipse at center, rgba(0,0,0,0) 45%, rgba(0,0,0,0.55) 100%);
+  }
+  .grain{ position:absolute; inset:0; z-index:9; opacity:0.06; mix-blend-mode:overlay; }
+
+  .cracks{ position:absolute; inset:0; z-index:7; opacity:0.5; pointer-events:none; }
+
+  .icon{
+    position:absolute; left:20px; bottom:20px; z-index:10;
+    width:66px; height:84px; background:#0a0a0a; border:2px solid #9a9a9a;
+    border-radius:2px; box-shadow:0 8px 18px rgba(0,0,0,0.6);
+  }
+  .icon:before{
+    content:"DEATH\A NOTE"; white-space:pre; position:absolute; top:13px; left:0; right:0;
+    text-align:center; color:#e6c15a; font-size:8.5px; font-weight:800; letter-spacing:0.4px; line-height:1.5;
+  }
+
+  .stat{
+    position:absolute; top:22px; left:50%; transform:translateX(-50%); z-index:12;
+    display:flex; align-items:center; gap:10px;
+  }
+  .stat-ring{
+    width:74px; height:74px; border-radius:50%;
+    background:conic-gradient(#ffcf3f 0% 74%, rgba(255,255,255,0.15) 74% 100%);
+    display:flex; align-items:center; justify-content:center;
+    box-shadow:0 6px 16px rgba(0,0,0,0.55);
+    border:3px solid rgba(0,0,0,0.4);
+  }
+  .stat-ring-inner{
+    width:58px; height:58px; border-radius:50%; background:#0b0b0d;
+    display:flex; flex-direction:column; align-items:center; justify-content:center;
+    color:#fff; font-weight:800;
+  }
+  .stat-ring-inner span:first-child{ font-size:19px; line-height:1; }
+  .stat-ring-inner span:last-child{ font-size:7px; letter-spacing:0.5px; opacity:0.7; }
+  .stat-caption{
+    background:rgba(0,0,0,0.65); color:#fff; font-weight:800; font-size:14px;
+    padding:8px 14px; border-radius:8px; letter-spacing:0.5px; text-transform:uppercase;
+    border-left:3px solid #ffcf3f;
+  }
+
+  .thread{ position:absolute; inset:0; z-index:11; pointer-events:none; }
+</style>
+</head>
+<body>
+<div class="frame">
+
+  <div class="half left">
+    <svg class="web" viewBox="0 0 640 720" xmlns="http://www.w3.org/2000/svg">
+      <g stroke="#ffffff" stroke-width="2" fill="none">
+        <circle cx="10" cy="10" r="120"/><circle cx="10" cy="10" r="240"/><circle cx="10" cy="10" r="360"/><circle cx="10" cy="10" r="480"/><circle cx="10" cy="10" r="620"/>
+        <line x1="10" y1="10" x2="640" y2="60"/>
+        <line x1="10" y1="10" x2="640" y2="280"/>
+        <line x1="10" y1="10" x2="640" y2="520"/>
+        <line x1="10" y1="10" x2="600" y2="720"/>
+        <line x1="10" y1="10" x2="300" y2="720"/>
+        <line x1="10" y1="10" x2="30" y2="720"/>
+      </g>
+    </svg>
+
+    <div class="ruler-line" style="top:60px"></div><div class="ruler-label" style="top:60px">6'0"</div>
+    <div class="ruler-line" style="top:165px"></div><div class="ruler-label" style="top:165px">5'6"</div>
+    <div class="ruler-line" style="top:270px"></div><div class="ruler-label" style="top:270px">5'0"</div>
+    <div class="ruler-line" style="top:375px"></div><div class="ruler-label" style="top:375px">4'6"</div>
+    <div class="ruler-line" style="top:480px"></div><div class="ruler-label" style="top:480px">4'0"</div>
+    <div class="ruler-line" style="top:585px"></div><div class="ruler-label" style="top:585px">3'6"</div>
+
+    <div class="mask-wrap">
+      <svg viewBox="0 0 540 620" xmlns="http://www.w3.org/2000/svg">
+        <defs>
+          <radialGradient id="maskGrad" cx="42%" cy="30%" r="75%">
+            <stop offset="0%" stop-color="#ff4b4b"/>
+            <stop offset="55%" stop-color="#d21f1f"/>
+            <stop offset="100%" stop-color="#7c0d0d"/>
+          </radialGradient>
+          <linearGradient id="gloss" x1="0" y1="0" x2="1" y2="1">
+            <stop offset="0%" stop-color="#ffffff" stop-opacity="0.35"/>
+            <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+          </linearGradient>
+        </defs>
+        <path d="M270 30
+                 C 130 30 55 150 55 310
+                 C 55 480 150 590 270 590
+                 C 390 590 485 480 485 310
+                 C 485 150 410 30 270 30 Z"
+              fill="url(#maskGrad)" stroke="#280505" stroke-width="7"/>
+        <path d="M270 30 C 150 60 90 160 90 260 C 190 180 350 180 450 260 C 450 160 390 60 270 30 Z"
+              fill="url(#gloss)"/>
+        <g stroke="#1c0303" stroke-width="3" fill="none" opacity="0.55">
+          <path d="M270 30 C 205 150 205 470 270 590"/>
+          <path d="M270 30 C 335 150 335 470 270 590"/>
+          <path d="M95 165 C 210 208 330 208 445 165"/>
+          <path d="M68 310 C 210 344 330 344 470 310"/>
+          <path d="M95 455 C 210 412 330 412 445 455"/>
+          <path d="M270 30 C 155 82 82 228 68 310"/>
+          <path d="M270 30 C 385 82 458 228 470 310"/>
+          <path d="M270 590 C 155 538 82 394 68 310"/>
+          <path d="M270 590 C 385 538 458 394 470 310"/>
+        </g>
+        <path d="M255 295
+                 C 255 262 244 208 200 176
+                 C 152 142 98 150 87 192
+                 C 79 226 98 256 130 277
+                 C 168 302 222 310 255 295 Z"
+              fill="#fefefe" stroke="#111" stroke-width="6"/>
+        <path d="M287 295
+                 C 287 262 298 208 342 176
+                 C 390 142 444 150 455 192
+                 C 463 226 444 256 412 277
+                 C 374 302 320 310 287 295 Z"
+              fill="#fefefe" stroke="#111" stroke-width="6"/>
+        <g stroke="#111" stroke-width="3" fill="none" opacity="0.85">
+          <path d="M105 195 C 148 216 190 248 245 280"/>
+          <path d="M138 168 C 175 200 207 236 250 263"/>
+          <path d="M437 195 C 394 216 352 248 297 280"/>
+          <path d="M404 168 C 367 200 335 236 292 263"/>
+        </g>
+      </svg>
+    </div>
+  </div>
+
+  <div class="half right">
+    <div class="ruler-line" style="top:60px"></div><div class="ruler-label" style="top:60px">6'0"</div>
+    <div class="ruler-line" style="top:165px"></div><div class="ruler-label" style="top:165px">5'6"</div>
+    <div class="ruler-line" style="top:270px"></div><div class="ruler-label" style="top:270px">5'0"</div>
+    <div class="ruler-line" style="top:375px"></div><div class="ruler-label" style="top:375px">4'6"</div>
+    <div class="ruler-line" style="top:480px"></div><div class="ruler-label" style="top:480px">4'0"</div>
+    <div class="ruler-line" style="top:585px"></div><div class="ruler-label" style="top:585px">3'6"</div>
+
+    <div class="l-wrap">
+      <svg viewBox="0 0 540 610" xmlns="http://www.w3.org/2000/svg">
+        <defs>
+          <radialGradient id="faceGrad" cx="45%" cy="35%" r="70%">
+            <stop offset="0%" stop-color="#f2ece0"/>
+            <stop offset="100%" stop-color="#d8d0c0"/>
+          </radialGradient>
+        </defs>
+        <path d="M125 270 C 90 145 175 40 280 40 C 395 40 455 145 420 280
+                 C 452 258 472 312 440 344
+                 C 420 270 408 258 388 270
+                 C 400 185 348 112 274 112
+                 C 196 112 148 182 154 270 Z"
+              fill="#0d1013"/>
+        <ellipse cx="280" cy="315" rx="135" ry="155" fill="url(#faceGrad)"/>
+        <g fill="#0d1013">
+          <path d="M155 250 C 166 165 218 105 280 105 C 342 105 400 170 405 255
+                   C 373 208 352 240 331 208
+                   C 310 245 294 202 273 233
+                   C 252 202 236 245 215 213
+                   C 194 245 178 213 155 250 Z"/>
+        </g>
+        <ellipse cx="232" cy="322" rx="36" ry="21" fill="#2a2a2a" opacity="0.30"/>
+        <ellipse cx="336" cy="322" rx="36" ry="21" fill="#2a2a2a" opacity="0.30"/>
+        <circle cx="235" cy="320" r="13" fill="#151515"/>
+        <circle cx="333" cy="320" r="13" fill="#151515"/>
+        <circle cx="238" cy="317" r="3.5" fill="#fff" opacity="0.8"/>
+        <circle cx="336" cy="317" r="3.5" fill="#fff" opacity="0.8"/>
+        <path d="M200 296 C 216 285 252 285 268 296" stroke="#151515" stroke-width="4" fill="none"/>
+        <path d="M300 296 C 316 285 352 285 368 296" stroke="#151515" stroke-width="4" fill="none"/>
+        <path d="M242 398 C 268 409 300 409 326 398" stroke="#6b5a4a" stroke-width="5" fill="none" stroke-linecap="round"/>
+        <path d="M155 475 C 208 433 352 433 405 475 L 436 610 L 124 610 Z" fill="#0b0b0d"/>
+        <path d="M264 443 L 280 485 L 296 443 Z" fill="#f2f2f2"/>
+      </svg>
+    </div>
+  </div>
+
+  <!-- detective-board red string linking the two case elements -->
+  <svg class="thread" viewBox="0 0 1280 720" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="55" cy="620" r="6" fill="#c81414"/>
+    <circle cx="900" cy="150" r="6" fill="#c81414"/>
+    <path d="M55 620 C 300 520 650 260 900 150" stroke="#c81414" stroke-width="2.5" fill="none" opacity="0.8"/>
+  </svg>
+
+  <!-- fracture lines radiating from the seam, like the case cracking open -->
+  <svg class="cracks" viewBox="0 0 1280 720" xmlns="http://www.w3.org/2000/svg">
+    <g stroke="#ffffff" stroke-width="1.5" fill="none" opacity="0.6">
+      <path d="M640 360 L 560 240 L 590 190"/>
+      <path d="M640 360 L 720 220 L 700 160"/>
+      <path d="M640 360 L 545 470 L 500 500"/>
+      <path d="M640 360 L 735 490 L 780 520"/>
+      <path d="M640 360 L 610 360 L 560 340"/>
+      <path d="M640 360 L 670 360 L 720 340"/>
+    </g>
+  </svg>
+
+  <div class="stat">
+    <div class="stat-ring">
+      <div class="stat-ring-inner"><span>74%</span><span>ID'D</span></div>
+    </div>
+    <div class="stat-caption">Case Odds</div>
+  </div>
+
+  <div class="vignette"></div>
+  <div class="seam"></div>
+  <div class="icon"></div>
+
+</div>
+</body>
+</html>
