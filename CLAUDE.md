@@ -62,6 +62,18 @@ full-body cutout beside night-rooftop Spider-Man footage), Spider-Man
 (arms-crossed cutout beside dim apartment-interior footage) — same
 embedded-player-frame + character-cutout-on-parchment formula throughout.
 
+**Recurring host/narrator character**: a cartoon-drawn young man — dark
+curly hair, medium-brown skin, black suit and tie — reacting with
+expressive gestures (thumbs-up, grinning) beside the embedded clip. This
+is the channel's consistent mascot/narrator persona used across videos,
+not a one-off drawing. If this channel needs its own host character,
+design a consistent original mascot in the same spirit (cartoon, suit,
+expressive reactions) — don't reuse this exact character.
+
+**Persistent on-screen title**: the video's title (e.g. "Could L Catch
+Spider-Man?") stays visible as bold black text under the embedded video
+frame continuously throughout playback, not just at the intro/thumbnail.
+
 ### Title format confirmed
 
 Recurring title template: **"Could [Character] Catch Spider-Man?"**
