@@ -13,6 +13,13 @@ without needing to be re-briefed.
   Spider-Man?" (L from Death Note vs. MCU Spider-Man, detective-style
   deduction breakdown). Contains the 41-scene version and a continuous
   narration/TTS version. Status: ready to post.
+- `scripts/could-sherlock-holmes-catch-spiderman.md` — second script,
+  "Could Sherlock Holmes Catch Spider-Man?" (same MCU Spider-Man state as
+  the L script carries over: post-memory-wipe, alone, exhausted). Holmes's
+  method is deliberately built to contrast with L's — physical trace
+  evidence, personal observation, and a human informant network instead of
+  digital surveillance — so the series doesn't reskin the same investigation
+  twice. ~20 min runtime target. Status: draft, ready for review.
 
 ## Reference/style modeling
 
