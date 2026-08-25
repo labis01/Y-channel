@@ -6,3 +6,53 @@ This repo tracks work for **Logic Nexus**, a YouTube channel created by the user
 Update this file as the channel and workflow develop (video ideas, scripts,
 branding, upload schedule, tooling, etc.) so future sessions have the context
 without needing to be re-briefed.
+
+## Scripts
+
+- `scripts/could-l-catch-spiderman.md` — first script, "Could L Catch
+  Spider-Man?" (L from Death Note vs. MCU Spider-Man, detective-style
+  deduction breakdown). Contains the 41-scene version and a continuous
+  narration/TTS version. Status: ready to post.
+
+## Reference/style modeling
+
+User is modeling this channel's format/style off an existing YouTube channel
+(name not yet confirmed — ask/update when known). Screenshots shared show a
+consistent thumbnail formula:
+
+- **Split-screen "vs" face-off**: two character faces divided down the
+  middle (e.g. Spider-Man vs. Death Note's L, vs. Batman, vs. Light Yagami)
+- **Police lineup / mugshot background**: height-marker ruler lines
+  (ft/in) behind both characters
+- **High-contrast duotone per side** (e.g. red/white for Spider-Man's
+  side, blue or dark tones for the opposing character's side)
+- Recurring premise: Spider-Man (or another hero) vs. a
+  detective/deduction-type character — matches the tone of
+  `scripts/could-l-catch-spiderman.md`
+- Video lengths in the 15–25 minute range (per duration badges seen:
+  15:21, 24:51, 22:15)
+
+Apply this thumbnail formula (split-face + mugshot/lineup background +
+duotone) to future video thumbnails for this channel unless told otherwise.
+
+### In-video visual format
+
+Screenshots of the reference channel's actual video content (not just
+thumbnails) show a second consistent formula:
+
+- Live-action movie/show footage plays inside a rounded-corner video
+  frame styled like an embedded player (with playback controls: play,
+  volume, timestamp, captions, settings, expand)
+- A full-body character cutout/pop-out illustration (photo cutout or
+  cartoon-style drawing of the character being discussed) stands beside
+  or in front of the frame, breaking out of it onto the background
+- Background is a plain aged/parchment paper texture (warm beige,
+  subtle grain), not a scene or solid color
+- Used for both live-action character cutouts (Batman figure, Spider-Man
+  in suit) and stylized cartoon-drawn cutouts (an animated character
+  reacting/gesturing toward the footage)
+
+So the reference channel's visual identity has two layers: this
+paper-texture "pop-out cutout + embedded clip" style for in-video visuals,
+and the mugshot/lineup split-face style for thumbnails. Match both when
+producing this channel's assets.
