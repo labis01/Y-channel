@@ -17,8 +17,8 @@ without needing to be re-briefed.
 ## Reference/style modeling
 
 User is modeling this channel's format/style off an existing YouTube channel
-(name not yet confirmed — ask/update when known). Screenshots shared show a
-consistent thumbnail formula:
+called **Specular Verse**. Screenshots shared show a consistent thumbnail
+formula:
 
 - **Split-screen "vs" face-off**: two character faces divided down the
   middle (e.g. Spider-Man vs. Death Note's L, vs. Batman, vs. Light Yagami)
