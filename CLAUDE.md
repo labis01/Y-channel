@@ -56,3 +56,27 @@ So the reference channel's visual identity has two layers: this
 paper-texture "pop-out cutout + embedded clip" style for in-video visuals,
 and the mugshot/lineup split-face style for thumbnails. Match both when
 producing this channel's assets.
+
+Additional in-video cutout examples confirmed: Batman (armored suit,
+full-body cutout beside night-rooftop Spider-Man footage), Spider-Man
+(arms-crossed cutout beside dim apartment-interior footage) — same
+embedded-player-frame + character-cutout-on-parchment formula throughout.
+
+### Title format confirmed
+
+Recurring title template: **"Could [Character] Catch Spider-Man?"**
+Confirmed titles seen: "Could Batman Catch Spider-Man?", "Could L Catch
+Spider-Man?" — matches `scripts/could-l-catch-spiderman.md`. Use this
+template for future video titles in the series ("Could ___ Catch
+Spider-Man?").
+
+### Title-card style (separate from mugshot thumbnail)
+
+Some screenshots show a second card format, likely an in-video title
+card or alternate thumbnail: a character image/screenshot (movie still or
+anime frame) filling the top of the frame, with the video title in bold
+black sans-serif text on a plain white bar underneath. One example (red
+spider-web background, Spider-Man crouched) carries a repeated
+"Magnific" watermark, meaning that particular asset is AI-generated art
+(via Magnific AI) rather than an official studio image — useful to know
+if similar backgrounds need to be produced/generated for this channel.
