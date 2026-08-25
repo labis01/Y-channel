@@ -1,0 +1,226 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+  html,body{margin:0;padding:0;}
+  .frame{
+    width:1280px;height:720px;position:relative;overflow:hidden;
+    font-family:Arial,Helvetica,sans-serif;
+    background:#050505;
+  }
+  .half{ position:absolute; top:0; width:640px; height:720px; overflow:hidden; }
+  .left{ left:0; background:radial-gradient(circle at 28% 18%, #c21f1f 0%, #7a0f0f 50%, #3a0606 100%); }
+  .right{ left:640px; background:radial-gradient(circle at 72% 18%, #2f4058 0%, #151f2d 55%, #05080c 100%); }
+
+  .ruler-line{ position:absolute; left:0; right:0; height:2px; background:rgba(255,255,255,0.16); }
+  .ruler-label{
+    position:absolute; left:14px; color:rgba(255,255,255,0.45); font-size:14px; font-weight:700;
+    transform:translateY(-50%); letter-spacing:0.5px;
+  }
+  .right .ruler-label{ left:auto; right:14px; }
+
+  .web{ position:absolute; inset:0; opacity:0.28; }
+  .fog{ position:absolute; inset:0; opacity:0.5; }
+
+  .seam{
+    position:absolute; left:637px; top:0; width:6px; height:720px;
+    background:linear-gradient(to bottom, #fff, #ccc 40%, #fff 60%, #ccc 100%);
+    box-shadow:0 0 30px 6px rgba(255,255,255,0.55);
+    z-index:6;
+  }
+
+  .mask-wrap{ position:absolute; left:40px; top:50px; width:540px; height:620px; z-index:3; }
+  .holmes-wrap{ position:absolute; right:20px; top:55px; width:540px; height:615px; z-index:3; }
+
+  .vignette{
+    position:absolute; inset:0; z-index:8; pointer-events:none;
+    background:radial-gradient(ellipse at center, rgba(0,0,0,0) 45%, rgba(0,0,0,0.55) 100%);
+  }
+
+  .icon{
+    position:absolute; left:22px; bottom:22px; z-index:10;
+    width:64px; height:64px;
+  }
+
+  .thread{ position:absolute; inset:0; z-index:11; pointer-events:none; }
+</style>
+</head>
+<body>
+<div class="frame">
+
+  <div class="half left">
+    <svg class="web" viewBox="0 0 640 720" xmlns="http://www.w3.org/2000/svg">
+      <g stroke="#ffffff" stroke-width="2" fill="none">
+        <circle cx="10" cy="10" r="120"/><circle cx="10" cy="10" r="240"/><circle cx="10" cy="10" r="360"/><circle cx="10" cy="10" r="480"/><circle cx="10" cy="10" r="620"/>
+        <line x1="10" y1="10" x2="640" y2="60"/>
+        <line x1="10" y1="10" x2="640" y2="280"/>
+        <line x1="10" y1="10" x2="640" y2="520"/>
+        <line x1="10" y1="10" x2="600" y2="720"/>
+        <line x1="10" y1="10" x2="300" y2="720"/>
+        <line x1="10" y1="10" x2="30" y2="720"/>
+      </g>
+    </svg>
+
+    <div class="ruler-line" style="top:60px"></div><div class="ruler-label" style="top:60px">6'0"</div>
+    <div class="ruler-line" style="top:165px"></div><div class="ruler-label" style="top:165px">5'6"</div>
+    <div class="ruler-line" style="top:270px"></div><div class="ruler-label" style="top:270px">5'0"</div>
+    <div class="ruler-line" style="top:375px"></div><div class="ruler-label" style="top:375px">4'6"</div>
+    <div class="ruler-line" style="top:480px"></div><div class="ruler-label" style="top:480px">4'0"</div>
+    <div class="ruler-line" style="top:585px"></div><div class="ruler-label" style="top:585px">3'6"</div>
+
+    <div class="mask-wrap">
+      <svg viewBox="0 0 540 620" xmlns="http://www.w3.org/2000/svg">
+        <defs>
+          <radialGradient id="maskGrad" cx="42%" cy="30%" r="75%">
+            <stop offset="0%" stop-color="#ff4b4b"/>
+            <stop offset="55%" stop-color="#d21f1f"/>
+            <stop offset="100%" stop-color="#7c0d0d"/>
+          </radialGradient>
+          <linearGradient id="gloss" x1="0" y1="0" x2="1" y2="1">
+            <stop offset="0%" stop-color="#ffffff" stop-opacity="0.35"/>
+            <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+          </linearGradient>
+        </defs>
+        <path d="M270 30
+                 C 130 30 55 150 55 310
+                 C 55 480 150 590 270 590
+                 C 390 590 485 480 485 310
+                 C 485 150 410 30 270 30 Z"
+              fill="url(#maskGrad)" stroke="#280505" stroke-width="7"/>
+        <path d="M270 30 C 150 60 90 160 90 260 C 190 180 350 180 450 260 C 450 160 390 60 270 30 Z"
+              fill="url(#gloss)"/>
+        <g stroke="#1c0303" stroke-width="3" fill="none" opacity="0.55">
+          <path d="M270 30 C 205 150 205 470 270 590"/>
+          <path d="M270 30 C 335 150 335 470 270 590"/>
+          <path d="M95 165 C 210 208 330 208 445 165"/>
+          <path d="M68 310 C 210 344 330 344 470 310"/>
+          <path d="M95 455 C 210 412 330 412 445 455"/>
+          <path d="M270 30 C 155 82 82 228 68 310"/>
+          <path d="M270 30 C 385 82 458 228 470 310"/>
+          <path d="M270 590 C 155 538 82 394 68 310"/>
+          <path d="M270 590 C 385 538 458 394 470 310"/>
+        </g>
+        <path d="M255 295
+                 C 255 262 244 208 200 176
+                 C 152 142 98 150 87 192
+                 C 79 226 98 256 130 277
+                 C 168 302 222 310 255 295 Z"
+              fill="#fefefe" stroke="#111" stroke-width="6"/>
+        <path d="M287 295
+                 C 287 262 298 208 342 176
+                 C 390 142 444 150 455 192
+                 C 463 226 444 256 412 277
+                 C 374 302 320 310 287 295 Z"
+              fill="#fefefe" stroke="#111" stroke-width="6"/>
+        <g stroke="#111" stroke-width="3" fill="none" opacity="0.85">
+          <path d="M105 195 C 148 216 190 248 245 280"/>
+          <path d="M138 168 C 175 200 207 236 250 263"/>
+          <path d="M437 195 C 394 216 352 248 297 280"/>
+          <path d="M404 168 C 367 200 335 236 292 263"/>
+        </g>
+      </svg>
+    </div>
+  </div>
+
+  <div class="half right">
+    <svg class="fog" viewBox="0 0 640 720" xmlns="http://www.w3.org/2000/svg">
+      <g fill="#ffffff" opacity="0.06">
+        <ellipse cx="80" cy="620" rx="260" ry="70"/>
+        <ellipse cx="420" cy="680" rx="300" ry="60"/>
+        <ellipse cx="560" cy="80" rx="220" ry="50"/>
+      </g>
+    </svg>
+
+    <div class="ruler-line" style="top:60px"></div><div class="ruler-label" style="top:60px">6'0"</div>
+    <div class="ruler-line" style="top:165px"></div><div class="ruler-label" style="top:165px">5'6"</div>
+    <div class="ruler-line" style="top:270px"></div><div class="ruler-label" style="top:270px">5'0"</div>
+    <div class="ruler-line" style="top:375px"></div><div class="ruler-label" style="top:375px">4'6"</div>
+    <div class="ruler-line" style="top:480px"></div><div class="ruler-label" style="top:480px">4'0"</div>
+    <div class="ruler-line" style="top:585px"></div><div class="ruler-label" style="top:585px">3'6"</div>
+
+    <div class="holmes-wrap">
+      <svg viewBox="0 0 540 615" xmlns="http://www.w3.org/2000/svg">
+        <defs>
+          <radialGradient id="faceGrad2" cx="45%" cy="35%" r="70%">
+            <stop offset="0%" stop-color="#e9dcc8"/>
+            <stop offset="100%" stop-color="#c6b89e"/>
+          </radialGradient>
+        </defs>
+
+        <!-- popped coat/cape collar -->
+        <path d="M110 470 C 160 400 210 460 270 420 C 330 460 380 400 430 470
+                 L 460 615 L 80 615 Z" fill="#11161c"/>
+        <path d="M255 430 L 270 480 L 285 430 Z" fill="#dcdcdc"/>
+
+        <!-- neck -->
+        <rect x="240" y="380" width="60" height="70" fill="url(#faceGrad2)"/>
+
+        <!-- face -->
+        <ellipse cx="270" cy="300" rx="118" ry="145" fill="url(#faceGrad2)"/>
+
+        <!-- deerstalker hat: crown -->
+        <path d="M150 195 C 150 100 390 100 390 195 C 390 225 360 235 270 235 C 180 235 150 225 150 195 Z"
+              fill="#3a4657" stroke="#1c232c" stroke-width="4"/>
+        <!-- front brim -->
+        <path d="M150 200 C 120 195 90 210 88 232 C 120 240 155 232 168 215 Z"
+              fill="#2c3644" stroke="#1c232c" stroke-width="4"/>
+        <!-- back brim -->
+        <path d="M390 200 C 420 195 452 210 454 232 C 422 240 388 232 374 215 Z"
+              fill="#2c3644" stroke="#1c232c" stroke-width="4"/>
+        <!-- ear flaps tied on top -->
+        <path d="M240 150 L 205 68 L 262 122 Z" fill="#3a4657" stroke="#1c232c" stroke-width="3"/>
+        <path d="M300 150 L 335 68 L 278 122 Z" fill="#3a4657" stroke="#1c232c" stroke-width="3"/>
+        <!-- hat band -->
+        <path d="M150 195 C 220 218 320 218 390 195" stroke="#1c232c" stroke-width="4" fill="none"/>
+
+        <!-- strong eyebrows -->
+        <path d="M195 288 C 212 274 240 274 255 284" stroke="#2a2320" stroke-width="7" fill="none" stroke-linecap="round"/>
+        <path d="M285 284 C 300 274 328 274 345 288" stroke="#2a2320" stroke-width="7" fill="none" stroke-linecap="round"/>
+
+        <!-- sharp intense eyes -->
+        <path d="M198 305 C 210 296 236 296 250 306 C 236 316 210 316 198 305 Z" fill="#f4ede0" stroke="#241d18" stroke-width="4"/>
+        <path d="M290 306 C 304 296 330 296 342 305 C 330 316 304 316 290 306 Z" fill="#f4ede0" stroke="#241d18" stroke-width="4"/>
+        <circle cx="228" cy="305" r="7" fill="#2b3d52"/>
+        <circle cx="312" cy="305" r="7" fill="#2b3d52"/>
+
+        <!-- aquiline nose -->
+        <path d="M262 300 C 258 330 250 355 240 372 C 255 380 285 380 300 372 C 290 355 282 330 278 300 Z"
+              fill="#dccdb2" opacity="0.55"/>
+
+        <!-- sharp cheekbone shading -->
+        <path d="M175 330 C 190 350 205 365 210 385" stroke="#b8a888" stroke-width="3" fill="none" opacity="0.4"/>
+        <path d="M365 330 C 350 350 335 365 330 385" stroke="#b8a888" stroke-width="3" fill="none" opacity="0.4"/>
+
+        <!-- thin firm mouth -->
+        <path d="M235 400 C 255 408 285 408 305 400" stroke="#5c4536" stroke-width="5" fill="none" stroke-linecap="round"/>
+
+        <!-- pipe -->
+        <g>
+          <rect x="330" y="392" width="55" height="10" rx="4" fill="#4a2f1c" transform="rotate(8 330 392)"/>
+          <path d="M378 388 C 396 380 410 392 406 412 C 402 428 384 430 378 416 Z" fill="#3a2214"/>
+        </g>
+      </svg>
+    </div>
+  </div>
+
+  <!-- detective-board thread linking the two case elements -->
+  <svg class="thread" viewBox="0 0 1280 720" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="60" cy="640" r="6" fill="#c81414"/>
+    <circle cx="905" cy="160" r="6" fill="#c81414"/>
+    <path d="M60 640 C 300 540 650 270 905 160" stroke="#c81414" stroke-width="2.5" fill="none" opacity="0.75"/>
+  </svg>
+
+  <!-- magnifying glass icon, bottom-left, replaces the Death Note book from the L episode -->
+  <svg class="icon" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="26" cy="26" r="17" fill="none" stroke="#e8e8e8" stroke-width="5"/>
+    <circle cx="26" cy="26" r="17" fill="#0d1015" opacity="0.35"/>
+    <line x1="38" y1="38" x2="56" y2="56" stroke="#e8e8e8" stroke-width="6" stroke-linecap="round"/>
+  </svg>
+
+  <div class="vignette"></div>
+  <div class="seam"></div>
+
+</div>
+</body>
+</html>
