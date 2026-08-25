@@ -345,32 +345,36 @@ Video Prompt: Slow cross-dissolve cycling through the three heroic moments into 
 
 ## STATE 11 — Thumbnails (5)
 
-**Thumbnail 1**
-Concept: Spider-Man vs. L split-face mugshot, red web backdrop on the left, cool grey-blue Death Note tones on the right, height-ruler lines behind both.
+*Revised per user note: avoid replicating the source channel's exact mugshot/split-face
+template — vary composition per thumbnail, push contrast and curiosity harder, keep it
+distinct enough to read as original.*
+
+**Thumbnail 1 — Action-scale asymmetric**
+Concept: Spider-Man dominates the frame mid-swing across a night skyline, huge and dynamic; a small inset of L's face, lit by a tablet glow, sits low in the corner with a thin red targeting reticle locked onto Spider-Man from across the city.
 Text Overlay: none (timestamp badge only)
-Emotion Trigger: Curiosity + rivalry via instant dual-recognition
-Prompt: Photorealistic/anime-hybrid thumbnail, symmetrical split-face composition: Spider-Man's masked face on the left half against a red spider-web-textured mugshot backdrop with height-ruler lines, L's pale anime face on the right half against a cool grey-blue backdrop with matching ruler lines, hard vertical seam down the center, small Death Note book icon in the lower-left corner, bold white timestamp badge bottom-right, high contrast, mugshot-lineup framing.
+Emotion Trigger: Scale mismatch — a global hero being quietly targeted by one ordinary-looking guy
+Prompt: Photorealistic superhero-film-style thumbnail, dynamic wide night shot of Spider-Man swinging large and heroic across a glowing city skyline filling most of the frame, small inset panel bottom-left showing L's pale anime-style face lit by a tablet screen, a thin glowing red targeting reticle drawn from the inset toward Spider-Man's silhouette, strong warm-vs-cool color contrast, bold white timestamp badge bottom-right, no ruler lines, no mugshot backdrop.
 
-**Thumbnail 2**
-Concept: Close-up eyes-only split — Spider-Man's lens-eyes vs. L's real eyes, extreme crop for intensity.
-Text Overlay: "CAUGHT?" in bold white condensed sans-serif, upper third
-Emotion Trigger: Tension, suspense
-Prompt: Symmetrical split extreme close-up thumbnail: Spider-Man's white lens eyes on the left half, L's wide dark eyes on the right half, both cropped tight to just the eyes and brow, red web texture bleeding into cool blue-grey on the right, bold white condensed text "CAUGHT?" across the top third, harsh contrast lighting.
+**Thumbnail 2 — Extreme eye close-up with data overlay**
+Concept: Single extreme close-up on L's eye, Spider-Man's silhouette and a HUD-style probability readout reflected in the iris.
+Text Overlay: "HE ALREADY KNOWS" in bold condensed white caps, lower third
+Emotion Trigger: Unease — the target has no idea how much is already known
+Prompt: Anime-detective-thriller extreme macro close-up thumbnail on a single wide dark eye, a small sharp reflection in the iris showing Spider-Man's masked silhouette overlaid with faint glowing case-file data lines, cool blue-grey palette, dramatic underlighting, bold condensed white text "HE ALREADY KNOWS" across the lower third, bold white timestamp badge bottom-right, no split-screen, no ruler backdrop.
 
-**Thumbnail 3**
-Concept: Full mugshot-board version with both characters' entire heads and a glowing red "IDENTIFIED" stamp diagonally across the seam.
-Text Overlay: "IDENTIFIED" diagonal red stamp
-Emotion Trigger: Dread/finality
-Prompt: Split-face mugshot thumbnail, Spider-Man left half on red web backdrop, L right half on cool blue-grey backdrop, height-ruler lines behind both, a bold diagonal red "IDENTIFIED" stamp graphic overlaid across the center seam, bold white timestamp badge bottom-right, high-contrast police-lineup lighting.
+**Thumbnail 3 — Bold graphic text-forward**
+Concept: A single massive word dominates a dark color-blocked background; a small photoreal inset shows Spider-Man's mask cracking under a red diagnostic overlay.
+Text Overlay: "CAUGHT." in huge bold white/red condensed type, centered
+Emotion Trigger: Blunt finality — the outcome stated before you even click
+Prompt: Bold graphic YouTube thumbnail, huge centered white-and-red condensed text "CAUGHT." filling most of the frame against a near-black background, small photorealistic inset in the lower-right corner showing Spider-Man's mask with a faint red diagnostic scan-line overlay across it, minimal other elements, extreme text-to-image contrast, bold white timestamp badge bottom-left.
 
-**Thumbnail 4**
-Concept: Wider composition showing L's hunched full body crouched on a chair on the right, Spider-Man crouched mirroring the pose on the left, symmetrical stance mirroring tension.
+**Thumbnail 4 — Environmental stakeout**
+Concept: Wide cinematic rooftop shot — Spider-Man perched unaware in the distance, foreground silhouette of L watching from a fire escape with a faint red targeting line connecting them.
 Text Overlay: none (timestamp badge only)
-Emotion Trigger: Visual rivalry through mirrored body language
-Prompt: Symmetrical split thumbnail, Spider-Man crouched Spider-Man-pose on the left against a red web-textured mugshot backdrop, L crouched in his signature hunched sitting pose on the right against a cool blue-grey backdrop, matching height-ruler lines behind both, mirrored crouching stances creating visual tension, bold white timestamp badge bottom-right.
+Emotion Trigger: Voyeuristic tension — being watched without knowing it
+Prompt: Photorealistic superhero-film-style wide cinematic thumbnail, Spider-Man perched small and unaware on a distant rooftop under moody teal-desaturated dusk light, a silhouetted figure (L) watching from a fire escape in the foreground, a faint glowing red line connecting the two across the frame, strong depth and scale contrast, no text block, bold white timestamp badge bottom-right.
 
-**Thumbnail 5**
-Concept: Negative-space version — mostly dark/black background, only the two faces lit dramatically, spider-web cracks radiating from the seam like a shattered mugshot photo.
-Text Overlay: "9 DAYS" in bold white numerals, bottom-left
-Emotion Trigger: Urgency, ticking-clock stakes
-Prompt: Dramatic low-key split-face thumbnail on a near-black background, Spider-Man's masked face dramatically lit on the left, L's pale face dramatically lit on the right, cracked spider-web fracture lines radiating outward from the center seam like shattered glass, bold white numerals "9 DAYS" bottom-left, bold white timestamp badge bottom-right, high contrast dramatic lighting.
+**Thumbnail 5 — HUD countdown graphic**
+Concept: A giant glowing countdown numeral dominates the frame as the hero graphic, Spider-Man's silhouette barely visible behind translucent scrolling case-file data, L glimpsed only as a small reflection in a monitor corner.
+Text Overlay: "9 DAYS" as the dominant glowing HUD numeral (not a caption — it IS the graphic)
+Emotion Trigger: Ticking-clock urgency
+Prompt: Anime-detective-thriller HUD-style thumbnail, giant glowing digital numerals "9 DAYS" dominating the center of the frame like a countdown readout, Spider-Man's masked silhouette faintly visible behind translucent scrolling case-file text and data streams, a small reflection of L's face barely visible in a monitor corner bottom-left, cold blue-grey glow throughout, bold white timestamp badge bottom-right.

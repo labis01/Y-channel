@@ -266,3 +266,9 @@ transcripts and explicitly asks to refresh the lock.
 - Match style, not phrasing
 - Image prompts are grouped by complete scene/idea, not split sentence-by-sentence
 - Stay in the current state until the user replies
+- Thumbnails and visuals must never replicate the source channel's exact layout, composition
+  template, or text placement — match the underlying appeal (contrast, tension, curiosity),
+  not the literal design, so the clone reads as original and doesn't get flagged
+- Push every thumbnail concept past "on brand" toward maximum click-through: strongest
+  possible contrast, clearest emotional hook, most irresistible curiosity gap — never settle
+  for a safe/generic version of the format
