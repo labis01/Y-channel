@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Y-channel — Story Creation</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Y-channel</h1>
+    <p class="tagline">storry telling</p>
+  </header>
+
+  <main>
+    <section class="editor" aria-labelledby="editor-heading">
+      <h2 id="editor-heading">Write a story</h2>
+      <form id="story-form">
+        <input type="hidden" id="story-id">
+        <label for="story-title">Title</label>
+        <input type="text" id="story-title" placeholder="Untitled story" required>
+
+        <label for="story-tags">Tags <span class="hint">(comma-separated)</span></label>
+        <input type="text" id="story-tags" placeholder="adventure, sci-fi">
+
+        <label for="story-body">Story</label>
+        <textarea id="story-body" rows="12" placeholder="Once upon a time..." required></textarea>
+
+        <div class="actions">
+          <button type="submit" id="save-btn">Save story</button>
+          <button type="button" id="new-btn">New story</button>
+        </div>
+      </form>
+    </section>
+
+    <section class="library" aria-labelledby="library-heading">
+      <h2 id="library-heading">Your stories</h2>
+      <ul id="story-list"></ul>
+      <p id="empty-message" hidden>No stories yet. Write your first one!</p>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
