@@ -89,6 +89,28 @@ Spider-Man?" — matches `scripts/could-l-catch-spiderman.md`. Use this
 template for future video titles in the series ("Could ___ Catch
 Spider-Man?").
 
+### Channel "About" description
+
+Specular Verse's channel bio (reference):
+
+> Welcome to Specular Verse!
+>
+> We explore impossible fictional scenarios through grounded, logical
+> storytelling.
+>
+> Subscribe for original crossover stories, investigations, survival
+> scenarios, and intelligence battles.
+
+Logic Nexus's adapted version (drafted, not yet confirmed posted):
+
+> Welcome to Logic Nexus!
+>
+> We explore impossible fictional scenarios through grounded, logical
+> storytelling.
+>
+> Subscribe for detective-style investigations, crossover showdowns, and
+> deduction breakdowns between iconic characters.
+
 ### Title-card style (separate from mugshot thumbnail)
 
 Some screenshots show a second card format, likely an in-video title
