@@ -1,6 +1,6 @@
 # Project Context
 
-This repo tracks work for **Logic Nexus**, a YouTube channel created by the user
+This repo tracks work for **The Logic Nexus**, a YouTube channel created by the user
 (scalewithomo@gmail.com). Focus area: storytelling content.
 
 Update this file as the channel and workflow develop (video ideas, scripts,
@@ -101,9 +101,9 @@ Specular Verse's channel bio (reference):
 > Subscribe for original crossover stories, investigations, survival
 > scenarios, and intelligence battles.
 
-Logic Nexus's adapted version (drafted, not yet confirmed posted):
+The Logic Nexus's adapted version (drafted, not yet confirmed posted):
 
-> Welcome to Logic Nexus!
+> Welcome to The Logic Nexus!
 >
 > We explore impossible fictional scenarios through grounded, logical
 > storytelling.
