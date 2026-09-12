@@ -9,6 +9,11 @@ answer isolated questions — track the standing strategy below and enforce it.
 - **2 long-form videos/week.** Flagship "Case File" investigations (e.g. "Could L Catch X?",
   "X vs L") + a second recurring format: "What If YOU Were The Suspect?" (self-insert, not yet
   produced as of Case File 003).
+- **Minimum runtime: 20 minutes, every video, no exceptions.** Locked as of the "Faked Your Own
+  Death" script. Scripts must be written long enough to hit this at the calibrated narration pace
+  (~184 words/minute, Haven Sands, locked settings) — target ~3,700+ words minimum. Case File 003
+  (10:41) and the first draft of "Faked Your Own Death" (~10-11 min) were both under this bar and
+  are not the template going forward; expand every future script until it clears 20:00.
 - **No standalone Shorts** as new original content — but repurposing already-produced long-form
   footage into a Short afterward is fine (doesn't cost extra production time).
 - Playlist: **"Fictional Forensics"** — add every case file to it in release order.
