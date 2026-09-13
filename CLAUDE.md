@@ -97,10 +97,13 @@ mid-production; script still gets locked first either way.
 4. 3 real AI video clips per video (cold open, one mid-video "trap" beat, closing pull-back) —
    rest are stills animated with CapCut Ken Burns/keyframe zoom. It's fine to leave some stills
    fully static and lean on transitions instead if zoom keyframing is too much friction.
-   **Two images per narration beat, not one** — identified from Case File 001 as a real mistake:
-   a single still held for a full 25-40 second beat reads as static even with zoom, and likely
-   contributed to that video's steep 0:30 retention drop. Generate a different angle/composition
-   (A/B) per still beat and cut between them partway through, going forward on every video.
+   **Image count scales with narration length, not a flat number per beat** — identified from
+   Case File 001 as a real mistake: running short on generated images and reusing the same frame
+   across a long narration stretch, which reads as static and likely contributed to that video's
+   steep 0:30 retention drop. Target ~1 image per 12-15 seconds of narration for that beat (a
+   ~25s beat gets 2 images, a ~60s beat gets 4-5), cutting between variants through the beat
+   instead of parking on one frame. Plan the full image count against the locked script's word
+   count *before* generating, so you're never caught short mid-production.
 5. Free B-roll from **Pexels only** (Pixabay/Mixkit mix in premium/watermarked content, avoid).
 6. Newspaper prop — aged single flat page (not two-page spread), text added manually in Canva
    (AI garbles baked-in text), key phrases highlighted in `#F5D742` at ~75-80% opacity.
