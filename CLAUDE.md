@@ -126,7 +126,8 @@ mid-production; script still gets locked first either way.
   — keep every category/beat pointed at detection, not evasion advice.
 
 ## Case file log
-- Case File 001: Could L Catch Spider-Man? (published)
+- Case File 001: How L Would Hunt Spider-Man (published; retitled from original "Could L Catch
+  Spider-Man?")
 - Case File 002: Could L Catch Wolverine? (published)
 - Case File 003: L vs Batman: Which One Is the World's Greatest Detective? — Nexus Detection
   Score 27/60. **Published.** Live as of the following session.
