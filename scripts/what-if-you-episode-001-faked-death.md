@@ -1,9 +1,11 @@
 # What If YOU Faked Your Own Death? Could L Catch You?
 ## What If YOU Were The Suspect? — Episode 001
 
-Status: Script locked, trimmed to the revised 14-15 min target (~2,550 words, ~13.9 min at the
-calibrated Haven Sands pace, ~184 wpm). Not yet recorded — per the flexible sequencing rule in
-CLAUDE.md, narration is recorded last, once the CapCut edit is assembled.
+Status: Script locked, trimmed to the revised 14-15 min target (~2,515 words, ~13.7 min at the
+calibrated Haven Sands pace, ~184 wpm). Cold open rewritten to state the hook (L, the stakes)
+within the first ~6 seconds instead of ~20-24, per the real retention data from Case File 001
+(only 32% of viewers still watching at 0:30). Not yet recorded — per the flexible sequencing rule
+in CLAUDE.md, narration is recorded last, once the CapCut edit is assembled.
 Second-person "you" address throughout — this is the self-insert format, distinct from the
 "Could L Catch X" flagship format used in Case Files.
 
@@ -11,7 +13,7 @@ Second-person "you" address throughout — this is the self-insert format, disti
 
 **COLD OPEN**
 
-You've thought about it. Everyone has, at some point — just disappearing, starting over, letting the world believe you're gone. It's one of the oldest fantasies there is, older than any of us, showing up in folklore long before it ever showed up in a police report. Tonight, we find out what actually happens if you try it. And whether L is the kind of detective who'd notice before you've even finished planning.
+Tonight, you disappear. No body, no goodbye — just gone, the way everyone secretly imagines it at some point. Except L already has four reasons to think you're lying about being dead. And you haven't even started planning yet.
 
 **STAKES FRAMING**
 
