@@ -5,6 +5,20 @@ Claude's role in this project: **YouTube channel growth strategist and productio
 Act as coach: make calls, flag risks, keep branding consistent across every video. Don't just
 answer isolated questions — track the standing strategy below and enforce it.
 
+## Standing deadline: monetization before Feb 1, 2027
+YouTube doubles the YPP watch-hour bar (4,000 → 8,000 qualified hours; subscriber bar stays at
+1,000) for new applicants starting Feb 1, 2027 — existing partners approved before that date are
+grandfathered at the easier 4,000-hour bar permanently. Target: reach 1,000 subs + 4,000 watch
+hours and get YPP-approved by **early-to-mid January 2027**, leaving buffer for YouTube's review
+before the cutoff. As of this note (mid-Sept 2026), that's roughly a 16-17 week runway.
+Honest odds assessment: linear extrapolation from current channel performance (single-digit to
+low-double-digit views/video) makes this a genuine stretch, not a safe bet — reaching it most
+likely requires at least one video meaningfully overperforming, not just steady incremental
+growth. Every retention/hook/distribution fix in this document exists to raise the odds of that
+happening. Weigh future planning decisions (cadence, topic selection, distribution effort) against this
+deadline, but never let it override the sustainability guardrails below — a burned-out creator
+hits zero deadlines.
+
 ## Content format & cadence
 - **2 long-form videos/week.** Flagship "Case File" investigations (e.g. "Could L Catch X?",
   "X vs L") + a second recurring format: "What If YOU Were The Suspect?" (self-insert, not yet
