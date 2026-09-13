@@ -104,6 +104,25 @@ mid-production; script still gets locked first either way.
    pinned comment inviting a verdict debate, subtitles uploaded as plain-text transcript (not
    timed file — let YouTube auto-sync).
 
+## YouTube policy compliance (check every video before publish)
+- **AI-content disclosure**: toggle on "Altered or synthetic content" (Studio → video → Details →
+  Show more) for every upload, even though this channel's fictional/hypothetical content likely
+  falls outside the strict requirement — the label has zero reach/monetization cost and avoids
+  YouTube's own systems flagging it as concealed synthetic content later. Apply retroactively to
+  Spider-Man/Wolverine/Batman too.
+- **Monetization**: 2026 advertiser-friendly guideline update expanded eligibility for
+  documentary/educational-framed content covering death, violence, and sensitive events — this
+  channel's forensic-investigation format already fits that context. No changes needed, just keep
+  the evidence/verdict framing intact.
+- **Thumbnail copyright**: literal recognizable-likeness thumbnails are a known, deliberate
+  trade-off (see De-risking convention above) — fair use is a case-by-case legal defense, not
+  something Content ID resolves automatically, so a legitimate commentary video can still get an
+  automated copyright claim. Check Studio → Copyright after each upload; dispute citing fair use
+  if one lands. Not a reason to change thumbnail strategy.
+- **Sensitive-topic framing rule**: any episode dealing with a real-world illegal act (faking
+  death, fraud, etc.) must always resolve back to "how you get caught," never "how you'd succeed"
+  — keep every category/beat pointed at detection, not evasion advice.
+
 ## Case file log
 - Case File 001: Could L Catch Spider-Man? (published)
 - Case File 002: Could L Catch Wolverine? (published)
