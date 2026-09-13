@@ -76,6 +76,12 @@ other way around.
   case in real time."
 
 ## Production pipeline (per video)
+**Sequencing note:** default order is script → narration → visuals, but narration can be pushed
+back to *after the CapCut edit is assembled and ready* instead — record narration last, once the
+video is cut together, adjusted to match whatever scenes/timing actually ended up in the edit.
+This avoids the Case File 003 problem (visuals built to specs that no longer matched
+already-recorded narration). Use this flexible order whenever scenes are likely to shift
+mid-production; script still gets locked first either way.
 1. Script — retention-framework pass (curiosity gaps, re-hooks, Context→Application→Framing).
 2. ElevenLabs narration — clean text, no scene-direction/bracket labels (TTS reads labels aloud
    literally if included).
