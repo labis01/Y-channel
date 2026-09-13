@@ -102,4 +102,4 @@ other way around.
 - Case File 001: Could L Catch Spider-Man? (published)
 - Case File 002: Could L Catch Wolverine? (published)
 - Case File 003: L vs Batman: Which One Is the World's Greatest Detective? — Nexus Detection
-  Score 27/60. Fully produced this session; export finished, ready to publish.
+  Score 27/60. **Published.** Live as of the following session.
