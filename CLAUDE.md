@@ -85,6 +85,10 @@ This avoids the Case File 003 problem (visuals built to specs that no longer mat
 already-recorded narration). Use this flexible order whenever scenes are likely to shift
 mid-production; script still gets locked first either way.
 1. Script — retention-framework pass (curiosity gaps, re-hooks, Context→Application→Framing).
+   **Cold-open rule** (from real Case File 001 Studio data: only 32% of viewers were still
+   watching at 0:30 — a 68% drop before the cold open even finished making its case): state the
+   actual stakes/hook within the first 5-10 seconds, don't ease into it. Don't fix already-published
+   videos over this — apply it forward to every new script instead.
 2. ElevenLabs narration — clean text, no scene-direction/bracket labels (TTS reads labels aloud
    literally if included).
 3. Image prompts — de-risked, photorealistic, 16:9 — via Grok primarily (weekly limit exists;
