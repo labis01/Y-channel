@@ -130,6 +130,14 @@ mid-production; script still gets locked first either way.
 9. Publish package: title, human-sounding description with timestamps, tags, human-sounding
    pinned comment inviting a verdict debate, subtitles uploaded as plain-text transcript (not
    timed file — let YouTube auto-sync).
+10. Automatic dubbing (Portuguese + Spanish, targeting the fastest-growing anime-adjacent
+    markets from niche research — Brazil, Mexico) — "Allow automatic dubbing" is enabled at the
+    channel level (Settings → Channel → Advanced settings), so new uploads going forward should
+    get dubs auto-queued without any manual step. Still check the video's Languages tab a day or
+    two after publish to confirm dubs appear and approve/reject once they show "Needs review"
+    (review-before-publish is enabled). The 3 pre-existing videos (Spider-Man, Wolverine, Batman)
+    needed the dub manually triggered via Languages → Add language → Portuguese/Spanish → Audio,
+    since the channel setting didn't retroactively apply to them.
 
 ## YouTube policy compliance (check every video before publish)
 - **AI-content disclosure**: toggle on "Altered or synthetic content" (Studio → video → Details →
