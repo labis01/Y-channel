@@ -130,19 +130,29 @@ mid-production; script still gets locked first either way.
 9. Publish package: title, human-sounding description with timestamps, tags, human-sounding
    pinned comment inviting a verdict debate, subtitles uploaded as plain-text transcript (not
    timed file — let YouTube auto-sync).
-10. Automatic dubbing — **Portuguese, Spanish, Hindi, Indonesian**, targeting the fastest-growing
-    anime-adjacent markets from niche research (Brazil, Mexico, India, Indonesia). India in
-    particular is the standout market from that research (anime interest 11%→41% 2020-2025,
-    50M users, +70% YoY) — English already reaches its English-fluent segment, and Hindi
-    dubbing extends to the rest at zero extra cost. All four languages get YouTube's
-    higher-quality "Expressive Speech" tier (natural pitch/intonation), not the robotic
-    experimental tier. "Allow automatic dubbing" is enabled at the channel level (Settings →
-    Channel → Advanced settings), so new uploads going forward should get dubs auto-queued
-    without any manual step. Still check the video's Languages tab a day or two after publish to
-    confirm dubs appear and approve/reject once they show "Needs review" (review-before-publish
-    is enabled). The 3 pre-existing videos (Spider-Man, Wolverine, Batman) needed the dub
-    manually triggered via Languages → Add language → [language] → Audio, since the channel
-    setting didn't retroactively apply to them.
+10. **Automatic dubbing — UNCONFIRMED, on hold pending a real test.** Target languages when/if
+    this works: Portuguese, Spanish, Hindi, Indonesian (fastest-growing anime-adjacent markets
+    from niche research — Brazil, Mexico, India, Indonesia; India is the standout: anime interest
+    11%→41% 2020-2025, 50M users, +70% YoY). What we actually found investigating this on Case
+    File 001 (Spider-Man):
+    - "Allow automatic dubbing" IS enabled at the channel level (Settings → Channel → Advanced
+      settings), and "Feature eligibility" (a separate tab — general verification tiers for
+      upload limits/video length/live streaming/YPP application, unrelated to dubbing
+      specifically) shows fully enabled too.
+    - Despite that, opening Languages → Add language → [language] → Audio on this already-
+      published video only offered a **manual file upload** ("Select File"), not an AI-generate
+      option — meaning either automatic dubbing only processes new uploads in the background
+      with no manual trigger, or it isn't actually active yet. Unconfirmed either way.
+    - **Do not translate title/description without matching dubbed audio** — a localized title
+      that leads into English audio is a false promise to the viewer and risks hurting retention
+      (bounce from mismatched expectation), not helping it. Title/desc localization only makes
+      sense bundled with real localized audio.
+    - **The real test: Episode 001's publish.** Check its Languages tab a day or two after
+      upload — if dub languages appear on their own with no manual action, automatic dubbing is
+      confirmed working and the full package (title + description + audio, all languages) should
+      be rolled out to every video, old and new. If nothing appears, manual dubbing would require
+      actually producing translated audio files per language (e.g. via ElevenLabs) — real
+      production cost, not free — and needs a fresh cost/benefit call before pursuing further.
 
 ## YouTube policy compliance (check every video before publish)
 - **AI-content disclosure**: toggle on "Altered or synthetic content" (Studio → video → Details →
