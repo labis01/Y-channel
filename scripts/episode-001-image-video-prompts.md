@@ -133,12 +133,12 @@ map text.)
 - *A:* Close-up of a laptop screen in a dim room showing a search bar (leave text blank/blurred —
   add the actual search phrase manually in Canva after, same rule as the newspaper prop), soft
   blue glow, photorealistic, 16:9.
-- *B:* Wider angle showing hands on the keyboard, laptop glow lighting the face from below, rest
-  of the room dark, photorealistic, 16:9.
+- *B:* Wider angle from behind/over the shoulder showing hands on the keyboard and the laptop
+  glow, face not visible, rest of the room dark, photorealistic, 16:9.
 - *C:* Close-up on a coffee cup beside the laptop, its glow reflected faintly on a nearby window
   at night, photorealistic, 16:9.
-- *D:* Wide shot of the dim room from behind, laptop glow the only light source, figure hunched
-  over the keyboard, photorealistic, 16:9.
+- *D:* Wide shot of the dim room from directly behind, laptop glow the only light source, figure
+  hunched over the keyboard, back to camera, face not visible, photorealistic, 16:9.
 
 **Block 14 — Behavioral Evidence: cash withdrawal [B-ROLL — 3 clips]**
 Try Pexels first — pull 3 different clips ("ATM night," "cash withdrawal," "counting money").
