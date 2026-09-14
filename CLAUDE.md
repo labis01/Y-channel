@@ -189,6 +189,15 @@ mid-production; script still gets locked first either way.
 - Case File 002: Could L Catch Wolverine? (published)
 - Case File 003: L vs Batman: Which One Is the World's Greatest Detective? — Nexus Detection
   Score 27/60. **Published.** Live as of the following session.
+- Case File 004: Could L Catch Vought? (Vought International, the fictional conglomerate from
+  *The Boys*) — script locked, ~2,600 words/~14.1 min, Nexus Detection Score 42/60. Timely pick:
+  Death Note's 2026 Barbican musical revival (just ended Sept 12) driving renewed L/franchise
+  search interest, plus *The Boys* Season 5 ending + *Vought Rising* spinoff announcement keeping
+  Vought relevant. **Rejected alternative**: "Could L Catch Epstein?" — a real, proven-viral
+  discourse cluster in this exact niche, but rejected due to YouTube's advertiser guidelines
+  permanently excluding child-abuse-adjacent content from full monetization regardless of
+  framing, plus reputational risk (real deceased person, real living victims) — not worth it for
+  a channel building toward stable monetization. Not yet in production (images/narration).
 
 ---
 
