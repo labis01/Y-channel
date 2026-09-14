@@ -164,11 +164,12 @@ coverage, don't compress it into one or two frames.
   opposite directions, cool desaturated tones, photorealistic, 16:9.
 
 **Block 16 — L Notices [STILL — 3 images, ~44s beat]**
-**Consistency method for this block specifically**: generate variant A first, then feed that image
-back in as a reference (image-to-image / "use as reference" mode, not a fresh text-only
-generation) for B and C. This is the one block in the episode where the same identifiable
-character has to hold up across multiple shots — text-only re-prompting risks a different-looking
-"L" in each image even with identical wording.
+**Consistency method for this block specifically (ChatGPT workflow)**: generate variant A first,
+then — in that same ChatGPT conversation thread, not a new chat — ask it to generate B and C
+"using the same detective from the image you just generated," describing the new framing. Staying
+in-thread lets ChatGPT reference the image it just made instead of starting from text alone. This
+is the one block in the episode where the same identifiable character has to hold up across
+multiple shots — a fresh prompt in a new chat risks a different-looking "L" each time.
 - *A (generate first, use as reference for B/C):* The pale detective — slight build, messy dark
   hair, pale skin, dark circles under the eyes, hunched/crouched posture, plain long-sleeved top —
   sitting hunched in a crouched position at a desk covered in case files and photographs pinned to
