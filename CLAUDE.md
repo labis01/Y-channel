@@ -185,9 +185,12 @@ mid-production; script still gets locked first either way.
 # Second channel: Harper Lane Films
 
 Status: branded, not yet in production. Separate channel from The Logic Nexus, same strategist
-role applies once this becomes active. Sequencing decision (parallel with Logic Nexus's Jan 2027
-push, or sequenced after Episode 001 ships) — **still pending, ask before investing further
-production time here.**
+role applies once this becomes active.
+**Sequencing decision — locked:** Logic Nexus keeps its cadence and priority (it has the hard
+Jan 2027 deadline). Harper Lane Films runs as a slower-burn side project worked on in the gaps
+between Logic Nexus uploads — no fixed deadline, no competing cadence, focus on getting one
+story/hook genuinely right rather than rushing to publish, consistent with the reference
+channel's hit-rate-over-volume economics (6 videos → 40.9K subs).
 
 ## Format
 Full-length AI-generated dramatic films/series ("complete movie" uploads), not recaps or
