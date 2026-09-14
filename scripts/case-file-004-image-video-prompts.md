@@ -168,9 +168,14 @@ Cinematic slow push-in, a corporate media control room at night, screens flicker
 updates, tense atmosphere, cool desaturated noir tones, photorealistic, 16:9.
 
 **Block 22 — The Trap: analyzing the correction [STILL — 3 images]**
-- *A:* The pale detective (same character anchor) studying two documents side by side under a
+**Consistency note**: generate A first, then stay in the same thread and reference it for B —
+same method as Block 2 and Episode 001's Block 16. C has no person in frame, so no reference
+needed there.
+- *A (generate first):* The pale detective — slight build, messy dark hair, pale skin, dark
+  circles under the eyes, plain long-sleeved top — studying two documents side by side under a
   desk lamp, photorealistic, 16:9.
-- *B:* Close-up on his hand circling a discrepancy on one of the documents, photorealistic, 16:9.
+- *B:* Same detective from the image just generated — close-up on his hand circling a discrepancy
+  on one of the documents, photorealistic, 16:9.
 - *C:* Wide shot of the desk covered in documents and case photos, single overhead light,
   photorealistic, cool tones, 16:9.
 
