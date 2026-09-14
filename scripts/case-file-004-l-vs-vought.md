@@ -13,7 +13,7 @@ visual references to the show's specific costumes/logos.
 
 **COLD OPEN**
 
-A corporation buries a body tonight. Not literally — Vought doesn't need to. It has lawyers for that, PR teams for that, a media division built for exactly this moment. And somewhere across the world, L just opened a case file on the single hardest kind of suspect he's ever investigated: one that's never, technically, alone.
+Tonight, a corporation buries a body — without a shovel. Just a lawyer, a PR team, and a media division built for this exact moment. L already has the file open. And this might be the hardest suspect he's ever chased — one that's never, technically, alone in the room.
 
 **STAKES FRAMING**
 
