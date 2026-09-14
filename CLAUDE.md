@@ -179,3 +179,43 @@ mid-production; script still gets locked first either way.
 - Case File 002: Could L Catch Wolverine? (published)
 - Case File 003: L vs Batman: Which One Is the World's Greatest Detective? — Nexus Detection
   Score 27/60. **Published.** Live as of the following session.
+
+---
+
+# Second channel: Harper Lane Films
+
+Status: branded, not yet in production. Separate channel from The Logic Nexus, same strategist
+role applies once this becomes active. Sequencing decision (parallel with Logic Nexus's Jan 2027
+push, or sequenced after Episode 001 ships) — **still pending, ask before investing further
+production time here.**
+
+## Format
+Full-length AI-generated dramatic films/series ("complete movie" uploads), not recaps or
+analysis. Genre: Black/African-American relationship and family drama — betrayal, loss,
+survival, rebuilding. Dialogue-driven between multiple characters, not single-narrator
+investigative format like Logic Nexus.
+
+## Reference channel: Grace Studios (@Gracestudios.x — youtube.com/@Gracestudios.x)
+Outlier video studied: **"BEFORE I LET YOU GO | THE COMPLETE MOVIE"** ("Before I Let Go: A Grace
+Studios Original") — 1,921,903 views (as of session date), published Jul 26, 2026. Logline: Imani,
+a woman who gave everything to a marriage that was destroying her — betrayal, a devastating loss,
+and the choice to rebuild. Labeled **"Made with AI"** by YouTube — confirms this is AI-generated
+(image/video + narration/voice), not live-action filming, making it achievable with a similar
+toolkit to Logic Nexus's, just scaled up.
+
+## Key production differences from Logic Nexus (not yet solved — plan before producing)
+- **Runtime**: likely 60-120+ minutes ("complete series" compiled into one video), not 14-15 min.
+- **Multiple character voices**: dialogue between several named characters (e.g. Imani, husband,
+  best friend), not one locked narrator voice — needs multiple ElevenLabs voices, not just Haven
+  Sands.
+- **Character visual consistency across a full story**: the same character has to look
+  recognizably like themselves across many scenes — harder than Logic Nexus's generic/anonymous
+  or franchise-reused descriptors.
+- **Script**: a real dramatic story arc (betrayal/loss/rebuilding structure), not an
+  evidence-based investigation structure — different writing skillset from Logic Nexus scripts.
+
+## Open questions before real production planning
+- Parallel with Logic Nexus now, or sequenced after Episode 001 (+ maybe more Case Files) ships?
+- Full story/script concept for Harper Lane Films' first video — not yet chosen.
+- Tool stack for multi-character AI video consistency and multi-voice narration — not yet
+  researched/locked.
