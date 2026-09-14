@@ -8,9 +8,10 @@ answer isolated questions — track the standing strategy below and enforce it.
 ## Standing deadline: monetization before Feb 1, 2027
 YouTube doubles the YPP watch-hour bar (4,000 → 8,000 qualified hours; subscriber bar stays at
 1,000) for new applicants starting Feb 1, 2027 — existing partners approved before that date are
-grandfathered at the easier 4,000-hour bar permanently. Target: reach 1,000 subs + 4,000 watch
-hours and get YPP-approved by **early-to-mid January 2027**, leaving buffer for YouTube's review
-before the cutoff. As of this note (mid-Sept 2026), that's roughly a 16-17 week runway.
+grandfathered at the easier 4,000-hour bar permanently. Target: reach 1,000 subs + 4,000 watch hours and get YPP-approved **before January 2027** (i.e.
+by end of December 2026) — the user's explicit preference, tighter than the minimum "before Feb 1"
+requirement, to leave real buffer for YouTube's review. As of this note (mid-Sept 2026), that's
+roughly a 14-15 week runway.
 Honest odds assessment: linear extrapolation from current channel performance (single-digit to
 low-double-digit views/video) makes this a genuine stretch, not a safe bet — reaching it most
 likely requires at least one video meaningfully overperforming, not just steady incremental
