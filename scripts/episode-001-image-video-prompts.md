@@ -164,12 +164,20 @@ coverage, don't compress it into one or two frames.
   opposite directions, cool desaturated tones, photorealistic, 16:9.
 
 **Block 16 — L Notices [STILL — 3 images, ~44s beat]**
-- *A:* The pale detective, hunched in a crouched sitting position at a desk covered in case files
-  and photographs pinned to a board behind him, single overhead light, cool noir tones,
-  photorealistic, 16:9.
-- *B:* Close-up on the case board itself — photos and string connecting them, detective's hand
-  reaching into frame to pin a new note, photorealistic, 16:9.
-- *C:* Close-up on a hand writing or circling something on a case file page, overhead light,
+**Consistency method for this block specifically**: generate variant A first, then feed that image
+back in as a reference (image-to-image / "use as reference" mode, not a fresh text-only
+generation) for B and C. This is the one block in the episode where the same identifiable
+character has to hold up across multiple shots — text-only re-prompting risks a different-looking
+"L" in each image even with identical wording.
+- *A (generate first, use as reference for B/C):* The pale detective — slight build, messy dark
+  hair, pale skin, dark circles under the eyes, hunched/crouched posture, plain long-sleeved top —
+  sitting hunched in a crouched position at a desk covered in case files and photographs pinned to
+  a board behind him, single overhead light, cool noir tones, photorealistic, 16:9.
+- *B:* Same detective as reference — slight build, messy dark hair, pale skin, dark circles under
+  the eyes, plain long-sleeved top — close-up on his hand reaching into frame to pin a new note on
+  the case board, photos and string visible behind, photorealistic, 16:9.
+- *C:* Same detective as reference — pale skin, dark circles under the eyes, plain long-sleeved
+  top — close-up on his hand writing/circling something on a case file page, overhead light,
   photorealistic, 16:9.
 
 **Block 17 — The Trap, first attempt: the leaked headline [STILL — 3 images, ~45s beat]**
@@ -224,6 +232,12 @@ blue-grey desaturated grade, photorealistic, 16:9.
 ---
 
 ## Notes
+- **Character consistency**: most blocks are low-risk by design (hands-only, silhouette, no face,
+  or no person at all), so slight drift between separate generations won't register as a
+  continuity error. Block 16 is the exception — same identifiable character (L) across 3 shots —
+  use image-to-image with variant A as the reference for B/C, not 3 independent text generations.
+  Apply this same method to any future block depicting a specific recurring character across
+  multiple images.
 - 3 real motion clips: Block 1 (cold open), Block 18 (trap beat), Block 23 (closing pull-back) —
   matches the locked production rule. Everything else is a still sequence with Ken
   Burns/keyframe zoom, cutting between variants through the beat — or static + transition if zoom

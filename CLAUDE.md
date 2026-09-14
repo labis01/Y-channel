@@ -119,6 +119,15 @@ mid-production; script still gets locked first either way.
    ~25s beat gets 2 images, a ~60s beat gets 4-5), cutting between variants through the beat
    instead of parking on one frame. Plan the full image count against the locked script's word
    count *before* generating, so you're never caught short mid-production.
+4b. **Character consistency across multiple images of the same block**: identified as a gap on
+   Episode 001 — character anchor descriptions defined once at the top of a prompt list don't
+   carry into individual prompts unless restated, and text-only re-prompting risks a
+   different-looking character each generation even with identical wording. Most shots are
+   low-risk by design (hands-only/silhouette/no face — a deliberate choice that also sidesteps
+   this problem). For any block showing the *same identifiable character* across multiple image
+   variants (e.g. L at his desk), generate the first image, then use it as an image-to-image
+   reference for the rest of that block's variants — don't generate them as independent
+   text-only prompts.
 5. Free B-roll from **Pexels only** (Pixabay/Mixkit mix in premium/watermarked content, avoid).
 6. Newspaper prop — aged single flat page (not two-page spread), text added manually in Canva
    (AI garbles baked-in text), key phrases highlighted in `#F5D742` at ~75-80% opacity.
