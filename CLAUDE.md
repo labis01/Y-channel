@@ -130,14 +130,19 @@ mid-production; script still gets locked first either way.
 9. Publish package: title, human-sounding description with timestamps, tags, human-sounding
    pinned comment inviting a verdict debate, subtitles uploaded as plain-text transcript (not
    timed file — let YouTube auto-sync).
-10. Automatic dubbing (Portuguese + Spanish, targeting the fastest-growing anime-adjacent
-    markets from niche research — Brazil, Mexico) — "Allow automatic dubbing" is enabled at the
-    channel level (Settings → Channel → Advanced settings), so new uploads going forward should
-    get dubs auto-queued without any manual step. Still check the video's Languages tab a day or
-    two after publish to confirm dubs appear and approve/reject once they show "Needs review"
-    (review-before-publish is enabled). The 3 pre-existing videos (Spider-Man, Wolverine, Batman)
-    needed the dub manually triggered via Languages → Add language → Portuguese/Spanish → Audio,
-    since the channel setting didn't retroactively apply to them.
+10. Automatic dubbing — **Portuguese, Spanish, Hindi, Indonesian**, targeting the fastest-growing
+    anime-adjacent markets from niche research (Brazil, Mexico, India, Indonesia). India in
+    particular is the standout market from that research (anime interest 11%→41% 2020-2025,
+    50M users, +70% YoY) — English already reaches its English-fluent segment, and Hindi
+    dubbing extends to the rest at zero extra cost. All four languages get YouTube's
+    higher-quality "Expressive Speech" tier (natural pitch/intonation), not the robotic
+    experimental tier. "Allow automatic dubbing" is enabled at the channel level (Settings →
+    Channel → Advanced settings), so new uploads going forward should get dubs auto-queued
+    without any manual step. Still check the video's Languages tab a day or two after publish to
+    confirm dubs appear and approve/reject once they show "Needs review" (review-before-publish
+    is enabled). The 3 pre-existing videos (Spider-Man, Wolverine, Batman) needed the dub
+    manually triggered via Languages → Add language → [language] → Audio, since the channel
+    setting didn't retroactively apply to them.
 
 ## YouTube policy compliance (check every video before publish)
 - **AI-content disclosure**: toggle on "Altered or synthetic content" (Studio → video → Details →
