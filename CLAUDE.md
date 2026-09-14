@@ -196,12 +196,21 @@ survival, rebuilding. Dialogue-driven between multiple characters, not single-na
 investigative format like Logic Nexus.
 
 ## Reference channel: Grace Studios (@Gracestudios.x — youtube.com/@Gracestudios.x)
+**Only 6 videos total, 40.9K subscribers** — an extremely high hit-rate channel, growth almost
+certainly concentrated in 1-2 outlier videos rather than built from cadence/volume the way Logic
+Nexus's strategy is. Channel bio/tagline (useful branding reference for Harper Lane Films):
+"STORIES THAT INSPIRE. CINEMA REIMAGINED WITH AI." / "AI Storytelling | Original Films |
+Cinematic AI Filmmaking."
 Outlier video studied: **"BEFORE I LET YOU GO | THE COMPLETE MOVIE"** ("Before I Let Go: A Grace
 Studios Original") — 1,921,903 views (as of session date), published Jul 26, 2026. Logline: Imani,
 a woman who gave everything to a marriage that was destroying her — betrayal, a devastating loss,
 and the choice to rebuild. Labeled **"Made with AI"** by YouTube — confirms this is AI-generated
 (image/video + narration/voice), not live-action filming, making it achievable with a similar
 toolkit to Logic Nexus's, just scaled up.
+**Strategic implication**: this format's economics reward story/hook quality over sustained
+cadence — a different growth model from Logic Nexus's 2x/week grind. One exceptional video can
+outperform months of steady output. Worth factoring into the parallel-vs-sequenced decision: this
+may not require the same twice-weekly commitment Logic Nexus does to pay off.
 
 ## Key production differences from Logic Nexus (not yet solved — plan before producing)
 - **Runtime**: likely 60-120+ minutes ("complete series" compiled into one video), not 14-15 min.
