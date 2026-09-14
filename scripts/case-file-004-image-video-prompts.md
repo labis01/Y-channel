@@ -34,9 +34,8 @@ Grok/Gemini/Bing/Canva Magic Media/ChatGPT from the start, same resourcing note 
 ---
 
 **Block 1 — Cold Open [VIDEO — clip 1 of 3]**
-Cinematic shot, a dark corporate skyscraper at night, a single lit office window near the top
-floor, slow drone-style push-in toward the tower, cool blue-grey desaturated grade, moody
-atmospheric lighting, photorealistic, 16:9.
+Dark corporate skyscraper at night, one lit window near the top floor. Slow drone push-in toward
+the tower. Cool blue-grey grade, photorealistic, 16:9.
 
 **Block 2 — Stakes Framing: L opens the file [STILL — 3 images]**
 - *A:* The pale detective — slight build, messy dark hair, pale skin, dark circles under the
@@ -164,8 +163,8 @@ Behavioral), matches badge color palette. No AI image needed.
   desaturated tones, photorealistic, 16:9.
 
 **Block 21 — The Trap: the response unfolds [VIDEO — clip 2 of 3]**
-Cinematic slow push-in, a corporate media control room at night, screens flickering rapid
-updates, tense atmosphere, cool desaturated noir tones, photorealistic, 16:9.
+Corporate media control room at night, screens flickering rapid updates. Slow push-in. Tense,
+cool desaturated tones, photorealistic, 16:9.
 
 **Block 22 — The Trap: analyzing the correction [STILL — 3 images]**
 **Consistency note**: generate A first, then stay in the same thread and reference it for B —
@@ -205,8 +204,8 @@ Control 9, Adaptive Response 7, Resource & Network Advantage 9 — Total 42/60.
 Header: "Case File 004 · Could L Catch Vought?"
 
 **Block 27 — Closing Pull-Back [VIDEO — clip 3 of 3]**
-Cinematic slow pull-back/rising shot above a dark city skyline at night, the corporate tower from
-Block 1 shrinking into the skyline, cool blue-grey desaturated grade, photorealistic, 16:9.
+Dark city skyline at night, one tower among many. Slow rising pull-back, the tower shrinking into
+the skyline. Cool blue-grey grade, photorealistic, 16:9.
 
 ---
 
