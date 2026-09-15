@@ -47,14 +47,16 @@ the tower. Cool blue-grey grade, photorealistic, 16:9.
 - *C:* Same detective as reference — close-up on his face partially lit by a desk lamp, thoughtful
   expression, rest of the room dark, photorealistic, 16:9.
 
-**Block 3 — Stakes Framing: the decentralized conspiracy [STILL — 3 images]**
-- *A:* Wide shot of an empty, vast corporate boardroom at night, dozens of empty chairs around a
-  long table, city lights visible through floor-to-ceiling windows, photorealistic, cool tones,
-  16:9.
+**Block 3 — Stakes Framing: the decentralized conspiracy [B-ROLL + STILL — 3 images]**
+- *A [B-ROLL, fallback STILL]:* Try Pexels first ("corporate boardroom night," "office lobby
+  night"). Fallback prompt: Wide shot of an empty, vast corporate boardroom at night, dozens of
+  empty chairs around a long table, city lights visible through floor-to-ceiling windows,
+  photorealistic, cool tones, 16:9.
 - *B:* Close-up on a corporate org chart pinned to a board, dozens of small boxes and connecting
   lines, no legible text, photorealistic, 16:9.
-- *C:* Wide shot of a corporate lobby at night, empty, a single security desk lit, photorealistic,
-  cool desaturated tones, 16:9.
+- *C [B-ROLL, fallback STILL]:* Try Pexels first ("office lobby night," "empty corporate lobby").
+  Fallback prompt: Wide shot of a corporate lobby at night, empty, a single security desk lit,
+  photorealistic, cool desaturated tones, 16:9.
 
 **Block 4 — The Setup: three categories [GRAPHIC]**
 Build in Canva — case file folder graphic with three labeled tabs (Physical / Digital /
@@ -84,13 +86,15 @@ Behavioral), matches badge color palette. No AI image needed.
 - *B:* Wide shot of a records room, endless filing cabinets, single overhead light,
   photorealistic, cool tones, 16:9.
 
-**Block 9 — Digital Problem: the media noise [STILL — 3 images]**
-- *A:* A wall of screens in a media control room, dozens of news broadcasts playing at once,
-  photorealistic, cool blue glow, 16:9.
+**Block 9 — Digital Problem: the media noise [B-ROLL + STILL — 3 images]**
+- *A [B-ROLL, fallback STILL]:* Try Pexels first ("news control room," "broadcast studio
+  monitors"). Fallback prompt: A wall of screens in a media control room, dozens of news
+  broadcasts playing at once, photorealistic, cool blue glow, 16:9.
 - *B:* Close-up on one screen showing a generic press release layout (leave text blank/blurred),
   photorealistic, 16:9.
-- *C:* Wide shot of an empty press briefing room, podium lit, rows of empty chairs,
-  photorealistic, cool tones, 16:9.
+- *C [B-ROLL, fallback STILL]:* Try Pexels first ("press conference room empty," "podium press
+  briefing"). Fallback prompt: Wide shot of an empty press briefing room, podium lit, rows of
+  empty chairs, photorealistic, cool tones, 16:9.
 
 **Block 10 — Digital Problem: the too-fast statement [STILL — 2 images]**
 - *A:* Close-up of a clock or timestamp graphic beside a laptop screen showing a finished
@@ -98,10 +102,11 @@ Behavioral), matches badge color palette. No AI image needed.
 - *B:* Over-the-shoulder shot of someone reading a polished statement on a screen, face out of
   focus, photorealistic, 16:9.
 
-**Block 11 — Digital Problem: the deletion pattern [STILL — 3 images]**
+**Block 11 — Digital Problem: the deletion pattern [B-ROLL + STILL — 3 images]**
 - *A:* Close-up of a computer screen showing a file directory with several entries greyed out/
   missing, dim blue glow, photorealistic, 16:9.
-- *B:* Wide shot of a server room at night, rows of blinking server racks, cool tones,
+- *B [B-ROLL, fallback STILL]:* Try Pexels first ("server room," "data center racks"). Fallback
+  prompt: Wide shot of a server room at night, rows of blinking server racks, cool tones,
   photorealistic, 16:9.
 - *C:* Close-up on hands typing quickly on a keyboard, screen glow lighting them from below,
   photorealistic, 16:9.
@@ -112,10 +117,13 @@ Behavioral), matches badge color palette. No AI image needed.
 - *B:* Wide shot of a bank of filing boxes labeled with generic subsidiary names, dim warehouse
   lighting, photorealistic, 16:9.
 
-**Block 13 — Behavioral Evidence: the crisis statement [STILL — 2 images]**
-- *A:* A corporate spokesperson at a podium mid-statement, press flashes visible, photorealistic,
-  cool tones, 16:9.
-- *B:* Wide shot of the press room from the back, rows of journalists, photorealistic, 16:9.
+**Block 13 — Behavioral Evidence: the crisis statement [B-ROLL + STILL — 2 images]**
+- *A [B-ROLL, fallback STILL]:* Try Pexels first ("press conference speech," "podium press
+  statement"). Fallback prompt: A corporate spokesperson at a podium mid-statement, press flashes
+  visible, photorealistic, cool tones, 16:9.
+- *B [B-ROLL, fallback STILL]:* Try Pexels first ("journalists press room," "reporters at press
+  conference"). Fallback prompt: Wide shot of the press room from the back, rows of journalists,
+  photorealistic, 16:9.
 
 **Block 14 — Behavioral Evidence: the reframe [STILL — 3 images]**
 - *A:* Close-up of a TV screen showing a generic "hero" headline graphic (leave text blank),
