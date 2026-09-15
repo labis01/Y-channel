@@ -144,23 +144,35 @@ mid-production; script still gets locked first either way.
    watching at 0:30 — a 68% drop before the cold open even finished making its case): state the
    actual stakes/hook within the first 5-10 seconds, don't ease into it. Don't fix already-published
    videos over this — apply it forward to every new script instead.
-1b. **Declarative present tense, not hedged conditional** — from a direct A/B transcript comparison
-   of Specular Verse's outlier ("Could L Catch Spider-Man?", 394K views) vs. their weakest video
-   ("Could L Catch The Joker?", 20K views), Sept 2026. The weak video hedges almost every sentence
-   ("L would...", "Joker could...") — reads as a speculative essay. The outlier commits to flat
-   present tense as if reporting fact ("L pulls up a digital map," "Peter walks through the door")
-   even though it's equally hypothetical — reads as cinematic, not academic, and lands a crisp,
-   quotable verdict ("2 weeks, 3 weeks upper limit") instead of a trailing hedge. Write "L does X,"
-   never "L would do X." Other traits the outlier has that the weak video doesn't:
-   - Cold open drops into a concrete scene with a physical object/sensory detail, never an abstract
-     thesis-statement opening (the weak video opened with pure methodology commentary — no scene).
-   - Invents specific, concrete "evidence" (an exact time, a hacked test score, a named location)
-     rather than staying generic — makes fictional deduction feel tangible.
-   - Targets with a personal identity-reveal payoff (unmasking a named person) outperform pure
-     logistics/chase structures with no personal stakes. **Direct implication for any non-person
-     target (Vought, or future organization/institution picks)**: the verdict needs an equivalent
-     payoff beat — narrowing to a specific person/role, not just "the pattern was real" — or the
-     ending risks landing as hedged as the weak Joker example instead of as a punch.
+1b. **Declarative present tense, not hedged conditional** — from a direct transcript comparison of
+   three Specular Verse videos, Sept 2026: the outlier ("Could L Catch Spider-Man?", 394K), the
+   #2 performer ("Could L Catch Dexter Morgan?", 240K), and the weakest video ("Could L Catch The
+   Joker?", 20K). The weak video hedges almost every sentence ("L would...", "Joker could...") —
+   reads as a speculative essay. Both strong videos commit to flat present tense as if reporting
+   fact ("L pulls up a digital map," "Dexter checks the evidence system") even though it's equally
+   hypothetical — reads as cinematic, not academic, and lands a crisp, quotable verdict instead of
+   a trailing hedge. Write "L does X," never "L would do X." Other traits shared by both strong
+   videos, absent from the weak one:
+   - Cold open drops into something concrete and specific in the first line — a physical object
+     (Spider-Man) or an ironic setup stated as fact (Dexter: "Dexter Morgan has one of the best
+     hiding places a serial killer could ask for") — never an abstract thesis-statement opening
+     (the weak video opened with pure methodology commentary — no scene, no specific stakes).
+   - Invents specific, concrete "evidence" (an exact time, a hacked test score, a named coffee
+     shop, a planted suspect's file) rather than staying generic — makes fictional deduction feel
+     tangible.
+   - **Sustained dual-agency, not a one-way lecture — the real driver, corrected from an earlier
+     wrong guess.** Originally flagged this as "needs a personal identity-reveal payoff," but the
+     Dexter video disproves that: Dexter is a known character the whole time, no unmasking, yet
+     it's the #2 performer. What both strong videos actually share is the *target* getting real
+     on-screen countermoves — Dexter runs counter-surveillance on L, pauses his kills, frames a
+     decoy, nearly escapes; Spider-Man notices the trap and goes dark — dramatized from both
+     sides, not just narrated as "L investigates." The weak video never dramatizes Joker actually
+     deciding anything in a scene, despite constant "Joker would..." language — it stays
+     one-directional. **Direct implication for Case File 004 (Vought)**: the current script's
+     countermoves ("VOUGHT NOTICES," legal/PR response) are institutional and abstract, not a
+     named person actively scheming and adapting on-screen. Worth a look before narration locks in
+     — even one beat where a specific individual inside Vought makes a visible, in-scene decision
+     to counter L would close this gap, more so than a bigger "verdict" reveal.
 2. ElevenLabs narration — clean text, no scene-direction/bracket labels (TTS reads labels aloud
    literally if included).
 3. Image prompts — de-risked, photorealistic, 16:9 — via Grok primarily (weekly limit exists;
