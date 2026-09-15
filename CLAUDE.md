@@ -134,6 +134,17 @@ mid-production; script still gets locked first either way.
 7. Thumbnail — split-face composite (two separately-generated portrait images, cropped to each
    half, matched in scale via crop-mode zoom before cropping), bold title text positioned to keep
    both subjects' eyes visible, Nexus Detection Score badge in a corner. 1280×720.
+   **When the video's other subject has no single face** (an organization, a self-insert "You,"
+   etc.) — pair L's portrait with a symbolic/scene image instead of forcing a second face (e.g.
+   Case File 004: L + the corporate tower from the cold open/closing shots).
+   **Locked L thumbnail portrait prompt** (separate from the body-scene character anchor — this
+   one needs much more facial detail for close-up thumbnail use): "Extreme close-up portrait, a
+   gaunt pale detective's face — messy unkempt dark hair falling loosely over his forehead,
+   sickly pale skin, deep dark circles under intense focused eyes staring directly into the
+   camera, plain dark collar barely visible at the bottom of frame, dramatic single-source side
+   lighting, moody noir shadows, shallow depth of field, photorealistic, portrait orientation."
+   Generate in portrait/square orientation, not 16:9 — it needs to crop cleanly into one half of
+   the 1280×720 thumbnail. Reuse this exact prompt for every future thumbnail's L portrait.
 8. CapCut edit: narration audio as backbone track, hard cuts as default (reserve flashy
    transitions for 2-3 key beats only, not every cut), subtle cool-toned desaturated color grade
    (Temperature -5 to -10, Saturation -10 to -15, Contrast +10 to +15) for noir consistency.
