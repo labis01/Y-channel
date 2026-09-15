@@ -205,6 +205,16 @@ needed there.
 - *C:* Wide shot of the empty executive floor, city lights through windows behind, photorealistic,
   cool desaturated tones, 16:9.
 
+**Thumbnail asset — corporate tower (right half) [STILL, generated ✓]**
+Dedicated thumbnail-only still, separate from Block 1/27's video prompts (those are landscape
+motion clips and won't crop cleanly into a vertical thumbnail half). Generated in portrait
+orientation, dramatic low-angle looking up, one lit window near the top, moody dark blue-black
+grade, glass lobby glow at the base — locked as the reused right-half thumbnail asset for Case
+File 004, same treatment as L's reused portrait on the left half.
+Prompt: "A dark corporate skyscraper at night, dramatic low-angle view looking up toward the top
+floors, one lit window visible high up, faint haze in the night sky, cool blue-grey desaturated
+grade, moody high-contrast lighting, photorealistic, portrait orientation."
+
 **Block 26 — Final Verdict: Nexus Detection Score [GRAPHIC — existing template]**
 Reuse the locked scorecard template. Update for this episode:
 Physical Evidence Trail 3, Digital Footprint 6, Behavioral Pattern Consistency 8, Environmental
