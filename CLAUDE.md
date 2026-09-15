@@ -131,12 +131,15 @@ mid-production; script still gets locked first either way.
 5. Free B-roll from **Pexels only** (Pixabay/Mixkit mix in premium/watermarked content, avoid).
 6. Newspaper prop — aged single flat page (not two-page spread), text added manually in Canva
    (AI garbles baked-in text), key phrases highlighted in `#F5D742` at ~75-80% opacity.
-7. Thumbnail — split-face composite (two separately-generated portrait images, cropped to each
-   half, matched in scale via crop-mode zoom before cropping), bold title text positioned to keep
-   both subjects' eyes visible, Nexus Detection Score badge in a corner. 1280×720.
+7. Thumbnail — **split-screen composite is the permanent format for every future video, no
+   exceptions.** Two halves, always: L's portrait on one side, the other subject on the other
+   side. Cropped to each half, matched in scale via crop-mode zoom before cropping, bold title
+   text positioned to keep both sides' focal points visible, Nexus Detection Score badge in a
+   corner. 1280×720.
    **When the video's other subject has no single face** (an organization, a self-insert "You,"
-   etc.) — pair L's portrait with a symbolic/scene image instead of forcing a second face (e.g.
-   Case File 004: L + the corporate tower from the cold open/closing shots).
+   etc.) — the other half becomes a symbolic/scene image instead of a second face (e.g. Case File
+   004: L + the corporate tower from the cold open/closing shots). The split-screen structure
+   itself never changes — only what fills the non-L half does.
    **Locked L thumbnail portrait prompt** (separate from the body-scene character anchor — this
    one needs much more facial detail for close-up thumbnail use): "Extreme close-up portrait, a
    gaunt pale detective's face — messy unkempt dark hair falling loosely over his forehead,
