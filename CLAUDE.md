@@ -144,6 +144,23 @@ mid-production; script still gets locked first either way.
    watching at 0:30 — a 68% drop before the cold open even finished making its case): state the
    actual stakes/hook within the first 5-10 seconds, don't ease into it. Don't fix already-published
    videos over this — apply it forward to every new script instead.
+1b. **Declarative present tense, not hedged conditional** — from a direct A/B transcript comparison
+   of Specular Verse's outlier ("Could L Catch Spider-Man?", 394K views) vs. their weakest video
+   ("Could L Catch The Joker?", 20K views), Sept 2026. The weak video hedges almost every sentence
+   ("L would...", "Joker could...") — reads as a speculative essay. The outlier commits to flat
+   present tense as if reporting fact ("L pulls up a digital map," "Peter walks through the door")
+   even though it's equally hypothetical — reads as cinematic, not academic, and lands a crisp,
+   quotable verdict ("2 weeks, 3 weeks upper limit") instead of a trailing hedge. Write "L does X,"
+   never "L would do X." Other traits the outlier has that the weak video doesn't:
+   - Cold open drops into a concrete scene with a physical object/sensory detail, never an abstract
+     thesis-statement opening (the weak video opened with pure methodology commentary — no scene).
+   - Invents specific, concrete "evidence" (an exact time, a hacked test score, a named location)
+     rather than staying generic — makes fictional deduction feel tangible.
+   - Targets with a personal identity-reveal payoff (unmasking a named person) outperform pure
+     logistics/chase structures with no personal stakes. **Direct implication for any non-person
+     target (Vought, or future organization/institution picks)**: the verdict needs an equivalent
+     payoff beat — narrowing to a specific person/role, not just "the pattern was real" — or the
+     ending risks landing as hedged as the weak Joker example instead of as a punch.
 2. ElevenLabs narration — clean text, no scene-direction/bracket labels (TTS reads labels aloud
    literally if included).
 3. Image prompts — de-risked, photorealistic, 16:9 — via Grok primarily (weekly limit exists;
