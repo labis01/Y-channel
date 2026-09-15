@@ -144,24 +144,26 @@ mid-production; script still gets locked first either way.
    watching at 0:30 — a 68% drop before the cold open even finished making its case): state the
    actual stakes/hook within the first 5-10 seconds, don't ease into it. Don't fix already-published
    videos over this — apply it forward to every new script instead.
-1b. **Two independent drivers, not one — from a 6-video transcript comparison**, Sept 2026: the
-   outlier ("Could L Catch Spider-Man?", 394K), #2 ("Could L Catch Dexter Morgan?", 240K), #4
-   ("Could L Catch Batman?", 71K), #5 ("Could L Outsmart Jigsaw?", 46K), #6 ("Could Dexter Catch
-   Light Yagami?", 37K), and the weakest video ("Could L Catch The Joker?", 20K). The two factors
+1b. **Two independent drivers, not one — from a 7-video transcript comparison**, Sept 2026: the
+   outlier ("Could L Catch Spider-Man?", 394K), #2 ("Could L Catch Dexter Morgan?", 240K), #3
+   ("Could Batman Catch Spider-Man?", 111K), #4 ("Could L Catch Batman?", 71K), #5 ("Could L
+   Outsmart Jigsaw?", 46K), #6 ("Could Dexter Catch Light Yagami?", 37K), and the weakest video
+   ("Could L Catch The Joker?", 20K) — 7 of Specular Verse's 8 videos now read. The two factors
    below turned out to be **separable and additive**, not one and the same:
 
    | | Confident tense | Hedged tense |
    |---|---|---|
-   | **Strong dual-agency** | Spider-Man 394K, Dexter Morgan 240K (avg ~317K) | Batman 71K, Jigsaw 46K, Dexter/Light 37K (avg ~51K) |
+   | **Strong dual-agency** | Spider-Man 394K, Dexter Morgan 240K, Batman-vs-Spider-Man 111K (avg ~248K) | Batman 71K, Jigsaw 46K, Dexter/Light 37K (avg ~51K) |
    | **Weak dual-agency** | — | Joker 20K |
 
-   The hedged + strong-dual-agency cell now has **three** data points, including the Jigsaw video
-   — arguably the strongest dual-agency structure of any sampled (Jon builds an entire kidnapping
-   and escape-room trap specifically to test L, who has to out-think it from inside as an actual
-   hostage) — and it still lands at 46K, in the same band as the other two hedged scripts. With
-   6 of 8 videos now sampled, confident-tense videos average **~6x** the views of hedged-tense
-   videos with comparably strong structure. Hedged tense is the harder, more consistent ceiling of
-   the two factors — treat it as close to a hard rule for every future script, not just a leaning.
+   The confident-tense quadrant now has **three** data points too (adding "Could Batman Catch
+   Spider-Man?", written in flat present tense throughout with a genuinely sustained mutual
+   chess match — Peter builds a mechanical decoy dummy, constantly adapts routes; Batman adapts
+   right back) and it lands at 111K, third-highest of all eight videos, confirming the top
+   quadrant rather than the two-video sample being a fluke. With 7 of 8 videos now sampled,
+   confident-tense videos average **~5x** the views of hedged-tense videos with comparably strong
+   dual-agency, holding steady as more data comes in. Treat hedged tense as close to a hard rule
+   to avoid for every future script, not just a leaning.
 
    - **Declarative present tense, not hedged conditional.** Joker and Batman both hedge almost
      every sentence ("L would...", "Batman would eventually...") — reads as a speculative essay.
