@@ -18,9 +18,17 @@ calculated from this script's actual per-section word count at 184 wpm.
   circles under the eyes, hunched/crouched posture, plain long-sleeved top. Appears explicitly
   only in Block 2 this episode — keep it that way rather than scattering him across many blocks,
   to avoid repeating the consistency problem from Episode 001.
-- **Everyone else** (executives, lawyers, contractors, journalists, analysts) is a one-off,
-  unnamed character appearing only within their own block — no cross-block consistency needed,
-  same treatment as "the accomplice" in Episode 001.
+- **Vought's crisis-response executive** (named Priya Shah in the script, for narration purposes
+  only — never put a name in the generation prompt itself): recurs across Blocks 17, 18, 22, and
+  23. Kept deliberately silhouette/back-of-frame/hands-only every time, same low-risk treatment as
+  "the accomplice" in Episode 001 — this sidesteps needing image-to-image consistency threading
+  entirely, since no shot shows her face. Repeated visual motif instead of character matching: a
+  composed woman's silhouette in a dark blazer, hair pulled back, always framed against a
+  floor-to-ceiling window or backlit by a monitor, sharp/controlled posture even under pressure.
+  Restate this motif in each of her blocks rather than assuming it carries over.
+- **Everyone else** (contractors, journalists, analysts) is a one-off, unnamed character
+  appearing only within their own block — no cross-block consistency needed, same treatment as
+  "the accomplice" in Episode 001.
 
 ## Legend
 - **STILL** = static image, animate with CapCut Ken Burns/keyframe zoom, cut between variants
@@ -28,8 +36,10 @@ calculated from this script's actual per-section word count at 184 wpm.
   pull-back)
 - **GRAPHIC** = build in Canva, not AI-generated
 
-**Generation budget: ~53 stills + 3 motion clips + 2 graphics ≈ 58 pieces.** Split across
+**Generation budget: ~57 stills + 3 motion clips + 2 graphics ≈ 62 pieces.** Split across
 Grok/Gemini/Bing/Canva Magic Media/ChatGPT from the start, same resourcing note as Episode 001.
+(Was ~58; +4 stills added across Blocks 17/18/22/23 for Shah's recurring silhouette motif after
+the script's dual-agency revision — see CLAUDE.md 1b and the script's status line.)
 
 ---
 
@@ -142,19 +152,27 @@ Behavioral), matches badge color palette. No AI image needed.
   desk lamp, photorealistic, cool tones, 16:9.
 - *B:* Close-up on a hand packing a single framed photo into a box, photorealistic, 16:9.
 
-**Block 17 — Vought Notices: the analyst flags it [STILL — 2 images]**
+**Block 17 — Vought Notices: the analyst flags it, then Shah takes it herself [STILL — 3 images]**
 - *A:* A generic office analyst at a desk full of monitors late at night, back to camera,
   photorealistic, cool tones, 16:9.
 - *B:* Close-up on a monitor showing a flagged/highlighted transaction line (text blurred),
   photorealistic, 16:9.
+- *C (Shah):* A composed woman's silhouette in a dark blazer, hair pulled back, standing over a
+  desk in a dim corner office at night, backlit by a monitor showing blurred query-log data,
+  reaching to pull the same screen closer — sharp, controlled posture, no face visible,
+  photorealistic, cool tones, 16:9.
 
-**Block 18 — Vought Notices: the journalist's call [STILL — 3 images]**
+**Block 18 — Vought Notices: the journalist's call [STILL — 4 images]**
 - *A:* A journalist at a cluttered desk answering a phone call, dim room, photorealistic, cool
   tones, 16:9.
 - *B:* Close-up on the phone screen showing an incoming call from a generic "media relations"
   label, photorealistic, 16:9.
 - *C:* Wide shot of the journalist's desk from across the room, papers and a laptop visible,
   photorealistic, 16:9.
+- *D (Shah):* Same silhouette motif as Block 17C — a composed woman's silhouette in a dark
+  blazer, hair pulled back, phone held to her ear, framed against a floor-to-ceiling window with
+  a city skyline at night behind her, calm and controlled stance, no face visible, photorealistic,
+  cool tones, 16:9.
 
 **Block 19 — Vought Notices: reach and retaliation [STILL — 2 images]**
 - *A:* Close-up of a formal legal letter on a desk, letterhead generic/blank, photorealistic,
@@ -174,10 +192,10 @@ Behavioral), matches badge color palette. No AI image needed.
 Corporate media control room at night, screens flickering rapid updates. Slow push-in. Tense,
 cool desaturated tones, photorealistic, 16:9.
 
-**Block 22 — The Trap: analyzing the correction [STILL — 3 images]**
+**Block 22 — The Trap: analyzing the correction [STILL — 4 images]**
 **Consistency note**: generate A first, then stay in the same thread and reference it for B —
 same method as Block 2 and Episode 001's Block 16. C has no person in frame, so no reference
-needed there.
+needed there. D (Shah) uses the silhouette motif from Blocks 17/18, not the same thread as A/B.
 - *A (generate first):* The pale detective — slight build, messy dark hair, pale skin, dark
   circles under the eyes, plain long-sleeved top — studying two documents side by side under a
   desk lamp, photorealistic, 16:9.
@@ -185,11 +203,19 @@ needed there.
   on one of the documents, photorealistic, 16:9.
 - *C:* Wide shot of the desk covered in documents and case photos, single overhead light,
   photorealistic, cool tones, 16:9.
+- *D (Shah):* Same silhouette motif as Blocks 17/18 — a composed woman's silhouette in a dark
+  blazer, hair pulled back, handing a folder to an out-of-frame second person across a desk at
+  night, quick and deliberate motion, backlit by a monitor, no face visible, photorealistic, cool
+  tones, 16:9.
 
-**Block 23 — The Second Attempt: the shell payment [STILL — 2 images]**
+**Block 23 — The Second Attempt: the shell payment [STILL — 3 images]**
 - *A:* Close-up of a wire transfer confirmation on a screen, generic shell company name,
   photorealistic, cool glow, 16:9.
 - *B:* Wide shot of a dim financial records office, single desk lit, photorealistic, 16:9.
+- *C (Shah):* Same silhouette motif as Blocks 17/18/22 — a composed woman's silhouette in a dark
+  blazer, hair pulled back, one hand pausing over a keyboard before pressing a key, tense stillness,
+  backlit by a screen's cool glow in an otherwise dark office, no face visible, photorealistic,
+  16:9.
 
 **Block 24 — The Second Attempt: narrowing the org chart [STILL — 2 images]**
 - *A:* Close-up of an org chart with most names crossed out, a small handful circled,
@@ -241,10 +267,13 @@ hold, since it covers the longest stretch of outro narration.
   image-to-image if using another tool) within each of those blocks to keep him consistent,
   same as Episode 001's Block 16 fix. Blocks 2, 20, and 22 don't need to match each other
   exactly (different scenes, different sessions) as long as each block is internally consistent.
-- Generation budget: ~53 stills + 3 motion clips + 2 Canva graphics ≈ 58 pieces. Split across
+- Shah (Vought's crisis-response executive) appears in Blocks 17C, 18D, 22D, and 23C — always
+  the silhouette motif, never her face, so no image-to-image threading is needed across those
+  four; just restate the motif description each time rather than reusing one reference image.
+- Generation budget: ~57 stills + 3 motion clips + 2 Canva graphics ≈ 62 pieces. Split across
   Grok/Gemini/Bing/Canva Magic Media/ChatGPT rather than one tool.
 - Every "generic investigator/analyst/journalist/executive" prompt is deliberately a one-off,
   unnamed character — no consistency needed across blocks for these, only within L's three
-  blocks.
+  blocks and Shah's four.
 - If any prompt gets flagged, strip it down further — these are already fully de-risked
-  (no "Vought," no show-specific costumes/logos) so blocks should be rare.
+  (no "Vought," no show-specific costumes/logos, no character names) so blocks should be rare.
