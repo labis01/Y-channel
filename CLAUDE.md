@@ -25,20 +25,52 @@ same "Could L Catch X?" format) is **already monetized at just 3.67K subscribers
 means 1-2 videos carried most of that watch-time weight, not even performance across all 8 —
 the same hit-rate-over-volume pattern found with Harper Lane Films' reference channel, now
 confirmed inside this exact niche too. This is concrete evidence the January target is achievable
-at a realistic scale, not just theory — identifying Specular Verse's actual outlier video (once
-their per-video view counts are checked) is high-value intel for topic selection going forward.
+at a realistic scale, not just theory.
+**Full per-video breakdown (confirmed via channel screenshots, Sept 2026), all 8 videos:**
+| Video | Views | Runtime | Age |
+|---|---|---|---|
+| Could L Catch Spider-Man? | **394K** (outlier) | 22:15 | 1 month |
+| Could L Catch Dexter Morgan? | 240K | 21:01 | 3 weeks |
+| Could Batman Catch Spider-Man? | 111K | 24:51 | 1 month |
+| Could L Catch Batman? | 71K | 18:06 | 2 weeks |
+| Could Spider-Man Survive The Death Note? | 55K | 15:21 | 3 weeks |
+| Could L Outsmart Jigsaw? | 46K | 21:53 | 13 days |
+| Could Dexter Catch Light Yagami? | 37K | 18:53 | 2 days |
+| Could L Catch The Joker? | 20K | 19:56 | 9 days |
+| **Total** | **974K views / 8 videos** | | |
+
+Two things this data confirms:
+1. **Runtime range**: every single one of their 8 videos falls between 15:21 and 24:51 — none
+   shorter, none longer. Their proven monetized range is **~15-25 minutes**, not 14-15. Runtime
+   target below revised to match (20-22 min).
+2. **The outlier is topic, not runtime**: the outlier (Spider-Man, 394K) and the weakest video
+   (Joker, 20K) run almost identical lengths (22:15 vs 19:56) — a ~20x view gap between videos of
+   near-identical runtime. Runtime alone doesn't explain the spread. What the top 2 performers
+   (Spider-Man 394K, Dexter Morgan 240K) share is a mainstream, high-search-volume individual
+   character with an existing built-in fanbase — stronger crossover draw than the lower performers
+   (Joker, Jigsaw, Light Yagami). **Implication for topic selection**: pick recognizable,
+   high-demand individual characters over lesser-known ones when possible. Flag for Case File 004
+   (Vought/*The Boys*): Vought is a **corporate entity, not a single character** — a structural
+   departure from all 8 of Specular Verse's videos, which all pit L against one named individual.
+   The Boys is a strong, currently-relevant franchise, but this topic has no direct comp in the
+   proof-point data and may need extra title/thumbnail work to land the "who" as clearly as a
+   single face does. Not a reason to unlock the already-scripted 004, just a distribution risk to
+   watch and factor into future topic picks.
 
 ## Content format & cadence
 - **2 long-form videos/week.** Flagship "Case File" investigations (e.g. "Could L Catch X?",
   "X vs L") + a second recurring format: "What If YOU Were The Suspect?" (self-insert, not yet
   produced as of Case File 003).
-- **Target runtime: 14-15 minutes.** Revised down from the earlier 20-minute-minimum rule to
-  protect cadence/sustainability over per-video length (more videos with strong retention compounds
-  watch-hours toward monetization faster than fewer very long videos with weak retention on a
-  channel that hasn't built viewer trust yet — see `scripts/30-day-content-plan.md`). At the
-  calibrated narration pace (~184 words/minute, Haven Sands, locked settings), target ~2,600-2,760
+- **Target runtime: 20-22 minutes.** Reverted from a mid-session pullback to 14-15 min (which
+  was based on general watch-hours theory, not niche evidence) after the user's correction that
+  20-25 min was the original intent — confirmed correct by Specular Verse's actual data: all 8 of
+  their monetized videos run 15:21-24:51, none shorter, and their outlier (Spider-Man, 394K
+  views) runs 22:15. Longer runtime at a modestly lower retention % still banks more absolute
+  watch-minutes than a short video, and this niche's own proof point backs that math. At the
+  calibrated narration pace (~184 words/minute, Haven Sands, locked settings), target ~3,680-4,050
   words per script. Write to what the story earns — don't pad to hit the ceiling, don't undercut
-  the floor.
+  the floor. Phase in gradually if a given script doesn't naturally support the full length yet;
+  don't pad word count just to hit the ceiling.
 - **No standalone Shorts** as new original content — but repurposing already-produced long-form
   footage into a Short afterward is fine (doesn't cost extra production time).
 - Playlist: **"Fictional Forensics"** — add every case file to it in release order.
