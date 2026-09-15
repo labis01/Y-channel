@@ -140,14 +140,19 @@ mid-production; script still gets locked first either way.
    etc.) — the other half becomes a symbolic/scene image instead of a second face (e.g. Case File
    004: L + the corporate tower from the cold open/closing shots). The split-screen structure
    itself never changes — only what fills the non-L half does.
-   **Locked L thumbnail portrait prompt** (separate from the body-scene character anchor — this
-   one needs much more facial detail for close-up thumbnail use): "Extreme close-up portrait, a
-   gaunt pale detective's face — messy unkempt dark hair falling loosely over his forehead,
-   sickly pale skin, deep dark circles under intense focused eyes staring directly into the
-   camera, plain dark collar barely visible at the bottom of frame, dramatic single-source side
-   lighting, moody noir shadows, shallow depth of field, photorealistic, portrait orientation."
-   Generate in portrait/square orientation, not 16:9 — it needs to crop cleanly into one half of
-   the 1280×720 thumbnail. Reuse this exact prompt for every future thumbnail's L portrait.
+   **The L thumbnail portrait is one reused image file, not regenerated per video.** The same
+   photorealistic portrait (gaunt pale face, messy dark hair, dark circles, moody single-source
+   lighting, dark coat collar) already used successfully on Case File 003 (Batman) is the
+   permanent recurring asset — reuse that exact file for every future thumbnail instead of
+   generating a new one each time. This doubles as a brand-recognition device (a consistent
+   "host portrait," like a recurring mascot/logo, helps viewers recognize the channel at a
+   glance in their feed) and costs nothing to reuse.
+   **Backup prompt** (only needed if the image file is ever lost and has to be regenerated):
+   "Extreme close-up portrait, a gaunt pale detective's face — messy unkempt dark hair falling
+   loosely over his forehead, sickly pale skin, deep dark circles under intense focused eyes
+   staring directly into the camera, plain dark collar barely visible at the bottom of frame,
+   dramatic single-source side lighting, moody noir shadows, shallow depth of field,
+   photorealistic, portrait orientation."
 8. CapCut edit: narration audio as backbone track, hard cuts as default (reserve flashy
    transitions for 2-3 key beats only, not every cut), subtle cool-toned desaturated color grade
    (Temperature -5 to -10, Saturation -10 to -15, Contrast +10 to +15) for noir consistency.
