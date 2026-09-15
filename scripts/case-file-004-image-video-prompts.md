@@ -1,10 +1,10 @@
 # Case File 004 — "Could L Catch Vought?" — Image/Video Prompt List
 
-Status: **All ~57 stills generated**, including the 4 Shah silhouette stills (Blocks 17C, 18D,
-22D, 23C, added after the script's dual-agency revision). Remaining: 3 motion clips (Blocks
-1/21/27) and 2 Canva graphics (Blocks 4/26). Script is locked (see `case-file-004-l-vs-vought.md`,
-cold open already tightened). Narration recorded last, once the CapCut edit is assembled, per the
-flexible sequencing rule in CLAUDE.md.
+Status: **All assets complete — 57 stills, 3 motion clips (Blocks 1/21/27), 2 Canva graphics
+(Blocks 4/26).** Script is locked (see `case-file-004-l-vs-vought.md`, cold open already
+tightened). Next: assemble the CapCut edit, then record narration last against the finished cut,
+per the flexible sequencing rule in CLAUDE.md — this avoids the Case File 003 problem of visuals
+built to specs that no longer match already-recorded narration.
 
 **De-risking — read before generating anything**: "Vought" is a fictional conglomerate from a
 licensed show. Never use the name "Vought," any character names from that show, or any reference
