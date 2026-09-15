@@ -38,10 +38,12 @@ calculated from this script's actual per-section word count at 184 wpm.
   pull-back)
 - **GRAPHIC** = build in Canva, not AI-generated
 
-**Generation budget: ~57 stills + 3 motion clips + 2 graphics ≈ 62 pieces.** Split across
+**Generation budget: ~59 stills + 3 motion clips + 2 graphics ≈ 64 pieces.** Split across
 Grok/Gemini/Bing/Canva Magic Media/ChatGPT from the start, same resourcing note as Episode 001.
 (Was ~58; +4 stills added across Blocks 17/18/22/23 for Shah's recurring silhouette motif after
-the script's dual-agency revision — see CLAUDE.md 1b and the script's status line.)
+the script's dual-agency revision — see CLAUDE.md 1b and the script's status line. +2 more added
+to Block 3, identified as running short once actual per-image pacing was confirmed at ~8s/image
+against the block's real narration length.)
 
 ---
 
@@ -59,7 +61,7 @@ the tower. Cool blue-grey grade, photorealistic, 16:9.
 - *C:* Same detective as reference — close-up on his face partially lit by a desk lamp, thoughtful
   expression, rest of the room dark, photorealistic, 16:9.
 
-**Block 3 — Stakes Framing: the decentralized conspiracy [B-ROLL + STILL — 3 images]**
+**Block 3 — Stakes Framing: the decentralized conspiracy [B-ROLL + STILL — 5 images]**
 - *A [B-ROLL, fallback STILL]:* Try Pexels first ("corporate boardroom night," "office lobby
   night"). Fallback prompt: Wide shot of an empty, vast corporate boardroom at night, dozens of
   empty chairs around a long table, city lights visible through floor-to-ceiling windows,
@@ -69,6 +71,12 @@ the tower. Cool blue-grey grade, photorealistic, 16:9.
 - *C [B-ROLL, fallback STILL]:* Try Pexels first ("office lobby night," "empty corporate lobby").
   Fallback prompt: Wide shot of a corporate lobby at night, empty, a single security desk lit,
   photorealistic, cool desaturated tones, 16:9.
+- *D (added — block ran long against actual narration pace):* Close-up of a thick legal disclosure
+  document bound with a plain corporate letterhead, stacked on a boardroom table, shallow depth
+  of field, desk lighting, photorealistic, 16:9.
+- *E (added):* Wide shot of a corporate building directory board in a lobby — rows of department
+  names and floor numbers, text blurred/illegible, suggesting a large multi-department
+  institution, photorealistic, cool desaturated tones, 16:9.
 
 **Block 4 — The Setup: three categories [GRAPHIC]**
 Build in Canva — case file folder graphic with three labeled tabs (Physical / Digital /
