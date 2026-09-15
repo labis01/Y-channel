@@ -87,8 +87,8 @@ Behavioral), matches badge color palette. No AI image needed.
   photorealistic, cool tones, 16:9.
 
 **Block 9 — Digital Problem: the media noise [B-ROLL + STILL — 3 images]**
-- *A [B-ROLL, fallback STILL]:* Try Pexels first ("news control room," "broadcast studio
-  monitors"). Fallback prompt: A wall of screens in a media control room, dozens of news
+- *A [B-ROLL, fallback STILL] — ✓ downloaded:* Try Pexels first ("news control room," "broadcast
+  studio monitors"). Fallback prompt: A wall of screens in a media control room, dozens of news
   broadcasts playing at once, photorealistic, cool blue glow, 16:9.
 - *B:* Close-up on one screen showing a generic press release layout (leave text blank/blurred),
   photorealistic, 16:9.
