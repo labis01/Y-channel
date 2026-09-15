@@ -203,9 +203,17 @@ Physical Evidence Trail 3, Digital Footprint 6, Behavioral Pattern Consistency 8
 Control 9, Adaptive Response 7, Resource & Network Advantage 9 — Total 42/60.
 Header: "Case File 004 · Could L Catch Vought?"
 
-**Block 27 — Closing Pull-Back [VIDEO — clip 3 of 3]**
-Dark city skyline at night, one tower among many. Slow rising pull-back, the tower shrinking into
-the skyline. Cool blue-grey grade, photorealistic, 16:9.
+**Block 27 — Closing Pull-Back [VIDEO — clip 3 of 3, two shots]**
+This beat now uses two real motion clips back to back instead of one clip plus a freeze-frame
+hold, since it covers the longest stretch of outro narration.
+- *Shot 1 (15s):* Dark city skyline at night, one tower among many. Slow rising pull-back, the
+  tower shrinking into the skyline. Cool blue-grey grade, photorealistic, 16:9.
+- *Shot 2 (15s, cuts in directly after Shot 1):* Wide static-feeling drone shot high above the
+  dark city skyline at night, extremely slow drift, scattered lights below, the tower barely
+  visible among hundreds of others, cool blue-grey desaturated grade, quiet and still,
+  photorealistic, 16:9.
+- If any narration time is still left after both, freeze on Shot 2's last frame and hold rather
+  than stretching either clip's playback speed.
 
 ---
 
