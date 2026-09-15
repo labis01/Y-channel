@@ -144,15 +144,33 @@ mid-production; script still gets locked first either way.
    watching at 0:30 — a 68% drop before the cold open even finished making its case): state the
    actual stakes/hook within the first 5-10 seconds, don't ease into it. Don't fix already-published
    videos over this — apply it forward to every new script instead.
-1b. **Declarative present tense, not hedged conditional** — from a direct transcript comparison of
-   three Specular Verse videos, Sept 2026: the outlier ("Could L Catch Spider-Man?", 394K), the
-   #2 performer ("Could L Catch Dexter Morgan?", 240K), and the weakest video ("Could L Catch The
-   Joker?", 20K). The weak video hedges almost every sentence ("L would...", "Joker could...") —
-   reads as a speculative essay. Both strong videos commit to flat present tense as if reporting
-   fact ("L pulls up a digital map," "Dexter checks the evidence system") even though it's equally
-   hypothetical — reads as cinematic, not academic, and lands a crisp, quotable verdict instead of
-   a trailing hedge. Write "L does X," never "L would do X." Other traits shared by both strong
-   videos, absent from the weak one:
+1b. **Two independent drivers, not one — from a 4-video transcript comparison**, Sept 2026: the
+   outlier ("Could L Catch Spider-Man?", 394K), #2 ("Could L Catch Dexter Morgan?", 240K), #4
+   ("Could L Catch Batman?", 71K), and the weakest video ("Could L Catch The Joker?", 20K). The
+   two factors below turned out to be **separable and additive**, not one and the same:
+
+   | | Confident tense | Hedged tense |
+   |---|---|---|
+   | **Strong dual-agency** | Spider-Man 394K, Dexter 240K | Batman 71K |
+   | **Weak dual-agency** | — | Joker 20K |
+
+   - **Declarative present tense, not hedged conditional.** Joker and Batman both hedge almost
+     every sentence ("L would...", "Batman would eventually...") — reads as a speculative essay.
+     Spider-Man and Dexter commit to flat present tense as if reporting fact ("L pulls up a digital
+     map," "Dexter checks the evidence system") even though it's equally hypothetical — reads as
+     cinematic, not academic, and lands a crisp, quotable verdict instead of a trailing hedge.
+     Write "L does X," never "L would do X."
+   - **Sustained dual-agency, not a one-way lecture** — the target getting real on-screen
+     countermoves, dramatized from both sides, not just narrated as "L investigates." (Originally
+     guessed this needed a personal identity-reveal payoff instead — wrong: Dexter has no
+     unmasking and still hits #2, Batman has an identity-reveal structure like Spider-Man's and
+     still underperforms Dexter. Identity-reveal isn't the driver; dual-agency is.)
+   - **The Batman video is the key data point**: it has the *strongest* dual-agency of all four
+     (Batman actively counter-investigates L — tests channels, moves resources, sets traps, stages
+     decoys) but is hedged almost as heavily as Joker, and lands in the middle at 71K — well above
+     Joker but a fifth of the outlier. Confirms tense isn't just flavor riding on top of structure;
+     it's an independent ceiling. **Best performance needs both**, and tense may be the harder cap
+     of the two, since even Batman's superior structure couldn't overcome it alone.
    - Cold open drops into something concrete and specific in the first line — a physical object
      (Spider-Man) or an ironic setup stated as fact (Dexter: "Dexter Morgan has one of the best
      hiding places a serial killer could ask for") — never an abstract thesis-statement opening
@@ -160,19 +178,12 @@ mid-production; script still gets locked first either way.
    - Invents specific, concrete "evidence" (an exact time, a hacked test score, a named coffee
      shop, a planted suspect's file) rather than staying generic — makes fictional deduction feel
      tangible.
-   - **Sustained dual-agency, not a one-way lecture — the real driver, corrected from an earlier
-     wrong guess.** Originally flagged this as "needs a personal identity-reveal payoff," but the
-     Dexter video disproves that: Dexter is a known character the whole time, no unmasking, yet
-     it's the #2 performer. What both strong videos actually share is the *target* getting real
-     on-screen countermoves — Dexter runs counter-surveillance on L, pauses his kills, frames a
-     decoy, nearly escapes; Spider-Man notices the trap and goes dark — dramatized from both
-     sides, not just narrated as "L investigates." The weak video never dramatizes Joker actually
-     deciding anything in a scene, despite constant "Joker would..." language — it stays
-     one-directional. **Direct implication for Case File 004 (Vought)**: the current script's
-     countermoves ("VOUGHT NOTICES," legal/PR response) are institutional and abstract, not a
-     named person actively scheming and adapting on-screen. Worth a look before narration locks in
-     — even one beat where a specific individual inside Vought makes a visible, in-scene decision
-     to counter L would close this gap, more so than a bigger "verdict" reveal.
+   - **Direct implication for Case File 004 (Vought)**: the current script's countermoves ("VOUGHT
+     NOTICES," legal/PR response) are institutional and abstract, not a named person actively
+     scheming and adapting on-screen — the dual-agency half is weak. Tense is already solid
+     (mostly present-tense declarative, not hedged). Worth a look before narration locks in — even
+     one beat where a specific individual inside Vought makes a visible, in-scene decision to
+     counter L would close the bigger of the two gaps.
 2. ElevenLabs narration — clean text, no scene-direction/bracket labels (TTS reads labels aloud
    literally if included).
 3. Image prompts — de-risked, photorealistic, 16:9 — via Grok primarily (weekly limit exists;
