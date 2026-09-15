@@ -303,7 +303,9 @@ mid-production; script still gets locked first either way.
   *The Boys*) — script locked, ~2,865 words/~15.6 min, Nexus Detection Score 42/60. Revised to
   personify Vought's countermoves through a recurring figure (Priya Shah, Head of Crisis
   Response) per the dual-agency finding in 1b — closes that gap without changing the ending's
-  "no single arrest" theme. Timely pick:
+  "no single arrest" theme. **In production**: all ~57 stills generated (including the 4 Shah
+  silhouette stills); only 3 motion clips and 2 Canva graphics remain before CapCut assembly and
+  narration. Timely pick:
   Death Note's 2026 Barbican musical revival (just ended Sept 12) driving renewed L/franchise
   search interest, plus *The Boys* Season 5 ending + *Vought Rising* spinoff announcement keeping
   Vought relevant. **Rejected alternative**: "Could L Catch Epstein?" — a real, proven-viral
