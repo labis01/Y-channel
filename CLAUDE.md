@@ -304,8 +304,9 @@ mid-production; script still gets locked first either way.
   personify Vought's countermoves through a recurring figure (Priya Shah, Head of Crisis
   Response) per the dual-agency finding in 1b — closes that gap without changing the ending's
   "no single arrest" theme. **All assets complete** (57 stills, 3 motion clips, 2 Canva
-  graphics). Next: CapCut edit assembly, then narration recorded last against the finished cut,
-  then publish package + YouTube policy checklist. Timely pick:
+  graphics) **and thumbnail finished** (split-screen, L portrait + tower, title text, Nexus badge
+  at 42/60 — matches the locked format). Next: CapCut edit assembly, then narration recorded last
+  against the finished cut, then publish package + YouTube policy checklist. Timely pick:
   Death Note's 2026 Barbican musical revival (just ended Sept 12) driving renewed L/franchise
   search interest, plus *The Boys* Season 5 ending + *Vought Rising* spinoff announcement keeping
   Vought relevant. **Rejected alternative**: "Could L Catch Epstein?" — a real, proven-viral
