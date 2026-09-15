@@ -1,9 +1,14 @@
 # Could L Catch Vought?
 ## Case File 004 — Script (Locked)
 
-Status: Script locked, ~2,600 words, ~14.1 min at 184 wpm — hits the 14-15 min target. Not yet
-recorded — narration recorded last, once CapCut edit is assembled, per the flexible sequencing
-rule in CLAUDE.md.
+Status: Script locked, ~2,865 words, ~15.6 min at 184 wpm — still under the current 20-22 min
+target (runtime target was revised upward after this script was originally written; left as-is
+per the "phase in gradually, don't pad" rule rather than stretched to fill the new ceiling).
+Revised to personify Vought's countermoves through one recurring figure, Priya Shah (Head of
+Crisis Response), in "VOUGHT NOTICES," "THE TRAP," and "THE SECOND ATTEMPT" — closes the
+dual-agency gap flagged from the Specular Verse transcript comparison (see CLAUDE.md 1b) without
+changing the final verdict's "no single arrest" thematic point. Not yet recorded — narration
+recorded last, once CapCut edit is assembled, per the flexible sequencing rule in CLAUDE.md.
 De-risking: "Vought" and character/organization names are fine in title/narration/thumbnail text,
 but image/video generation prompts must use generic descriptors only (a "pharmaceutical-and-media
 conglomerate," "a corporate boardroom," "a masked enforcer") — no trademarked names, no direct
@@ -69,11 +74,13 @@ Even the choice of scapegoat follows a formula. It's never someone senior enough
 
 **VOUGHT NOTICES**
 
-It takes longer than it would for a person. A corporation this large doesn't feel a single investigator watching the way an individual suspect would — not until the pattern-recognition itself starts showing up somewhere Vought's own systems can see it.
+It takes longer than it would for a person. A corporation this large doesn't feel a single investigator watching the way an individual suspect would — not until the pattern-recognition itself starts showing up somewhere Vought's own systems can see it. And it shows up first to one specific person: Priya Shah, Vought's Head of Crisis Response, three years into a job that has never once required her to think about a single outside investigator as a variable.
 
-A junior analyst flags unusual interest in the shell-subsidiary payment structure. Legal quietly tightens NDA language on three unrelated settlements within the same week — overcorrection, the kind that only happens when someone above them has connected dots nobody was supposed to connect. A journalist who'd been circling one of the older cover-ups gets a call from Vought's media relations team offering "an exclusive," the same reframing tactic used a dozen times before, now aimed at the wrong story.
+A junior analyst flags unusual interest in the shell-subsidiary payment structure. Shah pulls the query logs herself instead of routing it down the chain — the first decision in this file that isn't protocol, it's instinct. She sees three unrelated settlements that shouldn't share a pattern of attention in the same week, and a journalist circling an old story he has no business still circling. Nobody told her these things are connected. She decides they are anyway, and orders NDA language tightened on all three the same afternoon — an overcorrection, the kind that only happens when someone above the process has personally connected dots nobody handed her.
 
-That's the moment the case stops being one-sided. Vought doesn't respond to an investigator the way a person does — with panic, with a mistake born of fear. It responds the way an institution does: with process, with legal pressure, with narrative control deployed exactly as precisely as it always has been. Which means L isn't just being noticed. He's being handled — and being handled by an expert system built for exactly this situation is a very different problem than outrunning a single panicking suspect.
+Shah picks up the phone herself for the journalist call. Offers him "an exclusive," the same reframing tactic Vought has run a dozen times before, now aimed at the wrong story on purpose, by someone who has decided this particular reporter needs managing before he becomes a problem. It's the correct move by every metric that matters to her job. It's also the first decision anyone at Vought has made specifically *because of L*, rather than on the machine's usual schedule — and a decision made because of a person leaves a different signature than one made on schedule.
+
+That's the moment the case stops being one-sided. Vought doesn't respond to an investigator the way a person does — with panic, with a mistake born of fear. Shah doesn't panic either, not visibly. But she is, for the first time in three years, reacting to a specific mind instead of a generic risk category, and precision under that particular kind of pressure is its own tell. Which means L isn't just being noticed. He's being handled — by an expert system, yes, but one being steered, in this moment, by a single person making calls faster than her own protocol strictly requires.
 
 There's also a quieter form of pressure institutions have that individuals don't: reach. A single suspect can threaten a witness. A corporation this size can quietly make sure a source's employer knows about an inconvenient outside project, or that a platform hosting a leaked document receives a takedown request through an entirely unrelated copyright claim. None of it looks like retaliation on paper. All of it functions like retaliation in practice — a wider, softer net than any individual could ever cast alone.
 
@@ -83,7 +90,7 @@ L doesn't try to out-resource an organization with unlimited legal budget and a 
 
 A single, carefully engineered leak — plausible, damaging, but subtly wrong in one detail only insiders would know to correct. If Vought's crisis machine runs its usual choreography on a story that isn't quite true, the shape of the correction reveals exactly who has access to the real version and how fast they can move it up the chain. It's not a trap built to catch a lie. It's a trap built to time the truth.
 
-It works, partially. The reframing beat arrives on schedule — almost suspiciously fast, actually, faster than the usual review window, which tells L something the content of the statement never could: someone skipped a step in the process to get ahead of this specific story. But the correction itself is vague, hedged, routed through outside counsel instead of the usual internal spokesperson. Enough to confirm the pattern is real. Not enough, yet, to expose who's actually pulling it.
+It works, partially. The reframing beat arrives on schedule — almost suspiciously fast, actually, faster than the usual review window, which tells L something the content of the statement never could: someone skipped a step in the process to get ahead of this specific story. He doesn't have a name yet. He has a habit — the same decision-maker reacting a half-step faster than Vought's own choreography allows, every time, which is its own kind of signature. But the correction itself is vague, hedged, routed through outside counsel instead of the usual internal spokesperson. Shah's instinct, even under pressure, is still to keep her own name off anything reviewable. Enough to confirm the pattern is real. Not enough, yet, to expose who's actually pulling it.
 
 What the trap really tests isn't whether Vought will respond — it always responds. It's how much of the usual choreography gets skipped under real time pressure. A rehearsed process with steps removed tells you exactly which steps were never actually necessary for legal cover, and which ones only exist to look thorough. That distinction narrows the list of people who could plausibly authorize skipping them from an entire legal department down to a handful of names.
 
@@ -91,9 +98,9 @@ What the trap really tests isn't whether Vought will respond — it always respo
 
 One test doesn't crack an institution. It does something more useful — it tells you which lever actually moves.
 
-If the story can't be traced to a person, the money still can. A shell payment, timed to the leak, routed slightly differently than the established pattern — because the usual channel was compromised by the fake story running through it. A financial anomaly this small would mean nothing on its own. Layered against years of near-identical settlement patterns, it's the first transaction that doesn't quite fit the choreography — meaning it was authorized by someone reacting in real time, not following the rehearsed process.
+If the story can't be traced to a person, the money still can. A shell payment, timed to the leak, routed slightly differently than the established pattern — because the usual channel was compromised by the fake story running through it. A financial anomaly this small would mean nothing on its own. Layered against years of near-identical settlement patterns, it's the first transaction that doesn't quite fit the choreography — meaning it was authorized by someone reacting in real time, not following the rehearsed process. Shah again, though L still can't put the name to the pattern — just a role, a department, and now a second decision that carries the same rushed, personal fingerprint as the first.
 
-That's the actual break. Not a confession. Not a body. A single decision, made under pressure, by someone who had to improvise for the first time in a system built entirely to never need to. Improvisation leaves fingerprints rehearsed processes don't. From there, it's not about proving the whole conspiracy at once — it's about following the one thread that was never supposed to exist back to the room where it started.
+That's the actual break. Not a confession. Not a body. A single decision, made under pressure, by someone who had to improvise for the first time in a system built entirely to never need to. Improvisation leaves fingerprints rehearsed processes don't — and this is the second time in one week the same fingerprint shows up. From there, it's not about proving the whole conspiracy at once — it's about following the one thread that was never supposed to exist back to the room where it started.
 
 And that room, once located, changes the entire shape of the case. Everything before this point was pattern-recognition — proving *that* something was being coordinated, without being able to say by whom. One authorized-under-pressure transaction is the first piece of evidence that actually points at a person instead of an institution. From an org chart of thousands, the investigation narrows to a title, a department, and a small enough group of names that ordinary follow-up — not extraordinary detective work — finishes the rest.
 
