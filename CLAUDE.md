@@ -405,11 +405,32 @@ low priority to cast with a dedicated ElevenLabs voice since he doesn't reappear
 constraint (no hospital/blood/depiction of loss of life) and gambling-depiction policy note
 both confirmed clean across all 14 scenes. **Character bible written** —
 `scripts/harper-lane-001-character-bible.md` — full physical/wardrobe/voice/personality/speech
-notes for all 6 characters, closes part of the "character visual consistency" open gap: each
-character gets one anchor image generated first, then image-to-image reference for every
-subsequent shot (same method proven on Logic Nexus's reused L portrait). Visual language for
-this channel locked as warmer/naturalistic, deliberately distinct from Logic Nexus's
+notes for all 6 characters, plus ready-to-paste anchor image prompts and turnaround/character-sheet
+prompts (multiple angles + outfits in one reference image) for each. Visual language for this
+channel locked as warmer/naturalistic, deliberately distinct from Logic Nexus's
 noir/desaturated grade. Not yet recorded/produced.
+
+## Tool stack — locked
+- **Multi-voice ElevenLabs**: ElevenLabs Voice Library (not custom cloning). Search by the
+  descriptors in the character bible — Dani: warm/grounded/conversational female, tested against
+  both a quiet line and an angry line before picking, since she needs real range; Marcus:
+  smooth/confident male that can also crack, tested against his Scene 6 confession line
+  specifically; Renee: direct/energetic female, faster pace, clearly distinct timbre from Dani;
+  Isaiah: young adult male, slightly clipped/impatient; Patricia: mature/warm/steady female,
+  slower pace than the rest. Devon: no dedicated search, any default/stock voice — single scene,
+  not worth the time. Starting settings for every voice: same template as Haven Sands (Stability
+  50-65%, Clarity/Similarity 80-85%, Style 5-20%, generate at 1.0x), then nudge per-voice based
+  on actual output — stability varies voice to voice.
+- **Visual consistency**: reuse the already-proven Logic Nexus workflow rather than adding a new
+  tool — Grok primary, image-to-image reference for every repeat appearance of a character (same
+  method as L's reused portrait). Matters more here than on Logic Nexus, since this needs 5-6
+  consistent faces across 14 scenes instead of one mostly-silhouetted recurring figure. Same
+  fallbacks apply (Gemini/Bing/Canva Magic Media) if Grok's limit is hit — confirm each fallback
+  actually supports image-to-image before relying on it mid-block, since that capability is not
+  optional for this project the way it was for Logic Nexus.
+- **First concrete production step**: generate the Dani anchor image (prompt in the character
+  bible) and preview ElevenLabs voice candidates against her lines. Once her face and voice are
+  locked, the rest of the cast follows the same pattern.
 
 ## YouTube policy compliance (check before every Harper Lane Films upload)
 - **AI-content disclosure**: toggle on "Altered or synthetic content" (Studio → video → Details →
@@ -433,6 +454,9 @@ noir/desaturated grade. Not yet recorded/produced.
   enforcement.
 
 ## Open questions before real production planning
-- Parallel with Logic Nexus now, or sequenced after Episode 001 (+ maybe more Case Files) ships?
-- Tool stack for multi-character AI video consistency and multi-voice narration — not yet
-  researched/locked.
+- **Sequencing update**: user chose to push Harper Lane Ep. 001 forward now to get it "out of the
+  way" rather than strictly waiting on the locked sequencing — a deliberate, flagged deviation
+  from "Logic Nexus keeps priority," not a silent drift. Logic Nexus's Jan 2027 deadline still
+  stands; don't let this stretch turn into neglecting Case File 005 and beyond.
+- ~~Tool stack for multi-character AI video consistency and multi-voice narration~~ — **locked**,
+  see Tool stack section above.
