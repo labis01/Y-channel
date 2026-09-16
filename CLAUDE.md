@@ -250,29 +250,26 @@ mid-production; script still gets locked first either way.
 9. Publish package: title, human-sounding description with timestamps, tags, human-sounding
    pinned comment inviting a verdict debate, subtitles uploaded as plain-text transcript (not
    timed file — let YouTube auto-sync).
-10. **Automatic dubbing — UNCONFIRMED, on hold pending a real test.** Target languages when/if
-    this works: Portuguese, Spanish, Hindi, Indonesian (fastest-growing anime-adjacent markets
-    from niche research — Brazil, Mexico, India, Indonesia; India is the standout: anime interest
-    11%→41% 2020-2025, 50M users, +70% YoY). What we actually found investigating this on Case
-    File 001 (Spider-Man):
-    - "Allow automatic dubbing" IS enabled at the channel level (Settings → Channel → Advanced
-      settings), and "Feature eligibility" (a separate tab — general verification tiers for
-      upload limits/video length/live streaming/YPP application, unrelated to dubbing
-      specifically) shows fully enabled too.
-    - Despite that, opening Languages → Add language → [language] → Audio on this already-
-      published video only offered a **manual file upload** ("Select File"), not an AI-generate
-      option — meaning either automatic dubbing only processes new uploads in the background
-      with no manual trigger, or it isn't actually active yet. Unconfirmed either way.
+10. **Automatic dubbing — CONFIRMED WORKING**, tested on Case File 004's publish. Languages tab
+    shows many languages auto-populated with no manual action, each showing **Audio: Draft** and
+    **Title & description: Published** independently of each other.
+    - **Real risk confirmed, not just theoretical**: title/description publish automatically and
+      separately from the audio dub — so a viewer browsing in a given language can already see a
+      translated title/description while the actual audio dub is still sitting in Draft (i.e.
+      unpublished, they'd hear English if they clicked in). This is exactly the mismatch risk
+      flagged below — it's not hypothetical, it's the platform's actual default behavior.
+    - **Current call**: not worth reviewing/publishing dubs language-by-language right now —
+      this channel is at single-digit views per video, so real exposure to this mismatch is
+      minimal in practice. Revisit as a deliberate task once there's real traffic in specific
+      markets worth prioritizing (originally researched targets: Portuguese, Spanish, Hindi,
+      Indonesian — YouTube's auto-dub list doesn't necessarily match this and included languages
+      like Arabic on its own).
     - **Do not translate title/description without matching dubbed audio** — a localized title
       that leads into English audio is a false promise to the viewer and risks hurting retention
-      (bounce from mismatched expectation), not helping it. Title/desc localization only makes
-      sense bundled with real localized audio.
-    - **The real test: Episode 001's publish.** Check its Languages tab a day or two after
-      upload — if dub languages appear on their own with no manual action, automatic dubbing is
-      confirmed working and the full package (title + description + audio, all languages) should
-      be rolled out to every video, old and new. If nothing appears, manual dubbing would require
-      actually producing translated audio files per language (e.g. via ElevenLabs) — real
-      production cost, not free — and needs a fresh cost/benefit call before pursuing further.
+      (bounce from mismatched expectation), not helping it. Since YouTube now does this
+      automatically without being asked, worth periodically checking the Languages tab on future
+      videos and deciding case-by-case whether to publish a given language's audio dub (closing
+      the gap) or leave it as-is given the low-traffic reality right now.
 
 ## YouTube policy compliance (check every video before publish)
 - **AI-content disclosure**: toggle on "Altered or synthetic content" (Studio → video → Details →
