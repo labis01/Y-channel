@@ -195,7 +195,7 @@ rebuilding from scratch.
   desk lamp, photorealistic, cool tones, 16:9.
 - *B:* Close-up on a hand packing a single framed photo into a box, photorealistic, 16:9.
 
-**Block 17 — Vought Notices: the analyst flags it, then Shah takes it herself [STILL — 3 images]**
+**Block 17 — Vought Notices: the analyst flags it, then Shah takes it herself [STILL — 6 images]**
 - *A:* A generic office analyst at a desk full of monitors late at night, back to camera,
   photorealistic, cool tones, 16:9.
 - *B:* Close-up on a monitor showing a flagged/highlighted transaction line (text blurred),
@@ -204,8 +204,17 @@ rebuilding from scratch.
   desk in a dim corner office at night, backlit by a monitor showing blurred query-log data,
   reaching to pull the same screen closer — sharp, controlled posture, no face visible,
   photorealistic, cool tones, 16:9.
+- *D (Shah, added):* Wide shot of a dim corner office at night — Shah's silhouette (same motif)
+  moving quickly from the desk toward a phone, urgency in her posture, backlit, no face visible,
+  photorealistic, cool tones, 16:9.
+- *E (added):* Close-up of three separate settlement folders stacked together on a desk, an
+  internal memo with "NDA" language visible but blurred/generic on top, desk lamp lighting,
+  photorealistic, 16:9.
+- *F (Shah, added):* Wide establishing shot of a legal department office late at night — most
+  desks empty, one occupied by a silhouette on the phone (Shah's motif, wider framing than C),
+  backlit by city lights through the windows, photorealistic, cool tones, 16:9.
 
-**Block 18 — Vought Notices: the journalist's call [STILL — 4 images]**
+**Block 18 — Vought Notices: the journalist's call [STILL — 6 images]**
 - *A:* A journalist at a cluttered desk answering a phone call, dim room, photorealistic, cool
   tones, 16:9.
 - *B:* Close-up on the phone screen showing an incoming call from a generic "media relations"
@@ -216,6 +225,11 @@ rebuilding from scratch.
   blazer, hair pulled back, phone held to her ear, framed against a floor-to-ceiling window with
   a city skyline at night behind her, calm and controlled stance, no face visible, photorealistic,
   cool tones, 16:9.
+- *E (Shah, added):* Close-up on Shah's hand (same silhouette motif, no face) setting the phone
+  down after the call, composed posture, backlit by city lights, photorealistic, 16:9.
+- *F (added):* Wide shot of the journalist's newsroom from behind — other reporters visible
+  working at a distance, unaware, single desk lit where he takes the call, photorealistic, cool
+  tones, 16:9.
 
 **Block 19 — Vought Notices: reach and retaliation [STILL — 2 images]**
 - *A:* Close-up of a formal legal letter on a desk, letterhead generic/blank, photorealistic,
@@ -310,9 +324,9 @@ hold, since it covers the longest stretch of outro narration.
   image-to-image if using another tool) within each of those blocks to keep him consistent,
   same as Episode 001's Block 16 fix. Blocks 2, 20, and 22 don't need to match each other
   exactly (different scenes, different sessions) as long as each block is internally consistent.
-- Shah (Vought's crisis-response executive) appears in Blocks 17C, 18D, 22D, and 23C — always
-  the silhouette motif, never her face, so no image-to-image threading is needed across those
-  four; just restate the motif description each time rather than reusing one reference image.
+- Shah (Vought's crisis-response executive) appears in Blocks 17C/D/F, 18D/E, 22D, and 23C —
+  always the silhouette motif, never her face, so no image-to-image threading is needed across
+  these; just restate the motif description each time rather than reusing one reference image.
 - Generation budget: ~57 stills + 3 motion clips + 2 Canva graphics ≈ 62 pieces. Split across
   Grok/Gemini/Bing/Canva Magic Media/ChatGPT rather than one tool.
 - Every "generic investigator/analyst/journalist/executive" prompt is deliberately a one-off,
