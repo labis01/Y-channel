@@ -23,6 +23,13 @@ marriage, or herself.
 which she's still quietly grieving when the betrayal surfaces — nobody in the story dies. Patricia
 (Dani's mother) is alive and present throughout, not a deceased/flashback character.
 
+**Visual constraint — locked, applies to script and every image/video prompt:** no hospital
+scenes, no blood, no depiction of loss of life. The miscarriage is handled entirely through
+dialogue and performance (a line, a silence, a look) — never shown, never flashed back to as an
+event, no medical setting or imagery anywhere in the story. Grief plays out in ordinary spaces
+(the restaurant, the kitchen, the car) through what characters say and don't say, not through
+depicting the loss itself.
+
 ## Why this plot (not a retelling of Imani's)
 Grace Studios' version centers infidelity as the betrayal, and a death as the loss. This version
 centers financial secrecy/gambling as the betrayal and a miscarriage as the loss — avoids the two

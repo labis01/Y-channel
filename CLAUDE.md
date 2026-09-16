@@ -387,8 +387,33 @@ Patricia (the mother) is alive and present as a character throughout, not deceas
 Financial-secrecy betrayal chosen over infidelity deliberately — avoids the most well-worn version
 of the trope and ties stakes to something concrete (a fresh-start gift from her mother, a ticking
 foreclosure clock) to structure the 40 minutes around.
+**Visual constraint (locked)**: no hospital scenes, no blood, no depiction of loss of life
+anywhere in the story — the miscarriage is handled entirely through dialogue/performance, never
+shown or flashed back to as an event. Applies to the script and every image/video prompt once
+production starts.
 Full treatment, cast list, voice needs, and act structure in
 `scripts/harper-lane-001-before-i-let-you-go.md`. Not yet scripted scene-by-scene.
+
+## YouTube policy compliance (check before every Harper Lane Films upload)
+- **AI-content disclosure**: toggle on "Altered or synthetic content" (Studio → video → Details →
+  Show more) for every upload — same rule as Logic Nexus, applies even harder here since this
+  format is fully AI-generated dramatized narrative (image/video + multi-voice narration), not
+  hypothetical commentary.
+- **Sensitive-topic framing (miscarriage)**: advertiser-friendly guidelines allow
+  documentary/dramatized treatment of sensitive personal loss, but require it not be graphic,
+  exploitative, or played for shock. The locked visual constraint (no hospital scenes, no blood,
+  no depiction of loss of life — dialogue/performance only) keeps this well inside safe
+  territory; don't loosen it for a "more dramatic" cold open later.
+- **Gambling depiction**: Marcus's storyline must show gambling addiction's consequences
+  (debt, secrecy, damage to the marriage/family), never instructional detail or anything that
+  reads as promoting or glamorizing gambling — keep it in "how the lie catches up to him"
+  framing throughout, consistent with the show's rebuild-not-relapse ending.
+- **Thumbnail/title**: no graphic or shock-bait imagery given the sensitive subject matter —
+  emotional but not exploitative, consistent with Grace Studios' own thumbnail approach for the
+  reference video.
+- Revisit this section once Case File 004-style real Studio performance data exists for Harper
+  Lane Films — for now this is a pre-production checklist, not yet tested against real policy
+  enforcement.
 
 ## Open questions before real production planning
 - Parallel with Logic Nexus now, or sequenced after Episode 001 (+ maybe more Case Files) ships?
