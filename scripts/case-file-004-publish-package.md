@@ -56,11 +56,11 @@ corporate conspiracy, Vought Rising, The Boys Vought, anime detective, true crim
 
 ## Pinned Comment
 
-Wrote this one wondering if a case with no single suspect would even work as a video — turns out
-corporations behave way more predictably than individual people once you know what to look for.
-Curious what you all think actually closes this one: the physical evidence trail, the digital
-noise, or the moment Shah starts reacting to L specifically instead of just following protocol?
-Drop your verdict below. Next file's already in the works.
+ngl wasn't sure a corporation could even work as a suspect until I wrote this one — turns out
+institutions are actually more predictable than people once you know what to look for lol. what
+do you think actually closes the case here: the physical evidence, the digital trail, or the
+second Shah starts reacting to L specifically instead of just running protocol? drop your verdict
+below 👇 next case file's already cooking
 
 ## Subtitles
 
