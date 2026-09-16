@@ -180,11 +180,15 @@ rebuilding from scratch.
 - *E (added):* Wide shot of an empty product launch display being set up in a separate room —
   staged pedestal, lighting rigs, no product visible yet — photorealistic, cool tones, 16:9.
 
-**Block 15 — Behavioral Evidence: the personnel pattern [STILL — 2 images]**
+**Block 15 — Behavioral Evidence: the personnel pattern [STILL — 4 images]**
 - *A:* Close-up of a severance document on a desk beside a cardboard box, dim office lighting,
   photorealistic, 16:9.
 - *B:* Wide shot of an empty cubicle, personal items removed except one forgotten item,
   photorealistic, cool tones, 16:9.
+- *C (added):* Close-up of a restrictive non-disclosure clause section highlighted within a legal
+  document, desk lighting, photorealistic, 16:9.
+- *D (added):* Wide shot of a row of several empty cubicles along a corridor, personal items long
+  since removed from each, cool desaturated tones, photorealistic, 16:9.
 
 **Block 16 — Behavioral Evidence: the scapegoat [STILL — 2 images]**
 - *A:* Wide shot of a mid-level corporate office, nameplate visible but blank/generic, single
