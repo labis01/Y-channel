@@ -1,10 +1,10 @@
 # Case File 004 — "Could L Catch Vought?" — Image/Video Prompt List
 
-Status: **All assets complete — 57 stills, 3 motion clips (Blocks 1/21/27), 2 Canva graphics
-(Blocks 4/26).** Script is locked (see `case-file-004-l-vs-vought.md`, cold open already
-tightened). Next: assemble the CapCut edit, then record narration last against the finished cut,
-per the flexible sequencing rule in CLAUDE.md — this avoids the Case File 003 problem of visuals
-built to specs that no longer match already-recorded narration.
+Status: Narration recorded (Haven Sands, ~13 min actual — faster than the ~184wpm calibration,
+see CLAUDE.md case file log). CapCut assembly in progress; the original ~62-asset plan grew to
+**~85 pieces (76 stills, 5 motion clips, 4 Canva graphic variants)** once real per-block timing
+was checked against each block's asset count during editing — gap-fills applied to Blocks 3, 4,
+7, 8, 12, 14, 15, 17, 18, 22, 23, and 27 (27 grew from 2 motion clips to 4).
 
 **De-risking — read before generating anything**: "Vought" is a fictional conglomerate from a
 licensed show. Never use the name "Vought," any character names from that show, or any reference
@@ -38,13 +38,14 @@ calculated from this script's actual per-section word count at 184 wpm.
   pull-back)
 - **GRAPHIC** = build in Canva, not AI-generated
 
-**Generation budget: ~59 stills + 3 motion clips + 4 graphic variants ≈ 66 pieces.** Split across
+**Generation budget: ~76 stills + 5 motion clips + 4 graphic variants ≈ 85 pieces.** Split across
 Grok/Gemini/Bing/Canva Magic Media/ChatGPT from the start, same resourcing note as Episode 001.
-(Was ~58; +4 stills added across Blocks 17/18/22/23 for Shah's recurring silhouette motif after
-the script's dual-agency revision — see CLAUDE.md 1b and the script's status line. +2 more added
-to Block 3, identified as running short once actual per-image pacing was confirmed at ~8s/image
-against the block's real narration length. Block 4's single graphic split into 3 progressive-
-reveal variants for the same reason — one static export can't fill ~20s without feeling flat.)
+(Was ~58; grew across several rounds of gap-filling once actual per-block narration pacing was
+confirmed during CapCut assembly — Shah's recurring silhouette motif across Blocks 17/18/22/23,
+Block 3's extra stills, Block 4's graphic split into 3 progressive-reveal variants, and top-ups
+to Blocks 7/8/12/14/15/17/18/22/23 once each block's real duration was checked against its still
+count. Block 27 grew from 2 motion clips to 4 for the same reason — its ~64s of closing
+narration was far longer than 2 clips could cover.)
 
 ---
 
@@ -311,22 +312,31 @@ Physical Evidence Trail 3, Digital Footprint 6, Behavioral Pattern Consistency 8
 Control 9, Adaptive Response 7, Resource & Network Advantage 9 — Total 42/60.
 Header: "Case File 004 · Could L Catch Vought?"
 
-**Block 27 — Closing Pull-Back [VIDEO — clip 3 of 3, two shots]**
-This beat now uses two real motion clips back to back instead of one clip plus a freeze-frame
-hold, since it covers the longest stretch of outro narration.
+**Block 27 — Closing Pull-Back [VIDEO — clip 3 of 3, four shots]**
+This beat now uses four real motion clips back to back, continuing a single pull-back
+progression, since the block's ~64s of narration is far longer than 2 clips could cover even
+with a freeze-frame hold.
 - *Shot 1 (15s):* Dark city skyline at night, one tower among many. Slow rising pull-back, the
   tower shrinking into the skyline. Cool blue-grey grade, photorealistic, 16:9.
 - *Shot 2 (15s, cuts in directly after Shot 1):* Wide static-feeling drone shot high above the
   dark city skyline at night, extremely slow drift, scattered lights below, the tower barely
   visible among hundreds of others, cool blue-grey desaturated grade, quiet and still,
   photorealistic, 16:9.
-- If any narration time is still left after both, freeze on Shot 2's last frame and hold rather
-  than stretching either clip's playback speed.
+- *Shot 3 (17s, added):* Extremely slow rising drone shot above a thin layer of haze, the city's
+  lights reduced to a faint diffuse glow far below, nothing individually distinguishable, cool
+  blue-grey desaturated grade, quiet and still, photorealistic, 16:9.
+- *Shot 4 (17s, added):* Final wide static shot from high above, the city skyline reduced to a
+  distant horizon line of scattered light beneath a dark sky, extremely slow fade toward black
+  near the end, cool blue-grey grade, photorealistic, 16:9.
+- Four shots at ~15-17s each total ~64s, matching the block's narration almost exactly — no
+  freeze-frame needed. If timing still drifts slightly once cut, freeze on Shot 4's last frame
+  rather than stretching any clip's playback speed.
 
 ---
 
 ## Notes
-- 3 real motion clips: Block 1 (cold open), Block 21 (trap beat), Block 27 (closing pull-back).
+- 5 real motion clips: Block 1 (cold open), Block 21 (trap beat), Block 27 (closing pull-back,
+  now 4 shots instead of 2).
 - L appears explicitly only in Blocks 2, 20, and 22 — use the same-thread ChatGPT method (or
   image-to-image if using another tool) within each of those blocks to keep him consistent,
   same as Episode 001's Block 16 fix. Blocks 2, 20, and 22 don't need to match each other
@@ -334,8 +344,8 @@ hold, since it covers the longest stretch of outro narration.
 - Shah (Vought's crisis-response executive) appears in Blocks 17C/D/F, 18D/E, 22D, and 23C —
   always the silhouette motif, never her face, so no image-to-image threading is needed across
   these; just restate the motif description each time rather than reusing one reference image.
-- Generation budget: ~57 stills + 3 motion clips + 2 Canva graphics ≈ 62 pieces. Split across
-  Grok/Gemini/Bing/Canva Magic Media/ChatGPT rather than one tool.
+- Generation budget: ~76 stills + 5 motion clips + 4 Canva graphic variants ≈ 85 pieces. Split
+  across Grok/Gemini/Bing/Canva Magic Media/ChatGPT rather than one tool.
 - Every "generic investigator/analyst/journalist/executive" prompt is deliberately a one-off,
   unnamed character — no consistency needed across blocks for these, only within L's three
   blocks and Shah's four.
