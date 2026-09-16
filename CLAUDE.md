@@ -392,7 +392,13 @@ anywhere in the story — the miscarriage is handled entirely through dialogue/p
 shown or flashed back to as an event. Applies to the script and every image/video prompt once
 production starts.
 Full treatment, cast list, voice needs, and act structure in
-`scripts/harper-lane-001-before-i-let-you-go.md`. Not yet scripted scene-by-scene.
+`scripts/harper-lane-001-before-i-let-you-go.md`. **Full scene-by-scene script written** —
+14 scenes across the 4 acts, in `scripts/harper-lane-001-script.md`. Restaurant named
+**Josephine's** (Dani's grandmother; Patricia ran it, now handed to Dani). Adds one
+single-scene character, **Devon** (Marcus's bar scene) — not part of the core 5-voice cast,
+low priority to cast with a dedicated ElevenLabs voice since he doesn't reappear. Visual
+constraint (no hospital/blood/depiction of loss of life) and gambling-depiction policy note
+both confirmed clean across all 14 scenes. Not yet recorded/produced.
 
 ## YouTube policy compliance (check before every Harper Lane Films upload)
 - **AI-content disclosure**: toggle on "Altered or synthetic content" (Studio → video → Details →
