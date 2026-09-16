@@ -316,10 +316,11 @@ mid-production; script still gets locked first either way.
   **CapCut edit complete** — the original ~62-asset plan grew to ~85 pieces (76 stills, 5 motion
   clips, 4 Canva graphic variants) as real per-block timing was checked against each block's
   still count during editing — gap-fills applied across most blocks, plus Block 27 expanded from
-  2 to 4 motion clips to cover its ~64s closing stretch. **Publish package complete**
-  (title/description/tags/pinned comment/subtitle instructions in
-  `scripts/case-file-004-publish-package.md`). Only the pre-publish checklist (AI-disclosure
-  toggle, playlist add, post-upload Copyright check) and the actual upload remain. Timely pick:
+  2 to 4 motion clips to cover its ~64s closing stretch. **Published.** Post-upload items still
+  pending: pin the comment, add subtitles (plain-text transcript, no timing, let YouTube
+  auto-sync), confirm AI-disclosure toggle and playlist add, check Studio → Copyright in a day
+  or two, and check the Languages tab in a day or two — the real test of whether automatic
+  dubbing actually populates on its own (production pipeline item 10). Timely pick:
   Death Note's 2026 Barbican musical revival (just ended Sept 12) driving renewed L/franchise
   search interest, plus *The Boys* Season 5 ending + *Vought Rising* spinoff announcement keeping
   Vought relevant. **Rejected alternative**: "Could L Catch Epstein?" — a real, proven-viral
