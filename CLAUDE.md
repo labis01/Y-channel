@@ -403,7 +403,13 @@ Full treatment, cast list, voice needs, and act structure in
 single-scene character, **Devon** (Marcus's bar scene) — not part of the core 5-voice cast,
 low priority to cast with a dedicated ElevenLabs voice since he doesn't reappear. Visual
 constraint (no hospital/blood/depiction of loss of life) and gambling-depiction policy note
-both confirmed clean across all 14 scenes. Not yet recorded/produced.
+both confirmed clean across all 14 scenes. **Character bible written** —
+`scripts/harper-lane-001-character-bible.md` — full physical/wardrobe/voice/personality/speech
+notes for all 6 characters, closes part of the "character visual consistency" open gap: each
+character gets one anchor image generated first, then image-to-image reference for every
+subsequent shot (same method proven on Logic Nexus's reused L portrait). Visual language for
+this channel locked as warmer/naturalistic, deliberately distinct from Logic Nexus's
+noir/desaturated grade. Not yet recorded/produced.
 
 ## YouTube policy compliance (check before every Harper Lane Films upload)
 - **AI-content disclosure**: toggle on "Altered or synthetic content" (Studio → video → Details →
