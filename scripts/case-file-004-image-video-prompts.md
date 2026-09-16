@@ -38,12 +38,13 @@ calculated from this script's actual per-section word count at 184 wpm.
   pull-back)
 - **GRAPHIC** = build in Canva, not AI-generated
 
-**Generation budget: ~59 stills + 3 motion clips + 2 graphics ≈ 64 pieces.** Split across
+**Generation budget: ~59 stills + 3 motion clips + 4 graphic variants ≈ 66 pieces.** Split across
 Grok/Gemini/Bing/Canva Magic Media/ChatGPT from the start, same resourcing note as Episode 001.
 (Was ~58; +4 stills added across Blocks 17/18/22/23 for Shah's recurring silhouette motif after
 the script's dual-agency revision — see CLAUDE.md 1b and the script's status line. +2 more added
 to Block 3, identified as running short once actual per-image pacing was confirmed at ~8s/image
-against the block's real narration length.)
+against the block's real narration length. Block 4's single graphic split into 3 progressive-
+reveal variants for the same reason — one static export can't fill ~20s without feeling flat.)
 
 ---
 
@@ -78,9 +79,19 @@ the tower. Cool blue-grey grade, photorealistic, 16:9.
   names and floor numbers, text blurred/illegible, suggesting a large multi-department
   institution, photorealistic, cool desaturated tones, 16:9.
 
-**Block 4 — The Setup: three categories [GRAPHIC]**
+**Block 4 — The Setup: three categories [GRAPHIC — 3 variants]**
 Build in Canva — case file folder graphic with three labeled tabs (Physical / Digital /
-Behavioral), matches badge color palette. No AI image needed.
+Behavioral), matches badge color palette. No AI image needed. Block runs ~20s (72 words); a
+single static export held that long reads as flat, so export a progressive reveal instead of
+one frozen graphic:
+- *Variant 1:* all three tabs visible but dim/unhighlighted — plays under "this runs through
+  the same three categories any investigation would."
+- *Variant 2:* "Physical" tab highlighted/brightened — plays as "physical, digital, behavioral"
+  is spoken.
+- *Variant 3:* all three tabs highlighted — plays under the rest of the block, through "Let's
+  start with the one that should be easiest to erase completely."
+Same base Canva file for all three — just toggle tab opacity/highlight per export rather than
+rebuilding from scratch.
 
 **Block 5 — Physical Evidence: quiet settlements [STILL — 2 images]**
 - *A:* Close-up of a settlement document with a signature line and a redacted amount, desk lamp
