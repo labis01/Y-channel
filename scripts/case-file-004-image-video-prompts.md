@@ -105,11 +105,14 @@ rebuilding from scratch.
 - *B:* Close-up on unmarked equipment cases being loaded into an unmarked van at night,
   photorealistic, 16:9.
 
-**Block 7 — Physical Evidence: the wreckage [STILL — 2 images]**
+**Block 7 — Physical Evidence: the wreckage [STILL — 3 images]**
 - *A:* A damaged vehicle or structure at a night scene, damage pattern inconsistent with a mundane
   explanation, cool moonlight, photorealistic, 16:9.
 - *B:* Close-up on structural damage detail, investigator's gloved hand pointing at an
   inconsistency, photorealistic, 16:9.
+- *C (added):* Wide shot of a table with several incident case files and photographs laid out
+  side by side, subtle visual similarities between the wreckage in each one, single desk lamp
+  lighting, photorealistic, 16:9.
 
 **Block 8 — Physical Evidence: the paperwork [STILL — 2 images]**
 - *A:* Close-up of a waste disposal manifest with a shell-company letterhead, desk lighting,
