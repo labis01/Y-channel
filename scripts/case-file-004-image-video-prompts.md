@@ -170,11 +170,15 @@ rebuilding from scratch.
   conference"). Fallback prompt: Wide shot of the press room from the back, rows of journalists,
   photorealistic, 16:9.
 
-**Block 14 — Behavioral Evidence: the reframe [STILL — 3 images]**
+**Block 14 — Behavioral Evidence: the reframe [STILL — 5 images]**
 - *A:* Close-up of a TV screen showing a generic "hero" headline graphic (leave text blank),
   photorealistic, cool glow, 16:9.
 - *B:* Wide shot of a media production room, editors at monitors, photorealistic, 16:9.
 - *C:* Close-up of a hand adjusting a broadcast graphic on a control panel, photorealistic, 16:9.
+- *D (added):* Close-up of a printed internal briefing document with numbered talking points,
+  generic corporate letterhead, desk lamp lighting, photorealistic, 16:9.
+- *E (added):* Wide shot of an empty product launch display being set up in a separate room —
+  staged pedestal, lighting rigs, no product visible yet — photorealistic, cool tones, 16:9.
 
 **Block 15 — Behavioral Evidence: the personnel pattern [STILL — 2 images]**
 - *A:* Close-up of a severance document on a desk beside a cardboard box, dim office lighting,
