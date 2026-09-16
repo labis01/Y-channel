@@ -352,7 +352,9 @@ outperform months of steady output. Worth factoring into the parallel-vs-sequenc
 may not require the same twice-weekly commitment Logic Nexus does to pay off.
 
 ## Key production differences from Logic Nexus (not yet solved — plan before producing)
-- **Runtime**: likely 60-120+ minutes ("complete series" compiled into one video), not 14-15 min.
+- **Runtime: 40 minutes** for the first video — locked target, scaled down from the earlier
+  60-120+ min placeholder to something achievable as a first attempt at multi-voice/multi-
+  character production rather than starting at feature length.
 - **Multiple character voices**: dialogue between several named characters (e.g. Imani, husband,
   best friend), not one locked narrator voice — needs multiple ElevenLabs voices, not just Haven
   Sands.
