@@ -1,5 +1,13 @@
 # Case File 004 — Publish Package
 
+## Title
+
+Could L Catch Vought? | The Boys x Death Note
+
+(Matches the thumbnail's main line exactly — no title/thumbnail mismatch. Adds "The Boys x Death
+Note" for searchability, since most searchers won't type "Vought" alone but will search either
+franchise name.)
+
 ## Description
 
 Vought International doesn't have a person to catch. It has a payroll.
@@ -39,3 +47,33 @@ catch different targets — real characters, fictional villains, and now, appare
 corporations. New Case File drops soon.
 
 #TheBoys #Vought #DeathNote #L #CouldLCatch #Deduction #FictionalForensics
+
+## Tags
+
+Could L Catch Vought, The Boys, Vought International, Death Note, L Death Note, L Lawliet, The
+Boys Season 5, could L catch, deduction breakdown, detective analysis, fictional forensics,
+corporate conspiracy, Vought Rising, The Boys Vought, anime detective, true crime style breakdown
+
+## Pinned Comment
+
+Wrote this one wondering if a case with no single suspect would even work as a video — turns out
+corporations behave way more predictably than individual people once you know what to look for.
+Curious what you all think actually closes this one: the physical evidence trail, the digital
+noise, or the moment Shah starts reacting to L specifically instead of just following protocol?
+Drop your verdict below. Next file's already in the works.
+
+## Subtitles
+
+Upload the plain-text narration transcript (`case-file-004-narration-clean.txt`) as the subtitle
+file — not a timed file, let YouTube auto-sync it against the audio track, per the locked
+publish-package rule.
+
+## Pre-publish checklist
+
+- [ ] Toggle "Altered or synthetic content" — Studio → video → Details → Show more
+- [ ] Add to "Fictional Forensics" playlist in release order
+- [ ] Check Studio → Copyright a day or two after upload; dispute citing fair use if a claim
+      lands on the thumbnail likeness (known, accepted trade-off — not a reason to change
+      anything)
+- [ ] Spot-check the description's timestamps against the actual rendered video — they're
+      calculated from narration pacing and may drift slightly from the final CapCut export
