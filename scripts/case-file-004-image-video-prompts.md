@@ -152,11 +152,15 @@ rebuilding from scratch.
 - *C:* Close-up on hands typing quickly on a keyboard, screen glow lighting them from below,
   photorealistic, 16:9.
 
-**Block 12 — Digital Problem: the financial trail [STILL — 2 images]**
+**Block 12 — Digital Problem: the financial trail [STILL — 4 images]**
 - *A:* Close-up of a financial ledger or wire transfer document with a shell company name visible
   but generic (no real branding), desk lamp lighting, photorealistic, 16:9.
 - *B:* Wide shot of a bank of filing boxes labeled with generic subsidiary names, dim warehouse
   lighting, photorealistic, 16:9.
+- *C (added):* Close-up of a settlement document showing a chain of subsidiary company names
+  stamped one after another, redacted dollar amounts, desk lamp lighting, photorealistic, 16:9.
+- *D (added):* Close-up of a computer screen showing a file list — most entries greyed/normal, a
+  small handful highlighted/selected for deletion, dim blue glow, photorealistic, 16:9.
 
 **Block 13 — Behavioral Evidence: the crisis statement [B-ROLL + STILL — 2 images]**
 - *A [B-ROLL, fallback STILL]:* Try Pexels first ("press conference speech," "podium press
