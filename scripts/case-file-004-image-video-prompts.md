@@ -265,7 +265,7 @@ needed there. D (Shah) uses the silhouette motif from Blocks 17/18, not the same
   night, quick and deliberate motion, backlit by a monitor, no face visible, photorealistic, cool
   tones, 16:9.
 
-**Block 23 — The Second Attempt: the shell payment [STILL — 3 images]**
+**Block 23 — The Second Attempt: the shell payment [STILL — 4 images]**
 - *A:* Close-up of a wire transfer confirmation on a screen, generic shell company name,
   photorealistic, cool glow, 16:9.
 - *B:* Wide shot of a dim financial records office, single desk lit, photorealistic, 16:9.
@@ -273,6 +273,9 @@ needed there. D (Shah) uses the silhouette motif from Blocks 17/18, not the same
   blazer, hair pulled back, one hand pausing over a keyboard before pressing a key, tense stillness,
   backlit by a screen's cool glow in an otherwise dark office, no face visible, photorealistic,
   16:9.
+- *D (added):* Close-up of a financial ledger spreadsheet, one transaction row highlighted
+  differently from years of near-identical rows above and below it, desk lamp lighting,
+  photorealistic, 16:9.
 
 **Block 24 — The Second Attempt: narrowing the org chart [STILL — 2 images]**
 - *A:* Close-up of an org chart with most names crossed out, a small handful circled,
