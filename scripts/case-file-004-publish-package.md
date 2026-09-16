@@ -56,7 +56,7 @@ corporate conspiracy, Vought Rising, The Boys Vought, anime detective, true crim
 
 ## Pinned Comment
 
-ngl going into this one I wasn't sure a corporation could even work as a suspect. turns out
+honestly going into this one I wasn't sure a corporation could even work as a suspect. turns out
 institutions are way more predictable than people once you know what to look for lol
 
 what actually closes the case for you — the physical evidence, the digital trail, or the second
