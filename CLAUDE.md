@@ -374,8 +374,20 @@ may not require the same twice-weekly commitment Logic Nexus does to pay off.
 - **Script**: a real dramatic story arc (betrayal/loss/rebuilding structure), not an
   evidence-based investigation structure — different writing skillset from Logic Nexus scripts.
 
+## Episode 001: "Before I Let You Go" — story locked
+Title deliberately reused from Grace Studios' outlier itself (a common phrase — also a Frankie
+Beverly & Maze / Cynthia Erivo song title, not a distinctive trademark — so no de-risking
+conflict). Story underneath is original, not a retelling of Imani's arc: same betrayal → loss →
+rebuild formula, different plot. **Logline**: after burying her mother, a woman discovers the
+family restaurant she just inherited has been secretly remortgaged by her husband to cover a
+gambling debt he's hidden for years — one week before foreclosure to decide what she's actually
+fighting to save, the marriage or herself. Financial-secrecy betrayal chosen over infidelity
+deliberately — avoids the most well-worn version of the trope and ties stakes to something
+concrete (a physical legacy, a ticking foreclosure clock) to structure the 40 minutes around.
+Full treatment, cast list, voice needs, and act structure in
+`scripts/harper-lane-001-before-i-let-you-go.md`. Not yet scripted scene-by-scene.
+
 ## Open questions before real production planning
 - Parallel with Logic Nexus now, or sequenced after Episode 001 (+ maybe more Case Files) ships?
-- Full story/script concept for Harper Lane Films' first video — not yet chosen.
 - Tool stack for multi-character AI video consistency and multi-voice narration — not yet
   researched/locked.
