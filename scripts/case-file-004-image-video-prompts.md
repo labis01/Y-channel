@@ -249,10 +249,11 @@ rebuilding from scratch.
 Corporate media control room at night, screens flickering rapid updates. Slow push-in. Tense,
 cool desaturated tones, photorealistic, 16:9.
 
-**Block 22 — The Trap: analyzing the correction [STILL — 4 images]**
+**Block 22 — The Trap: analyzing the correction [STILL — 5 images]**
 **Consistency note**: generate A first, then stay in the same thread and reference it for B —
-same method as Block 2 and Episode 001's Block 16. C has no person in frame, so no reference
-needed there. D (Shah) uses the silhouette motif from Blocks 17/18, not the same thread as A/B.
+same method as Block 2 and Episode 001's Block 16. C and E have no person in frame, so no
+reference needed there. D (Shah) uses the silhouette motif from Blocks 17/18, not the same
+thread as A/B.
 - *A (generate first):* The pale detective — slight build, messy dark hair, pale skin, dark
   circles under the eyes, plain long-sleeved top — studying two documents side by side under a
   desk lamp, photorealistic, 16:9.
@@ -264,6 +265,9 @@ needed there. D (Shah) uses the silhouette motif from Blocks 17/18, not the same
   blazer, hair pulled back, handing a folder to an out-of-frame second person across a desk at
   night, quick and deliberate motion, backlit by a monitor, no face visible, photorealistic, cool
   tones, 16:9.
+- *E (added):* Close-up of a printed press correction statement with an outside counsel law
+  firm's letterhead, vague/hedged language visible but blurred, desk lighting, photorealistic,
+  16:9.
 
 **Block 23 — The Second Attempt: the shell payment [STILL — 4 images]**
 - *A:* Close-up of a wire transfer confirmation on a screen, generic shell company name,
