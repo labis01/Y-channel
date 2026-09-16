@@ -114,11 +114,14 @@ rebuilding from scratch.
   side by side, subtle visual similarities between the wreckage in each one, single desk lamp
   lighting, photorealistic, 16:9.
 
-**Block 8 — Physical Evidence: the paperwork [STILL — 2 images]**
+**Block 8 — Physical Evidence: the paperwork [STILL — 3 images]**
 - *A:* Close-up of a waste disposal manifest with a shell-company letterhead, desk lighting,
   photorealistic, 16:9.
 - *B:* Wide shot of a records room, endless filing cabinets, single overhead light,
   photorealistic, cool tones, 16:9.
+- *C (added):* Wide shot of specialized cleanup equipment and vehicles already positioned near a
+  cordoned-off site at night, arriving with unusual precision before any public response, no
+  visible insignia, cool desaturated tones, photorealistic, 16:9.
 
 **Block 9 — Digital Problem: the media noise [B-ROLL + STILL — 3 images]**
 - *A [B-ROLL, fallback STILL] — ✓ downloaded:* Try Pexels first ("news control room," "broadcast
