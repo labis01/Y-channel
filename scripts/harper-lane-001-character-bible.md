@@ -124,6 +124,51 @@ with Marcus before and is tired of it, not someone looking for trouble.
 
 ---
 
+## Anchor image prompts (ready to paste)
+
+Generate each of these once, first, before any scene-specific image prompt for that character —
+then use the resulting image as an image-to-image reference for every later shot instead of
+re-prompting from text. Order matches the priority list below.
+
+**1. Dani Carter**
+> Photorealistic portrait, medium shot, a Black woman in her mid-30s with warm brown skin and
+> natural coily hair pulled back into a low bun, wearing a simple apron over a plain henley
+> shirt, expressive dark eyes that read as both warm and quietly tired, minimal makeup, soft
+> warm naturalistic lighting, standing in a softly lit restaurant kitchen, shallow depth of
+> field, cinematic but grounded, photorealistic, no text, no logos.
+
+**2. Marcus Carter**
+> Photorealistic portrait, medium shot, a Black man in his late 30s, clean-cut with short hair,
+> wearing a slightly loosened tie and a button-down shirt with a faint wrinkle at the collar,
+> tired eyes behind a practiced smile, average build, soft warm naturalistic lighting, neutral
+> indoor background, shallow depth of field, cinematic but grounded, photorealistic, no text,
+> no logos.
+
+**3. Renee**
+> Photorealistic portrait, medium shot, a Black woman in her mid-30s with short natural hair or
+> braids, animated expression, bold colorful clothing, direct confident energy in her eyes, soft
+> warm naturalistic lighting, casual indoor setting, shallow depth of field, cinematic but
+> grounded, photorealistic, no text, no logos.
+
+**4. Patricia Carter**
+> Photorealistic portrait, medium shot, a Black woman in her 60s with silver-streaked natural
+> hair, dressed with quiet dignity, capable hands, calm steady expression, warm naturalistic
+> lighting, restaurant or home setting, shallow depth of field, cinematic but grounded,
+> photorealistic, no text, no logos.
+
+**5. Isaiah**
+> Photorealistic portrait, medium shot, a Black man in his late 20s, leaner build, casually
+> dressed in a hoodie, relaxed but slightly restless posture, youthful face, soft warm
+> naturalistic lighting, casual indoor setting, shallow depth of field, cinematic but grounded,
+> photorealistic, no text, no logos.
+
+**6. Devon** *(lowest priority — single scene, minimal detail needed)*
+> Photorealistic portrait, medium shot, a man in his late 30s to 40s, nondescript low-key
+> appearance, neutral casual clothing, weary and guarded expression, dim warm bar lighting,
+> shallow depth of field, cinematic but grounded, photorealistic, no text, no logos.
+
+---
+
 ## Production notes
 - Generate anchor images in this priority order: **Dani first** (most screen time, appears in
   nearly every scene), then Marcus, then Renee, Patricia, and Isaiah. Devon last, lowest
