@@ -258,18 +258,23 @@ mid-production; script still gets locked first either way.
       translated title/description while the actual audio dub is still sitting in Draft (i.e.
       unpublished, they'd hear English if they clicked in). This is exactly the mismatch risk
       flagged below — it's not hypothetical, it's the platform's actual default behavior.
-    - **Current call**: not worth reviewing/publishing dubs language-by-language right now —
-      this channel is at single-digit views per video, so real exposure to this mismatch is
-      minimal in practice. Revisit as a deliberate task once there's real traffic in specific
-      markets worth prioritizing (originally researched targets: Portuguese, Spanish, Hindi,
-      Indonesian — YouTube's auto-dub list doesn't necessarily match this and included languages
-      like Arabic on its own).
+    - **Reversed the "don't bother" call**: initially recommended skipping the review pass given
+      low traffic, but reconsidered — reviewing/publishing costs nothing extra and could plausibly
+      help both retention and algorithmic reach into non-English markets, the channel's actual
+      bottleneck. Went through Case File 004's 17 auto-populated languages spot-checking each
+      (10-15 sec listen, publish if coherent, skip if broken/ineligible — Arabic showed
+      "ineligible" and was skipped, unexplained/not fixable on our end).
+    - **Manual review toggle turned off** (Studio dubbing settings) going forward — dubs now
+      auto-publish once processing finishes, no per-language spot-check. Reasonable tradeoff at
+      current single-digit-views-per-video traffic (low downside if one dub is off), but **turn
+      manual review back on** once a specific language market (originally researched targets:
+      Portuguese, Spanish, Hindi, Indonesian) starts showing real traffic, so a bad auto-dub
+      can't tank retention in a market that's actually converting.
     - **Do not translate title/description without matching dubbed audio** — a localized title
       that leads into English audio is a false promise to the viewer and risks hurting retention
-      (bounce from mismatched expectation), not helping it. Since YouTube now does this
-      automatically without being asked, worth periodically checking the Languages tab on future
-      videos and deciding case-by-case whether to publish a given language's audio dub (closing
-      the gap) or leave it as-is given the low-traffic reality right now.
+      (bounce from mismatched expectation), not helping it. With manual review off, this mismatch
+      window shrinks (dubs publish faster/automatically) but doesn't disappear entirely, since
+      title/description can still land before audio finishes processing.
 
 ## YouTube policy compliance (check every video before publish)
 - **AI-content disclosure**: toggle on "Altered or synthetic content" (Studio → video → Details →
