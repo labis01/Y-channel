@@ -378,12 +378,15 @@ may not require the same twice-weekly commitment Logic Nexus does to pay off.
 Title deliberately reused from Grace Studios' outlier itself (a common phrase — also a Frankie
 Beverly & Maze / Cynthia Erivo song title, not a distinctive trademark — so no de-risking
 conflict). Story underneath is original, not a retelling of Imani's arc: same betrayal → loss →
-rebuild formula, different plot. **Logline**: after burying her mother, a woman discovers the
-family restaurant she just inherited has been secretly remortgaged by her husband to cover a
+rebuild formula, different plot. **Logline**: reopening the restaurant her mother handed her as a
+fresh start after a miscarriage, a woman discovers her husband secretly remortgaged it to cover a
 gambling debt he's hidden for years — one week before foreclosure to decide what she's actually
-fighting to save, the marriage or herself. Financial-secrecy betrayal chosen over infidelity
-deliberately — avoids the most well-worn version of the trope and ties stakes to something
-concrete (a physical legacy, a ticking foreclosure clock) to structure the 40 minutes around.
+fighting to save, the marriage or herself. **No death, no funeral** — revised from an earlier
+draft that opened on the mother's funeral; the "devastating loss" is the miscarriage instead, and
+Patricia (the mother) is alive and present as a character throughout, not deceased/flashback-only.
+Financial-secrecy betrayal chosen over infidelity deliberately — avoids the most well-worn version
+of the trope and ties stakes to something concrete (a fresh-start gift from her mother, a ticking
+foreclosure clock) to structure the 40 minutes around.
 Full treatment, cast list, voice needs, and act structure in
 `scripts/harper-lane-001-before-i-let-you-go.md`. Not yet scripted scene-by-scene.
 
