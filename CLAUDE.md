@@ -299,6 +299,12 @@ mid-production; script still gets locked first either way.
 - Case File 002: Could L Catch Wolverine? (published)
 - Case File 003: L vs Batman: Which One Is the World's Greatest Detective? — Nexus Detection
   Score 27/60. **Published.** Live as of the following session.
+  **Real performance (first 3 days 17 hours, via Studio):** 8 views, **22.2% thumbnail CTR**
+  (strong — above the ~10% "excellent" benchmark, though the impression count behind it is
+  still tiny, so treat as an early positive signal not a proven number), **6:26 average view
+  duration** (solid absolute watch time per viewer). Reach/impressions remain the actual
+  bottleneck — matches the honest odds assessment above exactly: the thumbnail and retention
+  numbers say the content holds up once clicked, the problem is discovery, not quality.
 - Case File 004: Could L Catch Vought? (Vought International, the fictional conglomerate from
   *The Boys*) — script locked, ~2,865 words/~15.6 min, Nexus Detection Score 42/60. Revised to
   personify Vought's countermoves through a recurring figure (Priya Shah, Head of Crisis
