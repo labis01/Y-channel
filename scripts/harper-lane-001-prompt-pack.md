@@ -340,14 +340,14 @@ conversations)
 *Dialogue: ISAIAH: "I'm not trying to pile on. I just don't want to watch you lose two things at once because you were too busy trying to save one of them."*
 
 **7E — Dani's close-up, reverse shot** *(coverage for her sharpest line, "what have you held
-
-*Dialogue: DANI: "And what exactly have you held onto lately, Isaiah? Besides opinions."*
 onto lately")*
 > Using this reference image, generate a close shot of Dani, sharp and pointed, mid-
 > sentence, arms still crossed. Quiet daytime lighting. Preserve her exact facial
 > features, hairstyle, and skin tone from the reference image — do not alter her identity.
 > Match her outfit exactly as shown. Photorealistic, cinematic but grounded, no text, no
 > logos.
+
+*Dialogue: DANI: "And what exactly have you held onto lately, Isaiah? Besides opinions."*
 
 ---
 
@@ -535,14 +535,14 @@ scenes
 *Dialogue: DANI: "I lost so much already, Mama. I don't know if I have anything left to fight with." PATRICIA: "You don't need to fight with what you don't have. You fight with what's still standing. And baby — look around. This is still standing. You reopened those doors two weeks ago with your own two hands." DANI: "And Marcus?" PATRICIA: "That's not mine to answer for you. But I'll say this — a man who spends three years protecting a lie instead of protecting you isn't protecting the marriage. He's protecting himself. You get to decide what you do with that. Not tonight. But soon."*
 
 **12E — Patricia's close-up, reverse shot** *(coverage for her monologue about the restaurant's
-
-*Dialogue: PATRICIA: "Baby, this restaurant survived your grandmother's divorce, two recessions, and a kitchen fire in '99 that took out half the block. It is not going to be the thing that breaks you."*
 history)*
 > Using this reference image, generate a close shot of Patricia, warm and steady, mid-
 > sentence, speaking with quiet conviction. Dim, warm counter lighting. Preserve her exact
 > facial features, hairstyle, and skin tone from the reference image — do not alter her
 > identity. Match her outfit exactly as shown. Photorealistic, cinematic but grounded, no
 > text, no logos.
+
+*Dialogue: PATRICIA: "Baby, this restaurant survived your grandmother's divorce, two recessions, and a kitchen fire in '99 that took out half the block. It is not going to be the thing that breaks you."*
 
 ---
 
