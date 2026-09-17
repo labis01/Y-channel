@@ -435,7 +435,7 @@ marriage) and Isaiah Boyd, siblings. Not yet recorded/produced.
 - **Visual consistency — split by asset type**: locations don't need identity-preservation the
   way character shots do, so they're handled separately. **The 5 location anchors (Josephine's
   front/dining, back office, Carter home kitchen, living room, the bar) are DONE — generated in
-  ChatGPT.** **Grok generates all ~53 character/scene shots** — reuses the already-proven Logic
+  ChatGPT.** **Grok generates all ~55 character/scene shots** — reuses the already-proven Logic
   Nexus workflow, image-to-image reference for every repeat appearance of a character (same
   method as L's reused portrait). Matters more here than on Logic Nexus, since this needs 5-6
   consistent faces across 14 scenes instead of one mostly-silhouetted recurring figure. Same
@@ -445,18 +445,18 @@ marriage) and Isaiah Boyd, siblings. Not yet recorded/produced.
 - **First concrete production step**: generate the Dani anchor image (prompt in the character
   bible) and preview ElevenLabs voice candidates against her lines. Once her face and voice are
   locked, the rest of the cast follows the same pattern.
-- **Per-beat generation workflow (locked)**: for each of the ~53 shots in Part 2, attach both the
+- **Per-beat generation workflow (locked)**: for each of the ~55 shots in Part 2, attach both the
   relevant location anchor image and the relevant character reference image(s) together in Grok,
   then generate from that beat's prompt — Grok composites the character into the location in one
   pass, rather than generating character and background separately.
-- **Animation (locked)**: all ~53 shots get CapCut Ken Burns/zoom — no real AI video motion
+- **Animation (locked)**: all ~55 shots get CapCut Ken Burns/zoom — no real AI video motion
   clips for this first episode (unlike Logic Nexus's 3-real-clips rule). Simpler production,
   fewer tools/steps while getting through the first full shot list. Revisit for a future episode
   once the pipeline is proven.
 - **Full prompt pack written and consolidated, then broken into shot beats, then given reverse-
   shot coverage** — `scripts/harper-lane-001-prompt-pack.md` — single file combining 5 recurring
   location anchor prompts (Josephine's front/dining, back office, Carter home kitchen, living
-  room, the bar) and all 14 scenes, each split into beat-level shot prompts (~53 total shots)
+  room, the bar) and all 14 scenes, each split into beat-level shot prompts (~55 total shots)
   instead of one image per scene — a 30-40 minute video can't run on 14 stills, same "images
   scale with length" principle as Logic Nexus's narration-based image count, applied here to
   scene/beat length. **Reverse-shot coverage locked in upfront** (8 added beats: 2D, 3D, 5D, 7E,
@@ -467,7 +467,9 @@ marriage) and Isaiah Boyd, siblings. Not yet recorded/produced.
   images to attach and that character's specific wardrobe look. Scene 14's beat 14A is the one
   4-character ensemble shot in the
   episode — flagged with a fallback (generate separately, composite in CapCut) if Grok can't hold
-  all 4 faces accurately at once.
+  all 4 faces accurately at once. **Dialogue lines added under every beat with spoken lines**
+  (51 of 55 — 1A, 4A, 9C, 14A are pure action/establishing shots with no dialogue), quoting the
+  exact script text, pulled directly from `harper-lane-001-script.md`.
 
 ## YouTube policy compliance (check before every Harper Lane Films upload)
 - **AI-content disclosure**: toggle on "Altered or synthetic content" (Studio → video → Details →
