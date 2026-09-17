@@ -12,6 +12,10 @@ generated in ChatGPT.** **Grok generates Part 2 (all ~55 character/scene shots)*
 appearance of a character needs image-to-image reference against the character sheets, same
 method as Logic Nexus's reused L portrait.
 
+**Production progress**: Scene 1 (1A, 1B, 1C) — **DONE**, 45 seconds total (three 15s Grok video
+clips back to back), matching the cold-open plan. Dani's face and voice locked from this scene
+(voice locked on 1A's ad-lib, see 1A's note below).
+
 ---
 
 ## Part 1 — Locations (generated in ChatGPT — done)
