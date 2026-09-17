@@ -12,9 +12,17 @@ generated in ChatGPT.** **Grok generates Part 2 (all ~55 character/scene shots)*
 appearance of a character needs image-to-image reference against the character sheets, same
 method as Logic Nexus's reused L portrait.
 
-**Production progress**: Scene 1 (1A, 1B, 1C) — **DONE**, 45 seconds total (three 15s Grok video
-clips back to back), matching the cold-open plan. Dani's face and voice locked from this scene
-(voice locked on 1A's ad-lib, see 1A's note below).
+**Production progress**: Scene 1 (1A, 1B, 1C) — generated as video directly (before the
+stills-first rule existed), 45 seconds total, kept as-is per the user's decision to stop spending
+credits on 1A specifically. Dani's face and voice locked from this scene (voice locked on 1A's
+ad-lib, see 1A's note below). These 3 beats don't have a locked still behind them the way every
+beat from here forward will — noted as a known gap, not backfilled unless it becomes a problem
+later in the edit.
+**Locations — regenerating in Grok, not ChatGPT**: the original 5 location anchors (Part 1,
+below) were made in ChatGPT, which turned out to be the root cause of the door/room drift on
+Scene 2 — a non-Grok-native image doesn't hold steady as a reference across multiple Grok
+generations. Regenerating all 5 locations directly in Grok now, so every future beat references
+a Grok-native image instead. Once regenerated, these become the new Part 1 anchors.
 
 **On scene timestamps vs. actual generated runtime**: each scene's "(0:00–2:00)" heading is a
 narrative pacing estimate for where the scene falls across the ~30-40 min episode, not a literal
@@ -683,16 +691,20 @@ CapCut/Canva.
   the prompt never told it the shot was silent. Fixed by adding an explicit "does not speak /
   no dialogue / no voiceover" clause to all 4 no-dialogue beats (1A, 4A, 9C, 14A). Don't assume
   the absence of a *Delivery:* line is enough on its own — Grok needs to be told directly.
-- **Animation — stills first for every beat, no exceptions**: revised after checking what's
-  actually known about Grace Studios (the reference channel) — "Made with AI," image/video +
-  narration, "a similar toolkit to Logic Nexus's, just scaled up." That means mostly stills with
-  motion, not continuous AI video for 30-40 minutes. **All 55 beats generate as a still first**
-  (Image to Image), checked against the location/character/object references before moving on.
-  Most stay stills, animated in CapCut with Ken Burns/zoom. **1A-1C, 5C, and 14D additionally
-  convert to real Grok video** after their still is locked, mirroring Logic Nexus's
-  cold-open/turning-point/closing-pullback rule. Grok caps each video generation at 15 seconds —
-  for a beat running longer, chain clips by generating the next 15 seconds using the previous
-  clip's last frame as the new reference image, then stitch as one continuous shot in CapCut.
-  **Rule generalized after 1A's problems** (key/lock misplacement, ad-libbed voice, door drift
-  into 2A) — 1A was generated as raw video with no still checkpoint to match against. No beat
-  generates as video directly from a prompt anymore; a locked still always comes first.
+- **Animation — two-phase: all stills first, then video for every beat**: 1A's problems
+  (key/lock misplacement, ad-libbed voice, door drift into 2A) traced back to generating video
+  directly from a prompt with no still checkpoint to match against. Fix generalized to every
+  beat, then extended further — **every one of the ~55 beats eventually becomes video**, not
+  just a handful, closer to the original "this is a movie, not a slideshow" intent, now made
+  safer by the stills-first checkpoint.
+  **Phase 1 (current step)**: generate and lock all ~55 stills (Image to Image), each checked
+  against location/character/object references before moving on. This is the phase in progress
+  now — finish all 55 stills before starting Phase 2.
+  **Phase 2 (later)**: go back through the locked, verified stills and convert each to video
+  (Image to Video / Frame to Video in Grok), seeded from the still rather than generated fresh
+  from a prompt. Grok caps each video generation at 15 seconds — for a beat needing more, chain
+  clips using the previous clip's last frame as the next reference image, then stitch as one
+  continuous shot in CapCut.
+  **Cost tradeoff**: this roughly doubles total Grok generations (~55 stills + up to ~55 video
+  conversions) versus the earlier "3 real-video beats" plan — a real credit cost, accepted
+  because each conversion starts from an already-verified still instead of a blind prompt.
