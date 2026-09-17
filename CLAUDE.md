@@ -371,9 +371,11 @@ outperform months of steady output. Worth factoring into the parallel-vs-sequenc
 may not require the same twice-weekly commitment Logic Nexus does to pay off.
 
 ## Key production differences from Logic Nexus (not yet solved — plan before producing)
-- **Runtime: 40 minutes** for the first video — locked target, scaled down from the earlier
-  60-120+ min placeholder to something achievable as a first attempt at multi-voice/multi-
-  character production rather than starting at feature length.
+- **Runtime: 30-40 minutes** for the first video — loosened from a fixed 40 to a range, itself
+  scaled down from the earlier 60-120+ min placeholder to something achievable as a first attempt
+  at multi-voice/multi-character production rather than starting at feature length. Same
+  philosophy as Logic Nexus's runtime rule: write to what the story earns within that range,
+  don't pad to hit the ceiling.
 - **Multiple character voices**: dialogue between several named characters (e.g. Imani, husband,
   best friend), not one locked narrator voice — needs multiple ElevenLabs voices, not just Haven
   Sands.
@@ -395,7 +397,7 @@ draft that opened on the mother's funeral; the "devastating loss" is the miscarr
 Patricia (the mother) is alive and present as a character throughout, not deceased/flashback-only.
 Financial-secrecy betrayal chosen over infidelity deliberately — avoids the most well-worn version
 of the trope and ties stakes to something concrete (a fresh-start gift from her mother, a ticking
-foreclosure clock) to structure the 40 minutes around.
+foreclosure clock) to structure the 30-40 minutes around.
 **Visual constraint (locked)**: no hospital scenes, no blood, no depiction of loss of life
 anywhere in the story — the miscarriage is handled entirely through dialogue/performance, never
 shown or flashed back to as an event. Applies to the script and every image/video prompt once

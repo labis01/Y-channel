@@ -7,9 +7,9 @@ scenes, no blood, no depiction of loss of life — the miscarriage is referenced
 dialogue, never shown or flashed back to). Restaurant is named **Josephine's**, after Dani's
 grandmother — Patricia ran it after Josephine, and has now handed it to Dani.
 
-Runtime target: ~40 minutes. Scene timestamps are estimates for pacing, not locked to the
-second — adjust against actual ElevenLabs output once recorded, same as the Logic Nexus
-pipeline's approach to pacing drift.
+Runtime target: 30-40 minutes, not an exact 40 — write to what the story earns within that range.
+Scene timestamps are estimates for pacing, not locked to the second — adjust against actual
+ElevenLabs output once recorded, same as the Logic Nexus pipeline's approach to pacing drift.
 
 ---
 

@@ -72,7 +72,7 @@ without needing a death in the story at all.
    nothing is fully "fixed."
 
 ## Open questions (unchanged from CLAUDE.md, still to be solved before production)
-- Tool stack for multi-character AI video consistency across a full 40-minute story.
+- Tool stack for multi-character AI video consistency across a full 30-40 minute story.
 - Tool stack for multi-voice ElevenLabs narration/dialogue (voice selection for all 5 characters
   above).
 - Parallel with Logic Nexus now, or sequenced after more Case Files ship — per the locked
