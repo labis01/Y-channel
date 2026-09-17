@@ -442,14 +442,16 @@ marriage) and Isaiah Boyd, siblings. Not yet recorded/produced.
 - **First concrete production step**: generate the Dani anchor image (prompt in the character
   bible) and preview ElevenLabs voice candidates against her lines. Once her face and voice are
   locked, the rest of the cast follows the same pattern.
-- **Full prompt pack written and consolidated** — `scripts/harper-lane-001-prompt-pack.md` —
-  single file combining 5 recurring location anchor prompts (Josephine's front/dining, back
-  office, Carter home kitchen, living room, the bar) and all 14 scene-by-scene prompts, each
-  specifying which location + character reference images to attach and that character's specific
-  wardrobe look for that scene (pulled from the character bible's wardrobe lists). Previously
-  split across two separate files; merged into one at the user's request. Scene 14 is the one
-  4-character ensemble shot in the episode — flagged with a fallback (generate separately,
-  composite in CapCut) if Grok can't hold all 4 faces accurately at once.
+- **Full prompt pack written and consolidated, then broken into shot beats** —
+  `scripts/harper-lane-001-prompt-pack.md` — single file combining 5 recurring location anchor
+  prompts (Josephine's front/dining, back office, Carter home kitchen, living room, the bar) and
+  all 14 scenes, each split into 2-4 beat-level shot prompts (~45 total shots) instead of one
+  image per scene — a 30-40 minute video can't run on 14 stills, same "images scale with length"
+  principle as Logic Nexus's narration-based image count, applied here to scene/beat length.
+  Each beat specifies which location + character reference images to attach and that character's
+  specific wardrobe look. Scene 14's beat 14A is the one 4-character ensemble shot in the
+  episode — flagged with a fallback (generate separately, composite in CapCut) if Grok can't hold
+  all 4 faces accurately at once.
 
 ## YouTube policy compliance (check before every Harper Lane Films upload)
 - **AI-content disclosure**: toggle on "Altered or synthetic content" (Studio → video → Details →
