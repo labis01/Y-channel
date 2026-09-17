@@ -461,8 +461,12 @@ marriage) and Isaiah Boyd, siblings. Not yet recorded/produced.
   actually supports image-to-image before relying on it mid-block, since that capability is not
   optional for this project the way it was for Logic Nexus.
 - **First concrete production step**: generate the Dani anchor image (prompt in the character
-  bible) and her voice in Grok, lock both. Once her face and voice are locked, the rest of the
-  cast follows the same pattern.
+  bible) and lock her face. **Her voice can't be locked on the anchor shot** — Grok only
+  generates voice alongside a video beat that has actual dialogue, so her voice locks on Beat 1B
+  (her first line, "Okay, Josephine's...") instead, the first dialogue-bearing beat in Scene 1.
+  Once her face (from the anchor) and voice (from 1B) are locked, the rest of the cast follows
+  the same pattern — each character's voice locks on *their* first dialogue beat, not on a
+  standalone anchor generation.
 - **Per-beat generation workflow (locked)**: for each of the ~55 shots in Part 2, attach both the
   relevant location anchor image and the relevant character reference image(s) together in Grok,
   then generate from that beat's prompt — Grok composites the character into the location in one
