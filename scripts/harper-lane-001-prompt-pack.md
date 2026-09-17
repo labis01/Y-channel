@@ -70,13 +70,18 @@ image.
 **Characters:** Dani only | **Outfit:** Working look (dark apron, cream henley)
 **Voices:** Dani: Black American female, mid-30s — warm grounded alto, conversational, real range from quiet to controlled fury
 
-**1A — Unlocking the door** *(no dialogue)*
+**1A — Unlocking the door** *(no dialogue — KEPT the first-generated version
+despite the key/keyhole misplacement; user decision to stop spending Grok
+credits on this shot rather than keep retrying. Prompt below reframed and
+left on file for any future beat/episode needing a similar action — not
+regenerated for Episode 001.)*
 > Using this reference image, generate Dani outside the restaurant's front
-> door, dark apron over cream henley, hair pulled back. Close on her hand
-> inserting the key straight into the keyhole above the door handle. Soft warm
-> morning light. Preserve her exact face, hairstyle, skin tone; match outfit
-> exactly. Silent — no dialogue. Photorealistic, cinematic but grounded, no
-> text, no logos.
+> door, dark apron over cream henley, hair pulled back, key ring in one hand.
+> Medium shot: she stands facing the door, key ring visible in her lowered
+> hand, her other hand resting on the door handle, a small private moment
+> before opening up. Soft warm morning light. Preserve her exact face,
+> hairstyle, skin tone; match outfit exactly. Silent — no dialogue.
+> Photorealistic, cinematic but grounded, no text, no logos.
 
 **1B — Wiping the dusty counter**
 > Using these reference images, generate Dani inside the restaurant, running a
