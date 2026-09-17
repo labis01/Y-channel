@@ -67,7 +67,7 @@ image.
 
 ### Scene 1 — Josephine's, early morning (0:00–2:00)
 **Characters:** Dani only | **Outfit:** Working look (dark apron, cream henley)
-**Voices:** Dani: Black American female, late 30s — warm grounded alto, conversational, real range from quiet to controlled fury
+**Voices:** Dani: Black American female, mid-30s — warm grounded alto, conversational, real range from quiet to controlled fury
 
 **1A — Unlocking the door**
 > Using this reference image, generate Dani standing outside the restaurant's front door,
@@ -99,7 +99,7 @@ image.
 ### Scene 2 — Josephine's, continuous (2:00–4:30)
 **Characters:** Dani + Renee | **Outfits:** Dani working look; Renee at Josephine's (working with
 Dani)
-**Voices:** Dani: Black American female, late 30s — warm grounded alto, conversational, real range from quiet to controlled fury; Renee: Black American female, mid-30s — brighter/quicker energy, confident, direct, distinct pace from Dani
+**Voices:** Dani: Black American female, mid-30s — warm grounded alto, conversational, real range from quiet to controlled fury; Renee: Black American female, mid-30s — brighter/quicker energy, confident, direct, distinct pace from Dani
 
 **2A — Renee entering with coffees**
 > Using these reference images, generate Renee pushing through the front door, two coffee
@@ -142,7 +142,7 @@ Dani)
 ### Scene 3 — Josephine's, later that day (4:30–6:30)
 **Characters:** Dani + Marcus | **Outfits:** Dani working look; Marcus at Josephine's (supportive
 visit)
-**Voices:** Dani: Black American female, late 30s — warm grounded alto, conversational, real range from quiet to controlled fury; Marcus: Black American male, late 30s/early 40s — smooth articulate baritone, can crack under guilt
+**Voices:** Dani: Black American female, mid-30s — warm grounded alto, conversational, real range from quiet to controlled fury; Marcus: Black American male, late 30s/early 40s — smooth articulate baritone, can crack under guilt
 
 **3A — Marcus arriving**
 > Using these reference images, generate Marcus in a loosened tie and button-down shirt
@@ -184,7 +184,7 @@ visit)
 
 ### Scene 4 — Josephine's, closing time (6:30–10:00)
 **Characters:** Dani only | **Outfit:** Working look
-**Voices:** Dani: Black American female, late 30s — warm grounded alto, conversational, real range from quiet to controlled fury
+**Voices:** Dani: Black American female, mid-30s — warm grounded alto, conversational, real range from quiet to controlled fury
 
 **4A — Counting the till**
 > Using this reference image, generate Dani behind the counter in the evening, counting
@@ -224,7 +224,7 @@ visit)
 
 ### Scene 5 — Carter home kitchen, night (10:00–13:00)
 **Characters:** Dani + Marcus | **Outfits:** Dani home look; Marcus home/argument scenes
-**Voices:** Dani: Black American female, late 30s — warm grounded alto, conversational, real range from quiet to controlled fury; Marcus: Black American male, late 30s/early 40s — smooth articulate baritone, can crack under guilt
+**Voices:** Dani: Black American female, mid-30s — warm grounded alto, conversational, real range from quiet to controlled fury; Marcus: Black American male, late 30s/early 40s — smooth articulate baritone, can crack under guilt
 
 **5A — Marcus walking in, sees her face**
 > Using these reference images, generate Marcus stepping into the kitchen mid-sentence,
@@ -266,7 +266,7 @@ visit)
 
 ### Scene 6 — Carter home kitchen, continuous (13:00–17:00)
 **Characters:** Dani + Marcus | **Outfits:** Same as Scene 5
-**Voices:** Dani: Black American female, late 30s — warm grounded alto, conversational, real range from quiet to controlled fury; Marcus: Black American male, late 30s/early 40s — smooth articulate baritone, can crack under guilt
+**Voices:** Dani: Black American female, mid-30s — warm grounded alto, conversational, real range from quiet to controlled fury; Marcus: Black American male, late 30s/early 40s — smooth articulate baritone, can crack under guilt
 
 **6A — Marcus's confession**
 > Using these reference images, generate Marcus sitting across from Dani, head down, mid-
@@ -309,7 +309,7 @@ visit)
 ### Scene 7 — Josephine's, day (17:00–20:30)
 **Characters:** Dani + Isaiah | **Outfits:** Dani working look; Isaiah family meeting (serious
 conversations)
-**Voices:** Dani: Black American female, late 30s — warm grounded alto, conversational, real range from quiet to controlled fury; Isaiah: Black American male, late 20s — younger, clipped/casual cadence, less polished than Marcus
+**Voices:** Dani: Black American female, mid-30s — warm grounded alto, conversational, real range from quiet to controlled fury; Isaiah: Black American male, late 20s — younger, clipped/casual cadence, less polished than Marcus
 
 **7A — Isaiah's blunt opening**
 > Using these reference images, generate Isaiah sitting across from Dani at an empty
@@ -361,7 +361,7 @@ onto lately")*
 ### Scene 8 — Josephine's back office, later (20:30–23:00)
 **Characters:** Dani + Renee | **Outfits:** Dani confrontation scenes; Renee investigating
 (serious moments)
-**Voices:** Dani: Black American female, late 30s — warm grounded alto, conversational, real range from quiet to controlled fury; Renee: Black American female, mid-30s — brighter/quicker energy, confident, direct, distinct pace from Dani
+**Voices:** Dani: Black American female, mid-30s — warm grounded alto, conversational, real range from quiet to controlled fury; Renee: Black American female, mid-30s — brighter/quicker energy, confident, direct, distinct pace from Dani
 
 **8A — Going through papers**
 > Using these reference images, generate Dani and Renee hunched over a small desk covered
@@ -404,7 +404,7 @@ onto lately")*
 ### Scene 9 — Carter home living room, night (23:00–25:00)
 **Characters:** Dani + Marcus | **Outfits:** Dani confrontation scenes; Marcus home/argument
 scenes
-**Voices:** Dani: Black American female, late 30s — warm grounded alto, conversational, real range from quiet to controlled fury; Marcus: Black American male, late 30s/early 40s — smooth articulate baritone, can crack under guilt
+**Voices:** Dani: Black American female, mid-30s — warm grounded alto, conversational, real range from quiet to controlled fury; Marcus: Black American male, late 30s/early 40s — smooth articulate baritone, can crack under guilt
 
 **9A — Marcus pleading**
 > Using these reference images, generate Marcus standing on one side of a modest living
@@ -475,7 +475,7 @@ scenes
 
 ### Scene 11 — Josephine's, day (27:30–31:00)
 **Characters:** Dani only | **Outfit:** Working look
-**Voices:** Dani: Black American female, late 30s — warm grounded alto, conversational, real range from quiet to controlled fury; Marcus: Black American male, late 30s/early 40s — smooth articulate baritone, can crack under guilt
+**Voices:** Dani: Black American female, mid-30s — warm grounded alto, conversational, real range from quiet to controlled fury; Marcus: Black American male, late 30s/early 40s — smooth articulate baritone, can crack under guilt
 
 **11A — Answering the call**
 > Using this reference image, generate Dani standing behind the counter, phone pressed to
@@ -509,7 +509,7 @@ scenes
 ### Scene 12 — Josephine's, night (31:00–35:00)
 **Characters:** Dani + Patricia | **Outfits:** Dani confrontation scenes; Patricia casual home
 (everyday comfort)
-**Voices:** Dani: Black American female, late 30s — warm grounded alto, conversational, real range from quiet to controlled fury; Patricia: Black American female, early 60s — warm, steady, measured, slowest pace of the cast, never raises her voice
+**Voices:** Dani: Black American female, mid-30s — warm grounded alto, conversational, real range from quiet to controlled fury; Patricia: Black American female, early 60s — warm, steady, measured, slowest pace of the cast, never raises her voice
 
 **12A — Patricia entering**
 > Using these reference images, generate Patricia stepping into the dim restaurant,
@@ -561,7 +561,7 @@ history)*
 ### Scene 13 — Carter home kitchen, day (35:00–37:30)
 **Characters:** Dani + Marcus | **Outfits:** Dani later/moving forward; Marcus leaving (end of
 marriage)
-**Voices:** Dani: Black American female, late 30s — warm grounded alto, conversational, real range from quiet to controlled fury; Marcus: Black American male, late 30s/early 40s — smooth articulate baritone, can crack under guilt
+**Voices:** Dani: Black American female, mid-30s — warm grounded alto, conversational, real range from quiet to controlled fury; Marcus: Black American male, late 30s/early 40s — smooth articulate baritone, can crack under guilt
 
 **13A — Marcus packing**
 > Using this reference image, generate Marcus by the kitchen door, packing a small bag,
@@ -605,7 +605,7 @@ marriage)
 **Characters:** Dani, Renee, Isaiah, Patricia (ensemble) | **Outfits:** Dani later/moving
 forward; Renee at Josephine's (working with Dani); Isaiah restaurant work (supporting Dani);
 Patricia casual home (everyday comfort)
-**Voices:** Dani: Black American female, late 30s — warm grounded alto, conversational, real range from quiet to controlled fury; Renee: Black American female, mid-30s — brighter/quicker energy, confident, direct, distinct pace from Dani; Isaiah: Black American male, late 20s — younger, clipped/casual cadence, less polished than Marcus; Patricia: Black American female, early 60s — warm, steady, measured, slowest pace of the cast, never raises her voice
+**Voices:** Dani: Black American female, mid-30s — warm grounded alto, conversational, real range from quiet to controlled fury; Renee: Black American female, mid-30s — brighter/quicker energy, confident, direct, distinct pace from Dani; Isaiah: Black American male, late 20s — younger, clipped/casual cadence, less polished than Marcus; Patricia: Black American female, early 60s — warm, steady, measured, slowest pace of the cast, never raises her voice
 
 **14A — Establishing the full, alive restaurant**
 > Using these reference images, generate a wide shot of Josephine's full of activity: Dani

@@ -22,13 +22,13 @@ the image-to-image source for any new shot of that character instead of re-promp
 
 ## Danielle "Dani" Carter (born Boyd) — Lead
 
-**Age:** Late 30s
+**Age:** Mid-30s
 **Occupation:** Chef / Restaurant Owner (Josephine's)
 **Family:** Daughter of Patricia Boyd, sister of Isaiah Boyd, wife of Marcus Carter (at the
 beginning) — surname Carter is her married name
 **Personality:** Practical, resilient, observant, warm, hardworking, emotionally honest. Not
 easily shaken, but deeply feels the weight of betrayal.
-**Voice:** Black American female, early-to-late 30s. Warm, grounded alto with real emotional
+**Voice:** Black American female, mid-30s. Warm, grounded alto with real emotional
 range — has to carry both quiet restraint and controlled fury without going shrill. Natural,
 conversational cadence, not newscaster-polished; a touch of Southern/soul-food-restaurant warmth
 in the vowels fits the setting without tipping into caricature. **Locked in Grok, not
