@@ -69,11 +69,12 @@ image.
 **Characters:** Dani only | **Outfit:** Working look (dark apron, cream henley)
 **Voices:** Dani: Black American female, mid-30s — warm grounded alto, conversational, real range from quiet to controlled fury
 
-**1A — Unlocking the door**
+**1A — Unlocking the door** *(no dialogue)*
 > Using this reference image, generate Dani standing outside the restaurant's front door,
 > key in hand, wearing her dark apron over a cream henley, hair pulled back, mid-unlock.
 > Soft warm morning light. Preserve her exact facial features, hairstyle, and skin tone
 > from the reference image — do not alter her identity. Match her outfit exactly as shown.
+> She does not speak in this shot — silent action only, no dialogue, no voiceover.
 > Photorealistic, cinematic but grounded, no text, no logos.
 
 **1B — Wiping the dusty counter**
@@ -186,12 +187,13 @@ visit)
 **Characters:** Dani only | **Outfit:** Working look
 **Voices:** Dani: Black American female, mid-30s — warm grounded alto, conversational, real range from quiet to controlled fury
 
-**4A — Counting the till**
+**4A — Counting the till** *(no dialogue)*
 > Using this reference image, generate Dani behind the counter in the evening, counting
 > cash from a till, a stack of mail beside her, humming to herself. Dim, warm closing-time
 > lighting. Preserve her exact facial features, hairstyle, and skin tone from the
 > reference image — do not alter her identity. Match her outfit exactly as shown.
-> Photorealistic, cinematic but grounded, no text, no logos.
+> She does not speak in this shot — no dialogue, no voiceover; the humming is wordless
+> only. Photorealistic, cinematic but grounded, no text, no logos.
 
 **4B — Reading the letter**
 > Using this reference image, generate a close shot of Dani reading an opened letter, her
@@ -424,12 +426,12 @@ scenes
 
 *Dialogue — delivery: Dani calm but resolute — the exhaustion of someone done fighting; Marcus quiet, desperate. DANI: "Every idea you've had for three years has made it worse. Why would this one be different?" MARCUS: "Because this time you know. I don't have anything left to hide." DANI: "You don't get points for finally stopping the lie once you got caught, Marcus."*
 
-**9C — Marcus alone, scared**
+**9C — Marcus alone, scared** *(no dialogue)*
 > Using this reference image, generate Marcus standing alone in the living room after Dani
 > has left the room, a genuinely scared, lost expression. Warm lamp lighting. Preserve his
 > exact facial features, hairstyle, and skin tone from the reference image — do not alter
-> his identity. Match his outfit exactly as shown. Photorealistic, cinematic but grounded,
-> no text, no logos.
+> his identity. Match his outfit exactly as shown. He does not speak in this shot — silent,
+> no dialogue, no voiceover. Photorealistic, cinematic but grounded, no text, no logos.
 
 ---
 
@@ -607,12 +609,13 @@ forward; Renee at Josephine's (working with Dani); Isaiah restaurant work (suppo
 Patricia casual home (everyday comfort)
 **Voices:** Dani: Black American female, mid-30s — warm grounded alto, conversational, real range from quiet to controlled fury; Renee: Black American female, mid-30s — brighter/quicker energy, confident, direct, distinct pace from Dani; Isaiah: Black American male, late 20s — younger, clipped/casual cadence, less polished than Marcus; Patricia: Black American female, early 60s — warm, steady, measured, slowest pace of the cast, never raises her voice
 
-**14A — Establishing the full, alive restaurant**
+**14A — Establishing the full, alive restaurant** *(no dialogue)*
 > Using these reference images, generate a wide shot of Josephine's full of activity: Dani
 > at the counter, Renee behind it, Isaiah wiping a table, Patricia seated in a corner.
 > Warm, bright daytime lighting. Preserve each person's exact facial features, hairstyle,
 > and skin tone from their reference images — do not alter their identities. Match each
-> outfit exactly as shown. Photorealistic, cinematic but grounded, no text, no logos.
+> outfit exactly as shown. None of them speak in this shot — silent establishing shot, no
+> dialogue, no voiceover. Photorealistic, cinematic but grounded, no text, no logos.
 
 **14B — Dani + Renee at the framed notice**
 > Using these reference images, generate Dani and Renee standing together near the
@@ -670,6 +673,11 @@ CapCut/Canva.
   `harper-lane-001-script.md`. Useful for checking a generated shot actually matches what's being
   said. Beats with no dialogue (1A, 4A, 9C, 14A — pure action/establishing shots) have none, by
   design.
+- **Silent beats must say so explicitly in the prompt**: confirmed as a real issue on 1A — Grok
+  generated Dani speaking for a few seconds even though the beat has no scripted line, because
+  the prompt never told it the shot was silent. Fixed by adding an explicit "does not speak /
+  no dialogue / no voiceover" clause to all 4 no-dialogue beats (1A, 4A, 9C, 14A). Don't assume
+  the absence of a *Delivery:* line is enough on its own — Grok needs to be told directly.
 - **Animation — mostly stills, 3 real-video beats**: revised after checking what's actually known
   about Grace Studios (the reference channel) — "Made with AI," image/video + narration, "a
   similar toolkit to Logic Nexus's, just scaled up." That means mostly stills with motion, not
