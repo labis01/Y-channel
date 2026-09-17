@@ -59,7 +59,7 @@ A 30-40 minute video needs multiple stills per scene, not one — each scene bel
 2-4 beats, matching a real shift in action/emotion in the script. Generate each beat as its own
 image.
 
-### Scene 1 — Josephine's, early morning
+### Scene 1 — Josephine's, early morning (0:00–2:00)
 **Characters:** Dani only | **Outfit:** Working look (dark apron, cream henley)
 
 **1A — Unlocking the door**
@@ -82,7 +82,7 @@ image.
 
 ---
 
-### Scene 2 — Josephine's, continuous
+### Scene 2 — Josephine's, continuous (2:00–4:30)
 **Characters:** Dani + Renee | **Outfits:** Dani working look; Renee at Josephine's (working with
 Dani)
 
@@ -106,7 +106,7 @@ Dani)
 
 ---
 
-### Scene 3 — Josephine's, later that day
+### Scene 3 — Josephine's, later that day (4:30–6:30)
 **Characters:** Dani + Marcus | **Outfits:** Dani working look; Marcus at Josephine's (supportive
 visit)
 
@@ -130,7 +130,7 @@ visit)
 
 ---
 
-### Scene 4 — Josephine's, closing time
+### Scene 4 — Josephine's, closing time (6:30–10:00)
 **Characters:** Dani only | **Outfit:** Working look
 
 **4A — Counting the till**
@@ -158,7 +158,7 @@ visit)
 
 ---
 
-### Scene 5 — Carter home kitchen, night
+### Scene 5 — Carter home kitchen, night (10:00–13:00)
 **Characters:** Dani + Marcus | **Outfits:** Dani home look; Marcus home/argument scenes
 
 **5A — Marcus walking in, sees her face**
@@ -181,7 +181,7 @@ visit)
 
 ---
 
-### Scene 6 — Carter home kitchen, continuous
+### Scene 6 — Carter home kitchen, continuous (13:00–17:00)
 **Characters:** Dani + Marcus | **Outfits:** Same as Scene 5
 
 **6A — Marcus's confession**
@@ -208,7 +208,7 @@ visit)
 
 ---
 
-### Scene 7 — Josephine's, day
+### Scene 7 — Josephine's, day (17:00–20:30)
 **Characters:** Dani + Isaiah | **Outfits:** Dani working look; Isaiah family meeting (serious
 conversations)
 
@@ -236,7 +236,7 @@ conversations)
 
 ---
 
-### Scene 8 — Josephine's back office, later
+### Scene 8 — Josephine's back office, later (20:30–23:00)
 **Characters:** Dani + Renee | **Outfits:** Dani confrontation scenes; Renee investigating
 (serious moments)
 
@@ -259,7 +259,7 @@ conversations)
 
 ---
 
-### Scene 9 — Carter home living room, night
+### Scene 9 — Carter home living room, night (23:00–25:00)
 **Characters:** Dani + Marcus | **Outfits:** Dani confrontation scenes; Marcus home/argument
 scenes
 
@@ -281,7 +281,7 @@ scenes
 
 ---
 
-### Scene 10 — The bar, night
+### Scene 10 — The bar, night (25:00–27:30)
 **Characters:** Marcus + Devon | **Outfits:** Marcus casual; Devon at the bar (primary look)
 
 **10A — Devon's skepticism**
@@ -303,7 +303,7 @@ scenes
 
 ---
 
-### Scene 11 — Josephine's, day
+### Scene 11 — Josephine's, day (27:30–31:00)
 **Characters:** Dani only | **Outfit:** Working look
 
 **11A — Answering the call**
@@ -323,7 +323,7 @@ scenes
 
 ---
 
-### Scene 12 — Josephine's, night
+### Scene 12 — Josephine's, night (31:00–35:00)
 **Characters:** Dani + Patricia | **Outfits:** Dani confrontation scenes; Patricia casual home
 (everyday comfort)
 
@@ -351,7 +351,7 @@ scenes
 
 ---
 
-### Scene 13 — Carter home kitchen, day
+### Scene 13 — Carter home kitchen, day (35:00–37:30)
 **Characters:** Dani + Marcus | **Outfits:** Dani later/moving forward; Marcus leaving (end of
 marriage)
 
@@ -374,7 +374,7 @@ marriage)
 
 ---
 
-### Scene 14 — Josephine's, one week later, day
+### Scene 14 — Josephine's, one week later, day (37:30–40:00)
 **Characters:** Dani, Renee, Isaiah, Patricia (ensemble) | **Outfits:** Dani later/moving
 forward; Renee at Josephine's (working with Dani); Isaiah restaurant work (supporting Dani);
 Patricia casual home (everyday comfort)
