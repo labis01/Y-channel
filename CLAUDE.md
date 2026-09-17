@@ -445,6 +445,14 @@ marriage) and Isaiah Boyd, siblings. Not yet recorded/produced.
 - **First concrete production step**: generate the Dani anchor image (prompt in the character
   bible) and preview ElevenLabs voice candidates against her lines. Once her face and voice are
   locked, the rest of the cast follows the same pattern.
+- **Per-beat generation workflow (locked)**: for each of the ~53 shots in Part 2, attach both the
+  relevant location anchor image and the relevant character reference image(s) together in Grok,
+  then generate from that beat's prompt — Grok composites the character into the location in one
+  pass, rather than generating character and background separately.
+- **Animation (locked)**: all ~53 shots get CapCut Ken Burns/zoom — no real AI video motion
+  clips for this first episode (unlike Logic Nexus's 3-real-clips rule). Simpler production,
+  fewer tools/steps while getting through the first full shot list. Revisit for a future episode
+  once the pipeline is proven.
 - **Full prompt pack written and consolidated, then broken into shot beats, then given reverse-
   shot coverage** — `scripts/harper-lane-001-prompt-pack.md` — single file combining 5 recurring
   location anchor prompts (Josephine's front/dining, back office, Carter home kitchen, living
