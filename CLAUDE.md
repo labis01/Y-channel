@@ -377,8 +377,8 @@ may not require the same twice-weekly commitment Logic Nexus does to pay off.
   philosophy as Logic Nexus's runtime rule: write to what the story earns within that range,
   don't pad to hit the ceiling.
 - **Multiple character voices**: dialogue between several named characters (e.g. Imani, husband,
-  best friend), not one locked narrator voice — needs multiple ElevenLabs voices, not just Haven
-  Sands.
+  best friend), not one locked narrator voice — needs multiple distinct voices, generated and
+  locked in Grok (not ElevenLabs/Haven Sands — see Tool stack below).
 - **Character visual consistency across a full story**: the same character has to look
   recognizably like themselves across many scenes — harder than Logic Nexus's generic/anonymous
   or franchise-reused descriptors.
@@ -407,7 +407,7 @@ Full treatment, cast list, voice needs, and act structure in
 14 scenes across the 4 acts, in `scripts/harper-lane-001-script.md`. Restaurant named
 **Josephine's** (Dani's grandmother; Patricia ran it, now handed to Dani). Adds one
 single-scene character, **Devon** (Marcus's bar scene) — not part of the core 5-voice cast,
-low priority to cast with a dedicated ElevenLabs voice since he doesn't reappear. Visual
+low priority to spend extra time on his generated voice since he doesn't reappear. Visual
 constraint (no hospital/blood/depiction of loss of life) and gambling-depiction policy note
 both confirmed clean across all 14 scenes. **Character bible replaced with finished official
 character sheets** — `scripts/harper-lane-001-character-bible.md` — all 6 characters now have
@@ -422,16 +422,14 @@ throughout — confirms the locked no-death/no-funeral premise) → Dani (born B
 marriage) and Isaiah Boyd, siblings. Not yet recorded/produced.
 
 ## Tool stack — locked
-- **Multi-voice ElevenLabs**: ElevenLabs Voice Library (not custom cloning). Search by the
-  descriptors in the character bible — Dani: warm/grounded/conversational female, tested against
-  both a quiet line and an angry line before picking, since she needs real range; Marcus:
-  smooth/confident male that can also crack, tested against his Scene 6 confession line
-  specifically; Renee: direct/energetic female, faster pace, clearly distinct timbre from Dani;
-  Isaiah: young adult male, slightly clipped/impatient; Patricia: mature/warm/steady female,
-  slower pace than the rest. Devon: no dedicated search, any default/stock voice — single scene,
-  not worth the time. Starting settings for every voice: same template as Haven Sands (Stability
-  50-65%, Clarity/Similarity 80-85%, Style 5-20%, generate at 1.0x), then nudge per-voice based
-  on actual output — stability varies voice to voice.
+- **Multi-voice — Grok, not ElevenLabs (revised)**: ElevenLabs is not used for this project;
+  voices are generated directly in Grok alongside the visuals. Whatever voice Grok produces for
+  each character's first line is treated as final and locked — reused for every one of that
+  character's lines across all 14 scenes, never regenerated or swapped mid-production even if a
+  later line sounds slightly different (fix the single line, don't pick a new voice). Full
+  accent/tone descriptions (all 6 characters are Black American, ages/registers/pacing specified
+  per character) and scene-specific dramatic-beat delivery notes now live in each character's
+  entry in `harper-lane-001-character-bible.md`.
 - **Visual consistency — split by asset type**: locations don't need identity-preservation the
   way character shots do, so they're handled separately. **The 5 location anchors (Josephine's
   front/dining, back office, Carter home kitchen, living room, the bar) are DONE — generated in
@@ -443,8 +441,8 @@ marriage) and Isaiah Boyd, siblings. Not yet recorded/produced.
   actually supports image-to-image before relying on it mid-block, since that capability is not
   optional for this project the way it was for Logic Nexus.
 - **First concrete production step**: generate the Dani anchor image (prompt in the character
-  bible) and preview ElevenLabs voice candidates against her lines. Once her face and voice are
-  locked, the rest of the cast follows the same pattern.
+  bible) and her voice in Grok, lock both. Once her face and voice are locked, the rest of the
+  cast follows the same pattern.
 - **Per-beat generation workflow (locked)**: for each of the ~55 shots in Part 2, attach both the
   relevant location anchor image and the relevant character reference image(s) together in Grok,
   then generate from that beat's prompt — Grok composites the character into the location in one

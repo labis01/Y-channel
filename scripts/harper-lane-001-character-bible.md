@@ -28,6 +28,18 @@ the image-to-image source for any new shot of that character instead of re-promp
 beginning) — surname Carter is her married name
 **Personality:** Practical, resilient, observant, warm, hardworking, emotionally honest. Not
 easily shaken, but deeply feels the weight of betrayal.
+**Voice:** Black American female, early-to-late 30s. Warm, grounded alto with real emotional
+range — has to carry both quiet restraint and controlled fury without going shrill. Natural,
+conversational cadence, not newscaster-polished; a touch of Southern/soul-food-restaurant warmth
+in the vowels fits the setting without tipping into caricature. **Locked in Grok, not
+ElevenLabs** — whatever voice Grok generates/assigns for her first appearance is final; reuse
+that exact same voice for every one of her scenes, no re-rolling mid-production.
+**Dramatic beats to watch:** Scene 2 ("It feels like something to do with my hands...") — quiet,
+almost private, no performance energy. Scene 5C ("Three years") — flat, stunned, the words
+landing like a physical blow. Scene 6C ("No, you don't, Marcus...") — controlled fury, not
+yelling; anger that's been held back finally breaking through evenly, not explosively. Scene 9B
+("You don't get points...") — calm and resolute, the exhaustion of someone done fighting. Scene
+14D (V.O.) — reflective, settled, the only moment she sounds at peace.
 **Core arc:** Rebuilding → Discovery → Betrayal → Confrontation → Independence
 **Tagline:** "Sometimes the only way to keep the thing that matters is deciding what you're
 willing to let go of first."
@@ -59,8 +71,18 @@ longer tolerates).
 Boyd
 **Personality:** Charming, intelligent, ambitious, conflict-avoidant, good at appearing in
 control. Struggles with shame and addiction.
-**Core conflict:** Gambling addiction, mounting debt, and a growing web of lies he's afraid to
-face.
+**Voice:** Black American male, late 30s to early 40s. Smooth, articulate baritone — the voice
+of a man used to sounding composed — but needs real capacity to crack under guilt and shame, not
+just charm. Avoid anything that reads as a cartoon "smooth talker"; underneath the polish there
+has to be genuine vulnerability. **Locked in Grok, not ElevenLabs** — reuse the exact same
+generated voice for every one of his scenes.
+**Dramatic beats to watch:** Scene 5C ("Three years") — the admission itself, quiet and
+ashamed, no excuses in the delivery yet. Scene 6A (the confession) — this is his longest
+sustained speech; needs to sound like a man finally saying something he's rehearsed in his head
+for years, not reading a monologue. Scene 6D ("I kept thinking I'd win it back...") — barely
+audible per the script direction, genuinely small. Scene 10B/10C (the bar) — desperate, a
+different register than his composed scenes at Josephine's, closer to panic held just barely in
+check. Scene 13 (leaving) — steadier again, but hollowed out, a man who has run out of moves.
 **Arc:** Love → Secrecy → Deeper Lies → Consequences → Loss → Reckoning (future uncertain)
 **Tagline:** "He loved her. But he loved the next win more."
 **Key traits:** Charismatic and likeable. Ambitious and driven. Skilled at deflection. Deeply
@@ -92,6 +114,17 @@ home, a turning point); small bag (not much in it — the end of a chapter).
 **Family:** Chosen family — considers Dani a sister.
 **Personality:** Honest, supportive, witty, loyal, perceptive, protective, practical. Tells the
 truth even when it's uncomfortable.
+**Voice:** Black American female, mid-30s. Brighter, quicker energy than Dani's — confident,
+direct, a little playful even in serious moments, but never flat or cold. Distinct timbre and
+pace from Dani so their two-hander scenes read clearly by ear alone, not just by content.
+**Locked in Grok, not ElevenLabs** — reuse the exact same generated voice for every one of her
+scenes.
+**Dramatic beats to watch:** Scene 2A (entrance) — fast, warm, talking before she's even fully
+in the room. Scene 2C (suspicion about Marcus) — dry, knowing, understated rather than
+dramatic. Scene 8A ("this is three years of a pattern") — her most serious, fastest-paced
+delivery in the whole script, has to land as urgent without losing clarity. Scene 8D ("It was
+never just the two of you...") — softer, the one moment she drops the wit entirely. Scene 14B —
+back to warm and light, closing the loop on her arc.
 **Core role:** Dani's confidante and reality check. Notices what Dani misses, helps uncover the
 truth, and reminds Dani of her strength.
 **Tagline:** "Sometimes the most loving thing you can do is tell the truth."
@@ -123,6 +156,15 @@ tote bag (work, life, everything in one).
 **Family:** Son of Patricia Boyd, brother of Dani (born Boyd), brother-in-law to Marcus Carter
 **Personality:** Honest, protective, loyal, frustrated, empathetic, blunt but caring, still
 figuring out his own path.
+**Voice:** Black American male, late 20s. Younger, more clipped and casual cadence than Marcus —
+contemporary, a little impatient, less polished. Needs to land both blunt confrontation and
+quiet self-aware softness without sounding like two different people. **Locked in Grok, not
+ElevenLabs** — reuse the exact same generated voice for every one of his scenes.
+**Dramatic beats to watch:** Scene 7A ("So sell it") — blunt, fast, no cushioning. Scene 7C
+("That's fair. I haven't...") — stung but not defensive, owning the hit Dani just landed
+without getting small. Scene 7D (softer closing) — genuinely gentler, the pace slows down. Scene
+14C ("I said a lot of things. I was wrong about that one.") — light, a little self-deprecating,
+the payoff of his whole arc in one easy line.
 **Core role:** Challenges Dani, tells hard truths, pushes her to consider letting go, ultimately
 supports her and steps up when it matters.
 **Arc:** Critic → Conflict → Reflection → Support → Growth
@@ -158,6 +200,18 @@ family, life, what's next); family photo (a reminder of what — and who — mat
 **Family:** Mother of Dani (Carter by marriage) and Isaiah Boyd, mother-in-law to Marcus Carter
 **Personality:** Wise, practical, compassionate, strong-willed, observant, calm under pressure,
 protective.
+**Voice:** Black American female, early 60s. Warm, steady, measured — the vocal equivalent of a
+hand on your shoulder. Slower natural pace than the rest of the cast, real weight and history in
+the delivery without ever sounding frail. A touch of elder-Southern warmth fits her decades
+running a soul-food restaurant. **Locked in Grok, not ElevenLabs** — reuse the exact same
+generated voice for every one of her scenes. She should be the single steadiest voice in the
+cast — the least likely of anyone to sound rattled, even in her hardest lines.
+**Dramatic beats to watch:** Scene 12C (the restaurant's history — "survived your grandmother's
+divorce, two recessions, and a kitchen fire...") — her longest sustained speech, needs to hold
+warmth and gravity across a long, unhurried delivery without rushing to the next line. Scene 12D
+("That's not mine to answer for you...") — careful, honest, choosing every word. Never raises
+her voice anywhere in the script — if a generated line sounds sharp or clipped, it's off-model
+for her.
 **Core role:** Emotional anchor. Keeper of family legacy. Provides truth, encouragement, and
 perspective. Reminds Dani of her strength and the history behind Josephine's.
 **Tagline:** "Roots run deep. So do we."
@@ -190,6 +244,12 @@ conversations); fresh flowers (a reminder that there's always another season).
 **Family:** Unknown (keeps his personal life private)
 **Personality:** Street-smart, guarded, observant, pragmatic, low tolerance for foolishness, more
 principled than he admits.
+**Voice:** Black American male, 40s. Gravelly, weary, low-key — a voice that's had this exact
+conversation with Marcus before and is tired of it, not menacing, just worn down. Single-scene
+only, so whatever voice Grok generates for Scene 10 is final by default — no need to spend real
+time iterating on him the way the core five got tested.
+**Dramatic beat to watch:** Scene 10C ("Fine. But this is the last time...") — flat, final,
+no anger in it — the exhaustion of someone who already knows he'll probably say yes again anyway.
 **Core role:** Marcus's connection to the gambling world. Provides the loan, represents the
 consequences of Marcus's addiction.
 **Arc:** Enabler → Warning → Reluctant Assistance → Draws the Line
@@ -228,3 +288,11 @@ him).
   (distinct from Logic Nexus's noir grade) — no changes needed there.
 - Constraint check: no hospital scenes, no blood, no depiction of loss of life, and no
   gambling glamorization confirmed clean across all 6 sheets.
+- **Voice tool: Grok, not ElevenLabs.** Voices are generated directly in Grok alongside the
+  visuals — whatever voice Grok produces for a character's first line is that character's voice
+  for the rest of the episode. **Consistency rule**: never regenerate or swap a character's voice
+  mid-production once locked, even if a later line comes out sounding slightly different — that
+  breaks the illusion of one continuous performance across 14 scenes faster than almost anything
+  else. If a specific line sounds off, regenerate that line with the same voice rather than
+  picking a new one. Each character's full voice/accent profile and dramatic-beat notes are in
+  their entry above.
