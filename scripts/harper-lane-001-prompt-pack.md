@@ -665,8 +665,17 @@ CapCut/Canva.
 - If Grok's weekly limit is hit mid-production, fallback order: Gemini → Bing Image Creator →
   Canva Magic Media — confirm image-to-image support before relying on a fallback for a
   character-critical shot.
-- **Dialogue lines added under each beat** — every beat with spoken lines now has a *Dialogue:*
+- **Dialogue lines added under each beat** — every beat with spoken lines now has a *Delivery:*
   note quoting the exact script text for that moment, pulled directly from
-  `harper-lane-001-script.md`. Useful both for checking a generated image actually matches what's
-  being said, and later for pulling lines into ElevenLabs Studio scene by scene. Beats with no
-  dialogue (1A, 4A, 9C, 14A — pure action/establishing shots) have none, by design.
+  `harper-lane-001-script.md`. Useful for checking a generated shot actually matches what's being
+  said. Beats with no dialogue (1A, 4A, 9C, 14A — pure action/establishing shots) have none, by
+  design.
+- **Animation — mostly stills, 3 real-video beats**: revised after checking what's actually known
+  about Grace Studios (the reference channel) — "Made with AI," image/video + narration, "a
+  similar toolkit to Logic Nexus's, just scaled up." That means mostly stills with motion, not
+  continuous AI video for 30-40 minutes. Most of the 55 beats stay stills (Image to Image) with
+  CapCut Ken Burns/zoom. **1A-1C, 5C, and 14D get real Grok video** instead, mirroring Logic
+  Nexus's cold-open/turning-point/closing-pullback rule. Grok caps each video generation at 15
+  seconds — for a beat running longer, chain clips by generating the next 15 seconds using the
+  previous clip's last frame as the new reference image, then stitch as one continuous shot in
+  CapCut.
