@@ -354,21 +354,41 @@ series rather than one-off standalone movies, even though each story (like Ep. 0
 still self-contained/resolved on its own. Applied to Episode 001's script closing tag.
 
 ## Reference channel: Grace Studios (@Gracestudios.x — youtube.com/@Gracestudios.x)
-**Only 6 videos total, 40.9K subscribers** — an extremely high hit-rate channel, growth almost
-certainly concentrated in 1-2 outlier videos rather than built from cadence/volume the way Logic
-Nexus's strategy is. Channel bio/tagline (useful branding reference for Harper Lane Films):
-"STORIES THAT INSPIRE. CINEMA REIMAGINED WITH AI." / "AI Storytelling | Original Films |
-Cinematic AI Filmmaking."
+**Only 6 videos total, 29.7K subscribers** (corrected — was previously logged as 40.9K; locked in
+from direct channel-page screenshots, Sept 2026) — an extremely high hit-rate channel, growth
+almost certainly concentrated in 1-2 outlier videos rather than built from cadence/volume the way
+Logic Nexus's strategy is. Bio: "Hi, I'm Grace! Passionate Storyteller with a vision to tell
+unforgettable stories using AI that entertain, inspire, and stay with you long after the screen
+fades to black. Follow me on this journey by subscribing and turning on post notifications." 💜
+Banner tagline: "STORIES THAT INSPIRE. CINEMA REIMAGINED WITH AI." / "AI Storytelling | Original
+Films | Cinematic AI Filmmaking."
+
+**Full video list (confirmed via channel screenshots, Sept 2026), all 6 videos:**
+| Video | Views | Runtime | Age |
+|---|---|---|---|
+| Before I Let You Go \| The Complete Movie (outlier) | **1.5M** (1,921,903 exact) | **2:16:17** | 1 month |
+| Love & Scars \| The Complete Movie (sequel to Before I Let Go) | 228K | 1:36:06 | 2 weeks |
+| What Mama Knew \| Episode One — Her Mom... | 101K | 31:56 | 2 weeks |
+| What Mama Knew Part 2 \| The Truth Comes Out | 32K | 50:50 | 6 days |
+| What Mama Knew: Part 3 — The Finale \| Some Choices... | — (not fully visible) | 25:04 | 2 days |
+
 Outlier video studied: **"BEFORE I LET YOU GO | THE COMPLETE MOVIE"** ("Before I Let Go: A Grace
-Studios Original") — 1,921,903 views (as of session date), published Jul 26, 2026. Logline: Imani,
-a woman who gave everything to a marriage that was destroying her — betrayal, a devastating loss,
-and the choice to rebuild. Labeled **"Made with AI"** by YouTube — confirms this is AI-generated
-(image/video + narration/voice), not live-action filming, making it achievable with a similar
-toolkit to Logic Nexus's, just scaled up.
+Studios Original") — runs **2 hours 16 minutes**, not the 30-40 min range assumed earlier. Logline:
+Imani, a woman who gave everything to a marriage that was destroying her — betrayal, a devastating
+loss, and the choice to rebuild. Labeled **"Made with AI"** by YouTube — confirms this is
+AI-generated (image/video + narration/voice), not live-action filming, making it achievable with a
+similar toolkit to Logic Nexus's, just scaled up.
 **Strategic implication**: this format's economics reward story/hook quality over sustained
 cadence — a different growth model from Logic Nexus's 2x/week grind. One exceptional video can
 outperform months of steady output. Worth factoring into the parallel-vs-sequenced decision: this
 may not require the same twice-weekly commitment Logic Nexus does to pay off.
+**Note on Episode 001's 30-40 min runtime target**: deliberately kept far short of the channel's
+2:16:17 outlier — the reference channel's own catalog shows a spread from 25 min to 2h16m across
+just 6 videos, and the "What Mama Knew" trilogy (25-51 min episodes) proves shorter multi-part
+entries also perform in this niche (101K/32K/? views). 30-40 min for a first attempt at
+multi-voice/multi-character production remains the right scope; a feature-length attempt can be a
+later, second Harper Lane Films video once the pipeline is proven — not a reason to reopen the
+already-locked "mostly stills + 3 real-video beats" animation plan for Episode 001.
 
 ## Key production differences from Logic Nexus (not yet solved — plan before producing)
 - **Runtime: 30-40 minutes** for the first video — loosened from a fixed 40 to a range, itself
