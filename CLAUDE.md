@@ -499,6 +499,15 @@ marriage) and Isaiah Boyd, siblings. Not yet recorded/produced.
   each video generation at 15 seconds — for beats longer than that, chain clips by generating the
   next 15 seconds using the previous clip's last frame as the new reference image, then stitch in
   CapCut as one continuous shot.
+  **Workflow revised after 1A's problems (key/lock misplacement, ad-libbed voice, door drift into
+  2A)**: 1A was generated as raw video straight from a text+reference prompt, with no locked still
+  checkpoint to match against — user's correct diagnosis. For the remaining real-video beats
+  (**5C**, **14D**), generate a **still first** (Image to Image, checked and consistent against
+  the location/character/object references), lock that still once it holds up, and only then
+  convert it to video (Image to Video / Frame to Video in Grok) — don't generate video directly
+  from a prompt with no still checkpoint. This gives a stable anchor frame to match objects and
+  faces against before motion is added, rather than asking Grok to get everything right in one
+  video generation with nothing to check it against.
 - **Full prompt pack written and consolidated, then broken into shot beats, then given reverse-
   shot coverage** — `scripts/harper-lane-001-prompt-pack.md` — single file combining 5 recurring
   location anchor prompts (Josephine's front/dining, back office, Carter home kitchen, living
