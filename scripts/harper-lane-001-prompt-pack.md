@@ -16,6 +16,16 @@ method as Logic Nexus's reused L portrait.
 clips back to back), matching the cold-open plan. Dani's face and voice locked from this scene
 (voice locked on 1A's ad-lib, see 1A's note below).
 
+**On scene timestamps vs. actual generated runtime**: each scene's "(0:00–2:00)" heading is a
+narrative pacing estimate for where the scene falls across the ~30-40 min episode, not a literal
+runtime quota the generated footage has to hit. Scene 1 is the *only* scene made entirely of real
+Grok video (capped at 15s/clip), so it's the one scene where raw generated seconds and intended
+scene length naturally diverge — 45s of real cold-open footage is fine, even good (cold opens
+run short and punchy, not padded). Every other scene is stills + CapCut, where pacing is
+controlled freely in the edit (hold a still longer, let dialogue breathe) — that's where the
+actual 30-40 min total gets built. Check total runtime against the target once the full edit is
+assembled, not scene-by-scene against each script timestamp.
+
 ---
 
 ## Part 1 — Locations (generated in ChatGPT — done)
