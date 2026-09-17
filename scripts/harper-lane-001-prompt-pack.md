@@ -104,6 +104,12 @@ Dani)
 > light. Keep her face and outfit consistent with the reference. Photorealistic, cinematic but
 > grounded, no text, no logos.
 
+**2D — Dani's close-up, reverse shot** *(coverage for Dani's own lines during 2B/2C)*
+> Using this reference image, generate a close shot of Dani's face, thoughtful and a little
+> vulnerable, mid-sentence, talking about the restaurant keeping her upright. Warm morning light.
+> Keep her face and outfit consistent with the reference. Photorealistic, cinematic but grounded,
+> no text, no logos.
+
 ---
 
 ### Scene 3 — Josephine's, later that day (4:30–6:30)
@@ -127,6 +133,11 @@ visit)
 > shoulder, his eyes distant and worried while her expression stays warm and unaware. Soft
 > daylight. Keep both faces and outfits consistent with their reference images. Photorealistic,
 > cinematic but grounded, no text, no logos.
+
+**3D — Dani's close-up, reverse shot** *(coverage for her lines during 3A)*
+> Using this reference image, generate a close shot of Dani's face lighting up warmly as Marcus
+> walks in, mid-sentence. Soft daylight. Keep her face and outfit consistent with the reference.
+> Photorealistic, cinematic but grounded, no text, no logos.
 
 ---
 
@@ -178,6 +189,11 @@ visit)
 > silent, the weight of a devastating admission between them. Dim, tense night lighting. Keep
 > both faces and outfits consistent with their reference images. Photorealistic, cinematic but
 > grounded, no text, no logos.
+
+**5D — Marcus's close-up, reverse shot** *(coverage for his lines during 5A/5B)*
+> Using this reference image, generate a close shot of Marcus standing near the kitchen table,
+> guilty, searching for words. Tense, quiet night lighting. Keep his face and outfit consistent
+> with the reference. Photorealistic, cinematic but grounded, no text, no logos.
 
 ---
 
@@ -234,6 +250,12 @@ conversations)
 > outfits consistent with their reference images. Photorealistic, cinematic but grounded, no
 > text, no logos.
 
+**7E — Dani's close-up, reverse shot** *(coverage for her sharpest line, "what have you held
+onto lately")*
+> Using this reference image, generate a close shot of Dani, sharp and pointed, mid-sentence,
+> arms still crossed. Quiet daytime lighting. Keep her face and outfit consistent with the
+> reference. Photorealistic, cinematic but grounded, no text, no logos.
+
 ---
 
 ### Scene 8 — Josephine's back office, later (20:30–23:00)
@@ -256,6 +278,11 @@ conversations)
 > Using this reference image, generate a close shot of Dani staring at the stack of papers,
 > processing quietly, a heavy expression. Dim, warm lighting. Keep her face and outfit consistent
 > with the reference. Photorealistic, cinematic but grounded, no text, no logos.
+
+**8D — Renee's close-up, reverse shot** *(coverage for her explaining the pattern of loans)*
+> Using this reference image, generate a close shot of Renee, focused and serious, mid-sentence,
+> explaining something over a document. Dim, warm desk-lamp lighting. Keep her face and outfit
+> consistent with the reference. Photorealistic, cinematic but grounded, no text, no logos.
 
 ---
 
@@ -300,6 +327,11 @@ scenes
 > toward Marcus, a serious, final expression. Warm amber bar lighting. Keep both faces and
 > outfits consistent with their reference images. Photorealistic, cinematic but grounded, no
 > text, no logos.
+
+**10D — Devon's close-up, reverse shot** *(coverage for his skeptical lines)*
+> Using this reference image, generate a close shot of Devon, weary and guarded, mid-sentence,
+> studying Marcus. Warm amber bar lighting. Keep his face and outfit consistent with the
+> reference. Photorealistic, cinematic but grounded, no text, no logos.
 
 ---
 
@@ -349,6 +381,12 @@ scenes
 > a small moment of relief. Dim, warm lighting. Keep both faces and outfits consistent with their
 > reference images. Photorealistic, cinematic but grounded, no text, no logos.
 
+**12E — Patricia's close-up, reverse shot** *(coverage for her monologue about the restaurant's
+history)*
+> Using this reference image, generate a close shot of Patricia, warm and steady, mid-sentence,
+> speaking with quiet conviction. Dim, warm counter lighting. Keep her face and outfit consistent
+> with the reference. Photorealistic, cinematic but grounded, no text, no logos.
+
 ---
 
 ### Scene 13 — Carter home kitchen, day (35:00–37:30)
@@ -371,6 +409,11 @@ marriage)
 > alone in the kitchen watching him go, composed but not triumphant. Soft daytime lighting. Keep
 > both faces and outfits consistent with their reference images. Photorealistic, cinematic but
 > grounded, no text, no logos.
+
+**13D — Dani's close-up, reverse shot** *(coverage for her lines throughout the goodbye)*
+> Using this reference image, generate a close shot of Dani, composed and steady, mid-sentence,
+> arms crossed, listening to Marcus. Soft daytime lighting. Keep her face and outfit consistent
+> with the reference. Photorealistic, cinematic but grounded, no text, no logos.
 
 ---
 
@@ -410,9 +453,15 @@ CapCut/Canva.
 ---
 
 ## Production notes
-- **~45 total shots** across 14 scenes (2-4 beats each) — broken down because a single image per
-  scene can't cover a 30-40 minute video; matches Logic Nexus's "images scale with narration
-  length" rule, applied here to scene/beat length instead of narration seconds.
+- **~53 total shots** across 14 scenes — broken down because a single image per scene can't
+  cover a 30-40 minute video; matches Logic Nexus's "images scale with narration length" rule,
+  applied here to scene/beat length instead of narration seconds.
+- **Reverse-shot coverage locked in upfront**: every two-person scene where both characters have
+  real lines now has a close-up for *each* of them, not just one — added as lettered follow-ups
+  (2D, 3D, 5D, 7E, 8D, 10D, 12E, 13D) after the original beat list. This is deliberate insurance
+  against the exact problem that hit Logic Nexus's early episodes: running short on images mid-
+  CapCut-edit and having to stop and generate more. **Generate the full ~53-shot list before
+  starting the edit** — don't treat this as a rough draft to patch later.
 - Generate roughly in script order — each scene's location is usually already needed from an
   earlier scene.
 - Scenes 5+6 and Scene 9 share exact outfits/lighting with their neighbors — batch those

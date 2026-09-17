@@ -442,14 +442,19 @@ marriage) and Isaiah Boyd, siblings. Not yet recorded/produced.
 - **First concrete production step**: generate the Dani anchor image (prompt in the character
   bible) and preview ElevenLabs voice candidates against her lines. Once her face and voice are
   locked, the rest of the cast follows the same pattern.
-- **Full prompt pack written and consolidated, then broken into shot beats** —
-  `scripts/harper-lane-001-prompt-pack.md` — single file combining 5 recurring location anchor
-  prompts (Josephine's front/dining, back office, Carter home kitchen, living room, the bar) and
-  all 14 scenes, each split into 2-4 beat-level shot prompts (~45 total shots) instead of one
-  image per scene — a 30-40 minute video can't run on 14 stills, same "images scale with length"
-  principle as Logic Nexus's narration-based image count, applied here to scene/beat length.
-  Each beat specifies which location + character reference images to attach and that character's
-  specific wardrobe look. Scene 14's beat 14A is the one 4-character ensemble shot in the
+- **Full prompt pack written and consolidated, then broken into shot beats, then given reverse-
+  shot coverage** — `scripts/harper-lane-001-prompt-pack.md` — single file combining 5 recurring
+  location anchor prompts (Josephine's front/dining, back office, Carter home kitchen, living
+  room, the bar) and all 14 scenes, each split into beat-level shot prompts (~53 total shots)
+  instead of one image per scene — a 30-40 minute video can't run on 14 stills, same "images
+  scale with length" principle as Logic Nexus's narration-based image count, applied here to
+  scene/beat length. **Reverse-shot coverage locked in upfront** (8 added beats: 2D, 3D, 5D, 7E,
+  8D, 10D, 12E, 13D) — every two-person scene where both characters have real lines now has a
+  close-up for each of them, generated before the edit starts, deliberately to avoid the exact
+  problem that hit Logic Nexus's early episodes (running short on images mid-CapCut-edit and
+  having to stop and generate more). Each beat specifies which location + character reference
+  images to attach and that character's specific wardrobe look. Scene 14's beat 14A is the one
+  4-character ensemble shot in the
   episode — flagged with a fallback (generate separately, composite in CapCut) if Grok can't hold
   all 4 faces accurately at once.
 
