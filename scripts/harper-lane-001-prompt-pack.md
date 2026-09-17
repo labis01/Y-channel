@@ -72,10 +72,13 @@ image.
 
 **1A — Unlocking the door** *(no dialogue)*
 > Using this reference image, generate Dani standing outside the restaurant's
-> front door, key in hand, wearing her dark apron over a cream henley, hair
-> pulled back, mid-unlock. Soft warm morning light. Preserve her exact face,
-> hairstyle, and skin tone; match her outfit exactly. Silent — no dialogue, no
-> voiceover. Photorealistic, cinematic but grounded, no text, no logos.
+> front door, wearing her dark apron over a cream henley, hair pulled back.
+> Close on her hand inserting a key precisely into the door's keyhole, directly
+> above the handle, key aligned straight into the lock — not into the wood, the
+> glass, or any other part of the door. Soft warm morning light. Preserve her
+> exact face, hairstyle, and skin tone; match her outfit exactly. Silent — no
+> dialogue, no voiceover. Photorealistic, cinematic but grounded, no text, no
+> logos.
 
 **1B — Wiping the dusty counter**
 > Using these reference images, generate Dani inside the restaurant, running a
