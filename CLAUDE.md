@@ -348,6 +348,10 @@ Full-length AI-generated dramatic films/series ("complete movie" uploads), not r
 analysis. Genre: Black/African-American relationship and family drama — betrayal, loss,
 survival, rebuilding. Dialogue-driven between multiple characters, not single-narrator
 investigative format like Logic Nexus.
+**Series framing (locked)**: each numbered installment ("Episode 001," etc.) closes with
+"Watch out for the next episode," not a hard "THE END" — treats Harper Lane Films as an ongoing
+series rather than one-off standalone movies, even though each story (like Ep. 001's) is
+still self-contained/resolved on its own. Applied to Episode 001's script closing tag.
 
 ## Reference channel: Grace Studios (@Gracestudios.x — youtube.com/@Gracestudios.x)
 **Only 6 videos total, 40.9K subscribers** — an extremely high hit-rate channel, growth almost

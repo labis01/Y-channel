@@ -610,7 +610,7 @@ back into the kitchen as the lunch rush picks up around her.*
 
 **FADE OUT.**
 
-*END.*
+**WATCH OUT FOR THE NEXT EPISODE.**
 
 ---
 
