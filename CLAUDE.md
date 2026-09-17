@@ -460,6 +460,13 @@ marriage) and Isaiah Boyd, siblings. Not yet recorded/produced.
   fallbacks apply (Gemini/Bing/Canva Magic Media) if Grok's limit is hit — confirm each fallback
   actually supports image-to-image before relying on it mid-block, since that capability is not
   optional for this project the way it was for Logic Nexus.
+  **Location drift confirmed on Scene 2**: the shop looked different between 1B/1C and 2A even
+  though the same ChatGPT-generated anchor was attached each time — the anchor isn't Grok-native,
+  so Grok can reinterpret it slightly on every generation instead of holding it fixed. Fix:
+  same rule as character consistency (4b) — once a solid Grok-generated interior shot exists
+  (e.g. 1B or 1C), use *that actual generated frame* as the ongoing location reference for the
+  rest of that location's beats, alongside or instead of the original ChatGPT anchor, so Grok is
+  chaining off its own prior output rather than reinterpreting an external image each time.
 - **First concrete production step**: generate the Dani anchor image (prompt in the character
   bible) and lock her face. **Voice locks on whichever beat first produces audio, not necessarily
   the first scripted dialogue beat** — revised after Beat 1A on Episode 001: it was written as
