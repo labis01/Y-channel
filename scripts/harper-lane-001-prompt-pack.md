@@ -71,14 +71,12 @@ image.
 **Voices:** Dani: Black American female, mid-30s — warm grounded alto, conversational, real range from quiet to controlled fury
 
 **1A — Unlocking the door** *(no dialogue)*
-> Using this reference image, generate Dani standing outside the restaurant's
-> front door, wearing her dark apron over a cream henley, hair pulled back.
-> Close on her hand inserting a key precisely into the door's keyhole, directly
-> above the handle, key aligned straight into the lock — not into the wood, the
-> glass, or any other part of the door. Soft warm morning light. Preserve her
-> exact face, hairstyle, and skin tone; match her outfit exactly. Silent — no
-> dialogue, no voiceover. Photorealistic, cinematic but grounded, no text, no
-> logos.
+> Using this reference image, generate Dani outside the restaurant's front
+> door, dark apron over cream henley, hair pulled back. Close on her hand
+> inserting the key straight into the keyhole above the door handle. Soft warm
+> morning light. Preserve her exact face, hairstyle, skin tone; match outfit
+> exactly. Silent — no dialogue. Photorealistic, cinematic but grounded, no
+> text, no logos.
 
 **1B — Wiping the dusty counter**
 > Using these reference images, generate Dani inside the restaurant, running a
