@@ -467,6 +467,13 @@ marriage) and Isaiah Boyd, siblings. Not yet recorded/produced.
   (e.g. 1B or 1C), use *that actual generated frame* as the ongoing location reference for the
   rest of that location's beats, alongside or instead of the original ChatGPT anchor, so Grok is
   chaining off its own prior output rather than reinterpreting an external image each time.
+  **Confirmed to go deeper than the room overall — the door itself changed** (design, color,
+  hardware) between 1A/1C and 2A. Drift happens at the object level, not just the general
+  location, so match the reference to the specific object in frame: any beat showing the front
+  door needs **1A** attached specifically (the clearest shot of the actual door), not just a
+  general interior reference. Apply this per-object, not just per-location, going forward — a
+  shot featuring the counter, a window, a specific prop, etc. should reference whichever prior
+  generated frame shows that exact object most clearly.
 - **First concrete production step**: generate the Dani anchor image (prompt in the character
   bible) and lock her face. **Voice locks on whichever beat first produces audio, not necessarily
   the first scripted dialogue beat** — revised after Beat 1A on Episode 001: it was written as
