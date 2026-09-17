@@ -440,6 +440,12 @@ marriage) and Isaiah Boyd, siblings. Not yet recorded/produced.
   (Josephine's front/dining, Josephine's back office, Carter home kitchen, Carter home living
   room, the bar) each get one anchor image, reused as image-to-image background reference for
   every scene set there, same method as character consistency.
+- **Full scene-by-scene image prompts written** — `scripts/harper-lane-001-scene-prompts.md` —
+  ready-to-paste Grok prompt for all 14 scenes, each specifying which location + character
+  reference images to attach and that character's specific wardrobe look for that scene (pulled
+  from the character bible's wardrobe lists). Scene 14 is the one 4-character ensemble shot in
+  the episode — flagged with a fallback (generate separately, composite in CapCut) if Grok can't
+  hold all 4 faces accurately at once.
 
 ## YouTube policy compliance (check before every Harper Lane Films upload)
 - **AI-content disclosure**: toggle on "Altered or synthetic content" (Studio → video → Details →
