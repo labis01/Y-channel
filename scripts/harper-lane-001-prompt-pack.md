@@ -683,12 +683,16 @@ CapCut/Canva.
   the prompt never told it the shot was silent. Fixed by adding an explicit "does not speak /
   no dialogue / no voiceover" clause to all 4 no-dialogue beats (1A, 4A, 9C, 14A). Don't assume
   the absence of a *Delivery:* line is enough on its own — Grok needs to be told directly.
-- **Animation — mostly stills, 3 real-video beats**: revised after checking what's actually known
-  about Grace Studios (the reference channel) — "Made with AI," image/video + narration, "a
-  similar toolkit to Logic Nexus's, just scaled up." That means mostly stills with motion, not
-  continuous AI video for 30-40 minutes. Most of the 55 beats stay stills (Image to Image) with
-  CapCut Ken Burns/zoom. **1A-1C, 5C, and 14D get real Grok video** instead, mirroring Logic
-  Nexus's cold-open/turning-point/closing-pullback rule. Grok caps each video generation at 15
-  seconds — for a beat running longer, chain clips by generating the next 15 seconds using the
-  previous clip's last frame as the new reference image, then stitch as one continuous shot in
-  CapCut.
+- **Animation — stills first for every beat, no exceptions**: revised after checking what's
+  actually known about Grace Studios (the reference channel) — "Made with AI," image/video +
+  narration, "a similar toolkit to Logic Nexus's, just scaled up." That means mostly stills with
+  motion, not continuous AI video for 30-40 minutes. **All 55 beats generate as a still first**
+  (Image to Image), checked against the location/character/object references before moving on.
+  Most stay stills, animated in CapCut with Ken Burns/zoom. **1A-1C, 5C, and 14D additionally
+  convert to real Grok video** after their still is locked, mirroring Logic Nexus's
+  cold-open/turning-point/closing-pullback rule. Grok caps each video generation at 15 seconds —
+  for a beat running longer, chain clips by generating the next 15 seconds using the previous
+  clip's last frame as the new reference image, then stitch as one continuous shot in CapCut.
+  **Rule generalized after 1A's problems** (key/lock misplacement, ad-libbed voice, door drift
+  into 2A) — 1A was generated as raw video with no still checkpoint to match against. No beat
+  generates as video directly from a prompt anymore; a locked still always comes first.

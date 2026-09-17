@@ -487,27 +487,28 @@ marriage) and Isaiah Boyd, siblings. Not yet recorded/produced.
   relevant location anchor image and the relevant character reference image(s) together in Grok,
   then generate from that beat's prompt — Grok composites the character into the location in one
   pass, rather than generating character and background separately.
-- **Animation (revised, locked)**: reversed from stills-only after checking what we actually
-  know about the reference channel — Grace Studios' outlier is labeled "Made with AI" and
-  confirmed as "image/video + narration/voice... achievable with a similar toolkit to Logic
-  Nexus's, just scaled up." That means mostly stills with motion, not full continuous AI video
-  for 30-40 minutes (which would run ~150+ chained 15-second Grok generations — an unrealistic
-  lift with no evidence the reference channel did it that way). **Most of the ~55 beats stay
-  stills** (Image to Image) with CapCut Ken Burns/zoom. **3 beats get real Grok video**,
-  mirroring Logic Nexus's cold-open/turning-point/closing-pullback rule: **1A-1C** (cold open),
-  **5C** ("Three years" — the emotional turning point), **14D** (closing V.O./toast). Grok caps
-  each video generation at 15 seconds — for beats longer than that, chain clips by generating the
-  next 15 seconds using the previous clip's last frame as the new reference image, then stitch in
-  CapCut as one continuous shot.
-  **Workflow revised after 1A's problems (key/lock misplacement, ad-libbed voice, door drift into
+- **Animation (revised, locked) — stills-first for every single beat, no exceptions**: reversed
+  from stills-only after checking what we actually know about the reference channel — Grace
+  Studios' outlier is labeled "Made with AI" and confirmed as "image/video + narration/voice...
+  achievable with a similar toolkit to Logic Nexus's, just scaled up." That means mostly stills
+  with motion, not full continuous AI video for 30-40 minutes. **All ~55 beats generate as a
+  still first** (Image to Image), checked and consistent against the location/character/object
+  references before moving on. Most stay stills, animated in CapCut with Ken Burns/zoom. **3
+  beats additionally convert to real Grok video** after their still is locked, mirroring Logic
+  Nexus's cold-open/turning-point/closing-pullback rule: **1A-1C** (cold open), **5C** ("Three
+  years" — the emotional turning point), **14D** (closing V.O./toast). Grok caps each video
+  generation at 15 seconds — for beats longer than that, chain clips by generating the next 15
+  seconds using the previous clip's last frame as the new reference image, then stitch in CapCut
+  as one continuous shot.
+  **Rule generalized after 1A's problems (key/lock misplacement, ad-libbed voice, door drift into
   2A)**: 1A was generated as raw video straight from a text+reference prompt, with no locked still
-  checkpoint to match against — user's correct diagnosis. For the remaining real-video beats
-  (**5C**, **14D**), generate a **still first** (Image to Image, checked and consistent against
-  the location/character/object references), lock that still once it holds up, and only then
-  convert it to video (Image to Video / Frame to Video in Grok) — don't generate video directly
-  from a prompt with no still checkpoint. This gives a stable anchor frame to match objects and
-  faces against before motion is added, rather than asking Grok to get everything right in one
-  video generation with nothing to check it against.
+  checkpoint to match against — user's correct diagnosis, and the user then extended the fix to
+  *every* beat rather than just the two remaining real-video ones (5C, 14D). No beat generates as
+  video directly from a prompt anymore, including 1A-1C — a still is always the first, checked,
+  locked step, and video (where used) is a conversion of that locked still, not a fresh
+  generation. This gives a stable anchor frame to match objects and faces against before motion
+  is added, rather than asking Grok to get everything right in one video generation with nothing
+  to check it against.
 - **Full prompt pack written and consolidated, then broken into shot beats, then given reverse-
   shot coverage** — `scripts/harper-lane-001-prompt-pack.md` — single file combining 5 recurring
   location anchor prompts (Josephine's front/dining, back office, Carter home kitchen, living
