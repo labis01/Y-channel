@@ -436,6 +436,10 @@ marriage) and Isaiah Boyd, siblings. Not yet recorded/produced.
 - **First concrete production step**: generate the Dani anchor image (prompt in the character
   bible) and preview ElevenLabs voice candidates against her lines. Once her face and voice are
   locked, the rest of the cast follows the same pattern.
+- **Location anchors added** — `scripts/harper-lane-001-locations.md` — 5 recurring locations
+  (Josephine's front/dining, Josephine's back office, Carter home kitchen, Carter home living
+  room, the bar) each get one anchor image, reused as image-to-image background reference for
+  every scene set there, same method as character consistency.
 
 ## YouTube policy compliance (check before every Harper Lane Films upload)
 - **AI-content disclosure**: toggle on "Altered or synthetic content" (Studio → video → Details →
