@@ -1,17 +1,22 @@
 # Harper Lane Films — Episode 001: "Before I Let You Go" — Full Prompt Pack
 
 Consolidated from the separate locations and scene-prompt files. Everything needed to generate
-this episode's visuals in Grok lives here — location anchors first, then all 14 scene prompts.
-Character anchor images are the finished official character sheets in
+this episode's visuals lives here — location anchors first, then all 14 scenes broken into shot
+beats. Character anchor images are the finished official character sheets in
 `harper-lane-001-character-bible.md` (no separate text prompts needed — use those images
 directly as reference).
 
+**Tool split**: locations don't need identity-preservation the way character shots do, so they
+were generated separately from the character work. **Part 1 (the 5 location anchors) — DONE,
+generated in ChatGPT.** **Grok generates Part 2 (all ~53 character/scene shots)** — every repeat
+appearance of a character needs image-to-image reference against the character sheets, same
+method as Logic Nexus's reused L portrait.
+
 ---
 
-## Part 1 — Locations (generate these first)
+## Part 1 — Locations (generated in ChatGPT — done)
 
-Generate each once, then use as the image-to-image background reference for every scene set
-there.
+Generate each once, then use as the background reference for every scene set there.
 
 ### Josephine's — front/dining area
 **Appears in:** Scenes 1, 2, 3, 4, 11, 14

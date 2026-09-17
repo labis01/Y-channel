@@ -432,8 +432,11 @@ marriage) and Isaiah Boyd, siblings. Not yet recorded/produced.
   not worth the time. Starting settings for every voice: same template as Haven Sands (Stability
   50-65%, Clarity/Similarity 80-85%, Style 5-20%, generate at 1.0x), then nudge per-voice based
   on actual output — stability varies voice to voice.
-- **Visual consistency**: reuse the already-proven Logic Nexus workflow rather than adding a new
-  tool — Grok primary, image-to-image reference for every repeat appearance of a character (same
+- **Visual consistency — split by asset type**: locations don't need identity-preservation the
+  way character shots do, so they're handled separately. **The 5 location anchors (Josephine's
+  front/dining, back office, Carter home kitchen, living room, the bar) are DONE — generated in
+  ChatGPT.** **Grok generates all ~53 character/scene shots** — reuses the already-proven Logic
+  Nexus workflow, image-to-image reference for every repeat appearance of a character (same
   method as L's reused portrait). Matters more here than on Logic Nexus, since this needs 5-6
   consistent faces across 14 scenes instead of one mostly-silhouetted recurring figure. Same
   fallbacks apply (Gemini/Bing/Canva Magic Media) if Grok's limit is hit — confirm each fallback
