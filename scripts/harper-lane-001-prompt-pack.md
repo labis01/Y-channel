@@ -70,11 +70,15 @@ image.
 **Characters:** Dani only | **Outfit:** Working look (dark apron, cream henley)
 **Voices:** Dani: Black American female, mid-30s — warm grounded alto, conversational, real range from quiet to controlled fury
 
-**1A — Unlocking the door** *(no dialogue — KEPT the first-generated version
-despite the key/keyhole misplacement; user decision to stop spending Grok
-credits on this shot rather than keep retrying. Prompt below reframed and
-left on file for any future beat/episode needing a similar action — not
-regenerated for Episode 001.)*
+**1A — Unlocking the door** *(no dialogue in the script — KEPT the
+first-generated version despite the key/keyhole misplacement; user decision
+to stop spending Grok credits on this shot rather than keep retrying. Prompt
+below reframed and left on file for any future beat/episode needing a
+similar action — not regenerated for Episode 001. **Actual audio in the kept
+clip**: Grok ad-libbed a line despite the silent instruction — DANI: "Okay,
+come on, home again." Not scripted, but this is what plays in the edit —
+account for it when cutting/subtitling this beat, same rule as Logic Nexus's
+"recorded narration is the source of truth.")*
 > Using this reference image, generate Dani outside the restaurant's front
 > door, dark apron over cream henley, hair pulled back, key ring in one hand.
 > Medium shot: she stands facing the door, key ring visible in her lowered
