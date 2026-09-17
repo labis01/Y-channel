@@ -407,11 +407,13 @@ both confirmed clean across all 14 scenes. **Character bible replaced with finis
 character sheets** — `scripts/harper-lane-001-character-bible.md` — all 6 characters now have
 full production-grade sheets (occupation, family, personality, core arc, tagline, key traits,
 story overview, 5 wardrobe looks, key relationships web, key objects) with each sheet's own photo
-grid serving as the image-to-image consistency reference. One correction made during transcription:
-Dani's sheet said "her late mother's restaurant" — fixed to reflect the locked premise (Josephine,
-the restaurant's namesake, is the deceased grandmother; Patricia, the mother, is alive and
-present). Restaurant brand tagline confirmed: "GOOD FOOD. STRONGER PEOPLE." Not yet
-recorded/produced.
+grid serving as the image-to-image consistency reference. Restaurant brand tagline confirmed:
+"GOOD FOOD. STRONGER PEOPLE." **Family tree resolved**: the sheets gave Patricia and Isaiah the
+surname "Carter," but Carter is Marcus's family name — Dani took it at marriage. Patricia and
+Isaiah's birth surname is **Boyd**. Full tree: Josephine Boyd (Dani's grandmother, deceased, the
+restaurant's namesake, never shown on-screen) → Patricia Boyd (Dani's mother, alive, present
+throughout — confirms the locked no-death/no-funeral premise) → Dani (born Boyd, now Carter by
+marriage) and Isaiah Boyd, siblings. Not yet recorded/produced.
 
 ## Tool stack — locked
 - **Multi-voice ElevenLabs**: ElevenLabs Voice Library (not custom cloning). Search by the

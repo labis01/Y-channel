@@ -4,12 +4,15 @@ Canonical character sheets for "Before I Let You Go" — all 6 named characters.
 the finished character sheet designs (Josephine's-branded, "GOOD FOOD. STRONGER PEOPLE." tagline
 established as the restaurant's own slogan — worth reusing on thumbnail/description copy).
 
-**One correction from the source sheets**: Dani's sheet described Josephine's as "her late
-mother's restaurant." Per the locked story, that's wrong — Patricia (the mother) is alive and
-present throughout, and Josephine is the deceased *grandmother* the restaurant is named after,
-who Patricia originally took it over from. Corrected below; the sheets' own Patricia page (alive,
-present in Scene 12 comforting Dani) confirms this was the tool's phrasing slip, not a real
-premise change.
+**Family tree, resolved**: the source sheets gave Patricia and Isaiah the surname "Carter" — but
+Carter is Marcus's family name, which Dani took when she married him. Patricia and Isaiah's birth
+surname is **Boyd**. Resolved tree: **Josephine Boyd** (Dani's grandmother, deceased, the
+restaurant's namesake, never shown on-screen) → **Patricia Boyd** (Dani's mother, alive, present
+throughout) → **Dani (born Boyd) and Isaiah Boyd** (siblings). Dani became Danielle Carter at
+marriage; Isaiah kept the Boyd name. This also fixes an earlier sheet-text error that called
+Josephine's "her late mother's restaurant" — per the locked story, Patricia (the mother) is alive;
+Josephine (the grandmother) is the deceased one, and there's no death or funeral shown on-screen
+either way.
 
 Each sheet's photo set already functions as the turnaround/consistency reference for that
 character — multiple angles, expressions, and outfit variants generated together. Use these as
@@ -17,11 +20,12 @@ the image-to-image source for any new shot of that character instead of re-promp
 
 ---
 
-## Danielle "Dani" Carter — Lead
+## Danielle "Dani" Carter (born Boyd) — Lead
 
 **Age:** Late 30s
 **Occupation:** Chef / Restaurant Owner (Josephine's)
-**Family:** Daughter of Patricia, sister of Isaiah, wife of Marcus (at the beginning)
+**Family:** Daughter of Patricia Boyd, sister of Isaiah Boyd, wife of Marcus Carter (at the
+beginning) — surname Carter is her married name
 **Personality:** Practical, resilient, observant, warm, hardworking, emotionally honest. Not
 easily shaken, but deeply feels the weight of betrayal.
 **Core arc:** Rebuilding → Discovery → Betrayal → Confrontation → Independence
@@ -51,7 +55,8 @@ longer tolerates).
 
 **Age:** Late 30s – early 40s
 **Occupation:** Corporate professional (finance/business)
-**Family:** Husband of Dani, brother-in-law to Isaiah, son-in-law to Patricia (by marriage)
+**Family:** Husband of Dani (born Boyd), brother-in-law to Isaiah Boyd, son-in-law to Patricia
+Boyd
 **Personality:** Charming, intelligent, ambitious, conflict-avoidant, good at appearing in
 control. Struggles with shame and addiction.
 **Core conflict:** Gambling addiction, mounting debt, and a growing web of lies he's afraid to
@@ -111,11 +116,11 @@ tote bag (work, life, everything in one).
 
 ---
 
-## Isaiah Carter — Younger Brother
+## Isaiah Boyd — Younger Brother
 
 **Age:** Mid to late 20s
 **Occupation:** Between jobs / exploring next steps (formerly various roles)
-**Family:** Son of Patricia, brother to Dani (biological), brother-in-law to Marcus (by marriage)
+**Family:** Son of Patricia Boyd, brother of Dani (born Boyd), brother-in-law to Marcus Carter
 **Personality:** Honest, protective, loyal, frustrated, empathetic, blunt but caring, still
 figuring out his own path.
 **Core role:** Challenges Dani, tells hard truths, pushes her to consider letting go, ultimately
@@ -146,11 +151,11 @@ family, life, what's next); family photo (a reminder of what — and who — mat
 
 ---
 
-## Patricia Carter — Mother
+## Patricia Boyd — Mother
 
 **Age:** Early 60s
 **Occupation:** Retired Restaurateur / Family Matriarch
-**Family:** Mother of Dani, mother-in-law to Marcus, mother to Isaiah (by marriage)
+**Family:** Mother of Dani (Carter by marriage) and Isaiah Boyd, mother-in-law to Marcus Carter
 **Personality:** Wise, practical, compassionate, strong-willed, observant, calm under pressure,
 protective.
 **Core role:** Emotional anchor. Keeper of family legacy. Provides truth, encouragement, and
@@ -160,8 +165,8 @@ perspective. Reminds Dani of her strength and the history behind Josephine's.
 with honesty and compassion. Calm in crisis. Believes in accountability. Values family, legacy,
 and hard work. Sees the bigger picture. Offers tough love when needed. Faithful, hopeful, and
 steady.
-**Story overview:** Patricia Carter is Dani's mother and the heart of the Carter family. She took
-over Josephine's from Dani's grandmother and kept it alive through tough times — a divorce,
+**Story overview:** Patricia Boyd is Dani's mother and the heart of the family. She took
+over Josephine's from Josephine Boyd, Dani's grandmother, and kept it alive through tough times — a divorce,
 recessions, and even a kitchen fire. She represents resilience, legacy, and unconditional love.
 Patricia supports Dani's return to the restaurant, offers honest advice when Marcus's betrayal
 comes to light, and helps Dani find the strength to rebuild. She doesn't sugarcoat the truth, but
@@ -169,9 +174,9 @@ she always leads with love.
 **Wardrobe (5 looks):** Josephine's (work apron); casual home (everyday comfort); family
 gathering (church/formal); casual day (running errands); at home (comfort and care).
 **Key relationships:** Dani (daughter — protects and guides her, believes in her strength);
-Marcus (son-in-law — sees his potential but not afraid to hold him accountable); Isaiah (son, by
-marriage — loves him like her own, keeps him grounded); Renee (Dani's friend — welcomes her and
-trusts her judgment); Josephine (legacy, deceased — her example lives on through the restaurant).
+Marcus (son-in-law — sees his potential but not afraid to hold him accountable); Isaiah (son —
+loves him, keeps him grounded); Renee (Dani's friend — welcomes her and
+trusts her judgment); Josephine Boyd (mother, deceased — her example lives on through the restaurant).
 **Key objects:** Josephine's apron (a legacy of strength and survival); family photo (three
 generations, same strength); recipe book (history, love, and tradition); coffee mug (for tough
 conversations); fresh flowers (a reminder that there's always another season).
