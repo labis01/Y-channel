@@ -403,12 +403,15 @@ Full treatment, cast list, voice needs, and act structure in
 single-scene character, **Devon** (Marcus's bar scene) — not part of the core 5-voice cast,
 low priority to cast with a dedicated ElevenLabs voice since he doesn't reappear. Visual
 constraint (no hospital/blood/depiction of loss of life) and gambling-depiction policy note
-both confirmed clean across all 14 scenes. **Character bible written** —
-`scripts/harper-lane-001-character-bible.md` — full physical/wardrobe/voice/personality/speech
-notes for all 6 characters, plus ready-to-paste anchor image prompts and turnaround/character-sheet
-prompts (multiple angles + outfits in one reference image) for each. Visual language for this
-channel locked as warmer/naturalistic, deliberately distinct from Logic Nexus's
-noir/desaturated grade. Not yet recorded/produced.
+both confirmed clean across all 14 scenes. **Character bible replaced with finished official
+character sheets** — `scripts/harper-lane-001-character-bible.md` — all 6 characters now have
+full production-grade sheets (occupation, family, personality, core arc, tagline, key traits,
+story overview, 5 wardrobe looks, key relationships web, key objects) with each sheet's own photo
+grid serving as the image-to-image consistency reference. One correction made during transcription:
+Dani's sheet said "her late mother's restaurant" — fixed to reflect the locked premise (Josephine,
+the restaurant's namesake, is the deceased grandmother; Patricia, the mother, is alive and
+present). Restaurant brand tagline confirmed: "GOOD FOOD. STRONGER PEOPLE." Not yet
+recorded/produced.
 
 ## Tool stack — locked
 - **Multi-voice ElevenLabs**: ElevenLabs Voice Library (not custom cloning). Search by the
