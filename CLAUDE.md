@@ -332,6 +332,16 @@ mid-production; script still gets locked first either way.
   permanently excluding child-abuse-adjacent content from full monetization regardless of
   framing, plus reputational risk (real deceased person, real living victims) — not worth it for
   a channel building toward stable monetization. Not yet in production (images/narration).
+- Case File 005: **not yet locked.** Current front-runner: **Sherlock Holmes** — recognizable,
+  high-demand individual character with a built-in fanbase (arguably stronger than any name
+  Specular Verse has used), natural dual-agency (detective vs. detective — Sherlock can actively
+  counter-investigate L, not just get investigated), confident-tense framing writes itself, and
+  lower copyright risk since the original Conan Doyle stories are public domain. **One outside
+  data point checked and discounted**: an existing video "Could Batman Solve The Kira Case? -
+  Death Note" turned out old and very low-viewed — but it's from an unrelated, apparently small
+  channel, not Specular Verse (the channel this project's topic-selection rule is actually built
+  on), so it's weak signal against the "recognizable character" thesis, not a real
+  counter-example. Doesn't change the Sherlock Holmes recommendation.
 
 ---
 
