@@ -250,9 +250,11 @@ mid-production; script still gets locked first either way.
 9. Publish package: title, human-sounding description with timestamps, tags, human-sounding
    pinned comment inviting a verdict debate, subtitles uploaded as plain-text transcript (not
    timed file — let YouTube auto-sync).
-10. **Automatic dubbing — CONFIRMED WORKING**, tested on Case File 004's publish. Languages tab
-    shows many languages auto-populated with no manual action, each showing **Audio: Draft** and
-    **Title & description: Published** independently of each other.
+10. **Automatic dubbing — CONFIRMED WORKING**. Languages tab shows many languages auto-populated
+    with no manual action, each showing **Audio: Draft** and **Title & description: Published**
+    independently of each other. **Timeline correction**: the dub review pass and manual-review
+    toggle-off (below) happened a few days ago, not right at Case File 004's publish — the two
+    events are a couple weeks apart, not simultaneous.
     - **Real risk confirmed, not just theoretical**: title/description publish automatically and
       separately from the audio dub — so a viewer browsing in a given language can already see a
       translated title/description while the actual audio dub is still sitting in Draft (i.e.
