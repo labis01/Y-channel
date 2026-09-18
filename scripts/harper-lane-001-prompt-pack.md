@@ -23,6 +23,10 @@ below) were made in ChatGPT, which turned out to be the root cause of the door/r
 Scene 2 — a non-Grok-native image doesn't hold steady as a reference across multiple Grok
 generations. Regenerating all 5 locations directly in Grok now, so every future beat references
 a Grok-native image instead. Once regenerated, these become the new Part 1 anchors.
+**Grok credit limit confirmed real**: hit the weekly/rolling limit partway through Scene 2
+production (Sept 2026 session) — resets after ~15 hours. Worth pacing future generation sessions
+around this instead of trying to blitz all ~55 stills (soon ~110 with Phase 2 video conversion)
+in one sitting.
 
 **On scene timestamps vs. actual generated runtime**: each scene's "(0:00–2:00)" heading is a
 narrative pacing estimate for where the scene falls across the ~30-40 min episode, not a literal
