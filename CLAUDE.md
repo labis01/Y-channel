@@ -332,14 +332,15 @@ mid-production; script still gets locked first either way.
   permanently excluding child-abuse-adjacent content from full monetization regardless of
   framing, plus reputational risk (real deceased person, real living victims) — not worth it for
   a channel building toward stable monetization. Not yet in production (images/narration).
-  **Real performance (~2 weeks post-publish, via user report)**: **3 views total.** Meaningfully
-  worse than Case File 003's 8 views in its first 3 days 17 hours — this isn't just the
-  channel's usual reach bottleneck, it's a step down from the already-weak baseline. Matches the
-  distribution risk flagged at topic-selection time almost exactly: Vought is a corporate entity,
-  not a single recognizable face, a structural departure from every one of Specular Verse's proof-
-  point videos. Can't fully separate "topic lacks a searchable single name" from "reach is broken
-  channel-wide" without CTR/impression data (not yet shared) — but this is a second data point
-  pushing toward **recognizable individual character** being close to a hard requirement for
+  **Real performance (via user report, exact timeline unconfirmed — first stated as ~2 weeks
+  post-publish, then as 48 hours; not resolved, no Studio screenshot provided)**: **3 views
+  total, ~0 watch hours.** Whatever the exact window, this is at or below Case File 003's already
+  -weak baseline (8 views in its first 3 days 17 hours) — not an improvement. Matches the
+  distribution risk flagged at topic-selection time: Vought is a corporate entity, not a single
+  recognizable face, a structural departure from every one of Specular Verse's proof-point
+  videos. Can't fully separate "topic lacks a searchable single name" from "reach is broken
+  channel-wide" without CTR/impression data (not shared). Treat as a second weak-performance data
+  point reinforcing **recognizable individual character** as close to a hard requirement for
   future Case Files, not just a preference. Reinforces the Case File 005 Sherlock Holmes call
   below rather than changing it.
 - Case File 005: **not yet locked.** Current front-runner: **Sherlock Holmes** — recognizable,
