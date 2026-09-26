@@ -16,35 +16,33 @@
 
 ---
 
-### 0:00 — HOOK
+### 0:00 — COLD OPEN (flash-forward)
 
-The whole world forgot Peter Parker.
+[ON SCREEN: a coffee shop booth. Rain on the window. L crouched on a chair, dropping a sugar cube into his tea. Across from him, Peter, frozen.]
 
-L doesn't need them to remember.
+[VOICE NOTE: say "L" as one clear letter, "Elle", with a short pause after it. Check the first 30 seconds in ElevenLabs before exporting. Earlier auto-captions heard "Ella / Al".]
 
-Because every night Spider-Man puts on the mask, he makes the same mistake.
+"…Peter."
 
-He acts like Peter Parker.
+[HARD CUT to black. One sound hit.]
 
-He picks which crimes to stop. He picks which way to go home. He uses gear somebody has to build and fix. And he disappears for hours at a time, because under that mask there's still a guy with a life.
+Three weeks ago, the entire world forgot Peter Parker.
 
-L has cracked cases with a lot less.
+His best friend. The girl he loves. Everyone.
 
-But Peter's got something L has never had to deal with.
+So how does a detective who's never met him… know his name?
 
-Spider-Sense.
+### 0:15 — HOOK
 
-It tells him something's wrong before he even knows what.
+Because every night Spider-Man puts on the mask, he acts like Peter Parker.
 
-So L can't tail him. He can't sneak up on him.
+And L has cracked cases with a lot less.
 
-And the second Peter figures out someone's studying Spider-Man, every pattern L finds turns into a pattern Peter can fake.
+But Spider-Sense means L can't tail him. Can't ambush him. Can't even stand too close.
 
-A detective rebuilding a man the whole world forgot…
+And the second Peter realizes someone's studying him, every clue L finds turns into a clue Peter can fake.
 
-against a superhero who realizes someone's rebuilding him.
-
-And somewhere in this case, Peter makes one mistake.
+But somewhere in this case, Peter makes one mistake.
 
 It's not the one you think.
 
