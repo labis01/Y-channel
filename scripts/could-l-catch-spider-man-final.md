@@ -118,7 +118,21 @@ They're about life.
 
 He sleeps. He eats. Maybe he's got a job. Maybe he's in school.
 
-L writes his first note:
+[PETER CUTAWAY: a tiny apartment in Queens. Radiator clanking. Peter's stitching a torn suit sleeve at the kitchen table, counting crumpled bills with his free hand. A GED prep book props up a wobbly table leg.]
+
+*Rent's due Friday. Web fluid's due… yesterday.*
+
+There's a sticky note on his fridge in his own handwriting. *Call May.*
+
+He wrote it three weeks ago. Before.
+
+He still can't make himself throw it away.
+
+Somewhere across the city, a stranger is building a profile of this exact kitchen table.
+
+Peter has no idea.
+
+Back across the city, L writes his first note:
 
 **The guy under the mask controls the schedule.**
 
@@ -154,21 +168,7 @@ L isn't hunting Spider-Man's powers.
 
 He's hunting Spider-Man's bills.
 
-[PETER CUTAWAY: a tiny apartment in Queens. Radiator clanking. Peter's stitching a torn suit sleeve at the kitchen table, counting crumpled bills with his free hand. A GED prep book props up a wobbly table leg.]
-
-*Rent's due Friday. Web fluid's due… yesterday.*
-
-There's a sticky note on his fridge in his own handwriting. *Call May.*
-
-He wrote it three weeks ago. Before.
-
-He still can't make himself throw it away.
-
-Somewhere across the city, a stranger is building a profile of this exact kitchen table.
-
-Peter has no idea.
-
-Young. Seriously good with tech. Probably a chemist too. Less money than he used to have. Living close to where he patrols.
+So now the profile looks like this. Young. Seriously good with tech. Probably a chemist too. Less money than he used to have. Living close to where he patrols.
 
 That's still tens of thousands of people.
 
@@ -295,6 +295,8 @@ Now L has a hunting zone.
 And then he does something you wouldn't expect.
 
 He stops narrowing it down.
+
+Honestly? This is the moment I'd have lost the case. L doesn't.
 
 Narrow too fast and you start bending the evidence to fit your theory.
 
@@ -476,9 +478,7 @@ What *didn't* he change?
 
 His values.
 
-Peter can pick where he swings. He can even pick which camera sees him.
-
-But changing his gut instinct to help people? Way harder.
+But his gut instinct to help people? That doesn't change.
 
 L goes back through real emergencies already on record.
 
@@ -584,6 +584,10 @@ Into Spider-Man's past.
 
 # 8 — THE PERSON WHO SHOULD BE THERE
 
+Halfway through the case, and L still doesn't have a name.
+
+So he stops looking forward… and looks back.
+
 This is where Doctor Strange's spell gets interesting.
 
 L has no clue magic wiped Peter Parker from everyone's memory.
@@ -678,7 +682,13 @@ Except him.
 
 His head turned *before* it hit the floor.
 
-L runs the name.
+On the fourth day, the kid leaves a GED prep book on the table while he grabs a refill.
+
+The observer snaps one photo of the inside cover.
+
+A name. In pencil.
+
+L runs it.
 
 Peter Parker.
 
@@ -738,6 +748,16 @@ And the only person left who's trying to find out who he is…
 
 is a stranger with a camera network.
 
+[CUT TO: L's monitors, late at night.]
+
+Across the city, L reads the observer's report.
+
+*Target visited a grave. Stayed until dark.*
+
+L deletes that line before the report goes to Damage Control.
+
+He tells himself it's irrelevant.
+
 Then Peter realizes the silence is fake.
 
 *Someone this patient doesn't quit. They go dark.*
@@ -768,7 +788,7 @@ How?
 
 Remember the Times Square guys L threw out on day one?
 
-Peter found the most convincing one. Paid him forty bucks and a large pizza. Told him to hop off a dumpster, web up a "thief" (his cousin), wave at the cameras, and leave.
+Peter found the most convincing one. Paid him forty bucks and a large pizza. Told him to hop off a dumpster, web up a "thief" (the guy's cousin), wave at the cameras, and leave.
 
 It's perfect.
 
@@ -878,6 +898,8 @@ So L needs one last test.
 
 A trap for Peter Parker, not Spider-Man.
 
+If it works, there's no more hiding. Not from L. Not from anyone L reports to.
+
 Peter can't know he's being tested.
 
 Spider-Sense can't point him to the watcher.
@@ -909,6 +931,8 @@ It's rigged with hidden safety cables. Nobody can actually get hurt.
 Peter's in his usual seat. Black coffee. Pretending to read.
 
 MJ heads out the side door with the trash.
+
+Nine o'clock, every night. L checked.
 
 At 9:02 p.m., a bolt gives.
 
@@ -962,9 +986,9 @@ He walks back inside, sits down, and doesn't touch his coffee for twenty minutes
 
 The shop's security camera recorded the whole thing.
 
-Frame by frame, his reaction is about a tenth of a second.
+Frame by frame, he starts moving about a tenth of a second after the bolt gives.
 
-Olympic sprinters get disqualified for false starts at that speed, because a human body isn't supposed to react that fast.
+Olympic sprinters get disqualified for reacting that fast, because a human body isn't supposed to be able to.
 
 Peter didn't use a single power anyone could point to.
 
@@ -992,7 +1016,7 @@ But L knows.
 
 And now Peter knows L knows.
 
-So Peter does something L doesn't see coming.
+So Peter does the last thing L expects.
 
 He stops hiding.
 
@@ -1172,7 +1196,19 @@ He keeps the secret…
 
 but he can never again act like nobody's watching.
 
-But here's the part that stays with me.
+So here's the question.
+
+If L already knows Peter Parker is Spider-Man…
+
+**how does he prove it without Peter ever figuring out what he's doing?**
+
+Drop your plan in the comments. The best one becomes Part 2.
+
+And if you want to see L go up against someone who plans for everything… L vs Batman is right there on your screen.
+
+But before you go…
+
+here's the part that stays with me.
 
 The whole world forgot Peter Parker.
 
@@ -1184,12 +1220,4 @@ the only person on Earth who knows his name…
 
 is the one who was hunting him.
 
-So here's the question.
-
-If L already knows Peter Parker is Spider-Man…
-
-**how does he prove it without Peter ever figuring out what he's doing?**
-
-Drop your plan in the comments.
-
-The best one becomes Part 2.
+[HOLD on L's face, then black. 3 seconds of silence. End screen.]
