@@ -22,13 +22,17 @@
 
 [VOICE NOTE: say "L" as one clear letter, "Elle", with a short pause after it. Check the first 30 seconds in ElevenLabs before exporting.]
 
-This Christmas, the entire world forgot Peter Parker.
-
-His best friend. The girl he loves. Everyone.
+The whole world forgot Peter Parker.
 
 [L, quietly:] "…Peter."
 
-So how does a detective who's never met him… know his name?
+So how does L know his name?
+
+[HOOK COMPLETE BY 0:05. Hard cut on "name?", one sound hit.]
+
+This Christmas, his best friend, the girl he loves… everyone forgot him.
+
+L has never even met him.
 
 And knowing a name… and proving it… are two very different things.
 
