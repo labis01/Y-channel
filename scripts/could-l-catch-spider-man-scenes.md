@@ -2,77 +2,81 @@
 ## **Could L Catch Spider-Man?**
 
 **Continuity:** MCU Peter Parker, a few weeks after *No Way Home*. January in New York.
-**Timeline based on fast narration (~175 wpm). Total ≈ 26:41.** Adjust to your final edit.
+**Timeline based on fast narration (~175 wpm). Total ≈ 26:31.** Adjust to your final edit.
 
 | # | Scene | Start | End |
 |---|---|---|---|
-| 1 | Cold Open: "…Peter." | 0:00 | 0:10 |
-| 2 | The Hook | 0:10 | 0:34 |
-| 3 | The Rules | 0:34 | 1:15 |
-| 4 | L Starts With Time | 1:15 | 2:49 |
-| 5 | Old Spider-Man vs New Spider-Man | 2:49 | 3:20 |
-| 6 | Peter's Kitchen Table | 3:20 | 3:55 |
-| 7 | The Crimes He Skips | 3:55 | 4:27 |
-| 8 | The Fake Alerts | 4:27 | 4:50 |
-| 9 | Too Early: The Spider-Sense Clue | 4:50 | 5:29 |
-| 10 | Pizza on the Rooftop | 5:29 | 5:31 |
-| 11 | The Friction Map | 5:31 | 6:37 |
-| 12 | Three Guesses, One Collapse | 6:37 | 7:10 |
-| 13 | Something Feels Off | 7:10 | 7:53 |
-| 14 | The Decoy Block | 7:53 | 8:39 |
-| 15 | L Let Him See It | 8:39 | 8:57 |
-| 16 | The Fake Neighborhood | 8:57 | 9:44 |
-| 17 | Proving the Wrong Kid Innocent | 9:44 | 10:09 |
-| 18 | The Story Peter Handed L | 10:09 | 10:39 |
-| 19 | Before and After | 10:39 | 11:05 |
-| 20 | What Spider-Man Can't Fake | 11:05 | 11:38 |
-| 21 | Peter Follows the Chain | 11:38 | 12:11 |
-| 22 | The Web-Shooter Bluff | 12:11 | 13:02 |
-| 23 | Holes in History | 13:02 | 13:37 |
-| 24 | MJ and Ned | 13:37 | 14:45 |
-| 25 | The Water Tower | 14:45 | 15:06 |
-| 26 | The Regular | 15:06 | 15:43 |
-| 27 | Peter Parker | 15:43 | 16:17 |
-| 28 | L Goes Quiet | 16:17 | 16:36 |
-| 29 | May's Grave | 16:36 | 17:07 |
-| 30 | The Silence Is Fake | 17:07 | 17:20 |
-| 31 | The Perfect Alibi | 17:20 | 17:50 |
-| 32 | The Times Square Decoy | 17:50 | 18:17 |
-| 33 | Why the Alibi Fails | 18:17 | 19:19 |
-| 34 | The Case L Can't Prove | 19:19 | 19:53 |
-| 35 | One Last Test | 19:53 | 20:37 |
-| 36 | The Scaffold | 20:37 | 21:48 |
-| 37 | She Has No Idea Who He Is | 21:48 | 21:59 |
-| 38 | A Tenth of a Second | 21:59 | 22:45 |
-| 39 | Peter's Seat | 22:45 | 24:01 |
-| 40 | "You Can't Prove Any of This" | 24:01 | 25:04 |
-| 41 | The Darker Version | 25:04 | 25:43 |
-| 42 | The Verdict | 25:43 | 26:14 |
-| 43 | The Only Person Who Knows His Name | 26:14 | 26:41 |
+| 1 | Hook: The World Forgot Peter Parker | 0:00 | 0:23 |
+| 2 | The Chase | 0:23 | 0:49 |
+| 3 | The Rules | 0:49 | 1:05 |
+| 4 | L Starts With Time | 1:05 | 2:39 |
+| 5 | Old Spider-Man vs New Spider-Man | 2:39 | 3:10 |
+| 6 | Peter's Kitchen Table | 3:10 | 3:45 |
+| 7 | The Crimes He Skips | 3:45 | 4:17 |
+| 8 | The Fake Alerts | 4:17 | 4:40 |
+| 9 | Too Early: The Spider-Sense Clue | 4:40 | 5:19 |
+| 10 | Pizza on the Rooftop | 5:19 | 5:21 |
+| 11 | The Friction Map | 5:21 | 6:27 |
+| 12 | Three Guesses, One Collapse | 6:27 | 7:01 |
+| 13 | Something Feels Off | 7:01 | 7:43 |
+| 14 | The Decoy Block | 7:43 | 8:29 |
+| 15 | L Let Him See It | 8:29 | 8:47 |
+| 16 | The Fake Neighborhood | 8:47 | 9:34 |
+| 17 | Proving the Wrong Kid Innocent | 9:34 | 9:59 |
+| 18 | The Story Peter Handed L | 9:59 | 10:29 |
+| 19 | Before and After | 10:29 | 10:55 |
+| 20 | What Spider-Man Can't Fake | 10:55 | 11:28 |
+| 21 | Peter Follows the Chain | 11:28 | 12:01 |
+| 22 | The Web-Shooter Bluff | 12:01 | 12:52 |
+| 23 | Holes in History | 12:52 | 13:27 |
+| 24 | MJ and Ned | 13:27 | 14:35 |
+| 25 | The Water Tower | 14:35 | 14:56 |
+| 26 | The Regular | 14:56 | 15:33 |
+| 27 | Peter Parker | 15:33 | 16:07 |
+| 28 | L Goes Quiet | 16:07 | 16:26 |
+| 29 | May's Grave | 16:26 | 16:57 |
+| 30 | The Silence Is Fake | 16:57 | 17:10 |
+| 31 | The Perfect Alibi | 17:10 | 17:40 |
+| 32 | The Times Square Decoy | 17:40 | 18:07 |
+| 33 | Why the Alibi Fails | 18:07 | 19:09 |
+| 34 | The Case L Can't Prove | 19:09 | 19:43 |
+| 35 | One Last Test | 19:43 | 20:27 |
+| 36 | The Scaffold | 20:27 | 21:38 |
+| 37 | She Has No Idea Who He Is | 21:38 | 21:49 |
+| 38 | A Tenth of a Second | 21:49 | 22:35 |
+| 39 | Peter's Seat | 22:35 | 23:51 |
+| 40 | "You Can't Prove Any of This" | 23:51 | 24:54 |
+| 41 | The Darker Version | 24:54 | 25:33 |
+| 42 | The Verdict | 25:33 | 26:04 |
+| 43 | The Only Person Who Knows His Name | 26:04 | 26:31 |
 
 ---
 
-## SCENE 1 — Cold Open: "…Peter."  `0:00 – 0:10`
+## SCENE 1 — Hook: The World Forgot Peter Parker  `0:00 – 0:23`
 
-[ON SCREEN: a coffee shop booth. Rain on the window. L crouched on a chair, dropping a sugar cube into his tea. Across from him, Peter, frozen.]
+[ON SCREEN from frame 1: a coffee shop booth. Rain on the window. L crouched on a chair, dropping a sugar cube into his tea. Across from him, Peter, frozen. NO silent lead-in, NO logo. The first word plays at 0:00.]
 
-[VOICE NOTE: say "L" as one clear letter, "Elle", with a short pause after it. Check the first 30 seconds in ElevenLabs before exporting. Earlier auto-captions heard "Ella / Al".]
+[VOICE NOTE: say "L" as one clear letter, "Elle", with a short pause after it. Check the first 30 seconds in ElevenLabs before exporting.]
 
-"…Peter."
-
-[HARD CUT to black. One sound hit.]
-
-Three weeks ago, the entire world forgot Peter Parker.
+This Christmas, the entire world forgot Peter Parker.
 
 His best friend. The girl he loves. Everyone.
 
+[L, quietly:] "…Peter."
+
 So how does a detective who's never met him… know his name?
+
+And knowing a name… and proving it… are two very different things.
+
+Because if L can prove it, Peter goes to federal prison for the Statue of Liberty.
+
+And the spell that cost him everyone he loves… bought him nothing.
 
 ---
 
-## SCENE 2 — The Hook  `0:10 – 0:34`
+## SCENE 2 — The Chase  `0:23 – 0:49`
 
-Because every night Spider-Man puts on the mask, he acts like Peter Parker.
+Here's the problem. Every night Spider-Man puts on the mask, he still acts like Peter Parker.
 
 And L has cracked cases with a lot less.
 
@@ -86,17 +90,15 @@ It's not the one you think.
 
 ---
 
-## SCENE 3 — The Rules  `0:34 – 1:15`
+## SCENE 3 — The Rules  `0:49 – 1:05`
 
-Quick ground rules, so nobody's yelling in the comments.
+Quick rules.
 
-One. After the Statue of Liberty, Damage Control has a file on a masked vigilante with no name. So they hire L. He gets police data, city cameras and public records. No Avengers files. No Stark tech.
+Damage Control hires L. Police data, city cameras, public records. No Avengers files.
 
-Two. Doctor Strange's spell didn't just wipe people's memories. It wiped every record that ties Peter Parker to Spider-Man. Mysterio's broadcast still exists, but now it's a dead man pointing at a mask, and no name comes out.
+And Doctor Strange's spell erased every record tying Peter to Spider-Man. Even Mysterio's broadcast. Otherwise, this video is four seconds long.
 
-Otherwise, this video is four seconds long.
-
-Three. Everything else survives. Every sighting. Every receipt. Every camera. Every person who's still alive… and still acting a little strange.
+Everything else? Still out there.
 
 Could L catch Spider-Man?
 
@@ -104,7 +106,7 @@ Let's find out.
 
 ---
 
-## SCENE 4 — L Starts With Time  `1:15 – 2:49`
+## SCENE 4 — L Starts With Time  `1:05 – 2:39`
 
 L's first move is to skip the obvious one.
 
@@ -174,7 +176,7 @@ And you can hide your face a lot easier than the rhythm of your life.
 
 ---
 
-## SCENE 5 — Old Spider-Man vs New Spider-Man  `2:49 – 3:20`
+## SCENE 5 — Old Spider-Man vs New Spider-Man  `2:39 – 3:10`
 
 Then L puts old Spider-Man footage next to the new stuff.
 
@@ -198,7 +200,7 @@ He's hunting Spider-Man's bills.
 
 ---
 
-## SCENE 6 — Peter's Kitchen Table  `3:20 – 3:55`
+## SCENE 6 — Peter's Kitchen Table  `3:10 – 3:45`
 
 [PETER CUTAWAY: a tiny apartment in Queens. Radiator clanking. Peter's stitching a torn suit sleeve at the kitchen table, counting crumpled bills with his free hand. A GED prep book props up a wobbly table leg.]
 
@@ -224,7 +226,7 @@ So L asks a question nobody else chasing Spider-Man thinks to ask.
 
 ---
 
-## SCENE 7 — The Crimes He Skips  `3:55 – 4:27`
+## SCENE 7 — The Crimes He Skips  `3:45 – 4:17`
 
 Everybody else studies Spider-Man's rescues.
 
@@ -252,7 +254,7 @@ No fake hostage situation. Nobody's life on the line.
 
 ---
 
-## SCENE 8 — The Fake Alerts  `4:27 – 4:50`
+## SCENE 8 — The Fake Alerts  `4:17 – 4:40`
 
 With Damage Control's help, he slips a few harmless fake alerts into different channels over several nights.
 
@@ -272,7 +274,7 @@ The one you could only see from a rooftop? He never comes.
 
 ---
 
-## SCENE 9 — Too Early: The Spider-Sense Clue  `4:50 – 5:29`
+## SCENE 9 — Too Early: The Spider-Sense Clue  `4:40 – 5:19`
 
 Then, during another test, something breaks every theory.
 
@@ -306,7 +308,7 @@ Stop being dangerous.
 
 ---
 
-## SCENE 10 — Pizza on the Rooftop  `5:29 – 5:31`
+## SCENE 10 — Pizza on the Rooftop  `5:19 – 5:21`
 
 [PETER CUTAWAY: a rooftop. Peter, mask half-off, eating a cold slice of pizza. He pauses mid-bite and glances over his shoulder. Nothing there. He shrugs and keeps eating.]
 
@@ -314,7 +316,7 @@ Stop being dangerous.
 
 ---
 
-## SCENE 11 — The Friction Map  `5:31 – 6:37`
+## SCENE 11 — The Friction Map  `5:21 – 6:27`
 
 Instead of following Spider-Man, L studies what he leaves behind.
 
@@ -350,7 +352,7 @@ And that's exactly where cameras have their best shot at him.
 
 ---
 
-## SCENE 12 — Three Guesses, One Collapse  `6:37 – 7:10`
+## SCENE 12 — Three Guesses, One Collapse  `6:27 – 7:01`
 
 Now L has a hunting zone.
 
@@ -378,7 +380,7 @@ the game's already started.
 
 ---
 
-## SCENE 13 — Something Feels Off  `7:10 – 7:53`
+## SCENE 13 — Something Feels Off  `7:01 – 7:43`
 
 Peter has no idea L exists.
 
@@ -414,7 +416,7 @@ And every normal patrol is free intel.
 
 ---
 
-## SCENE 14 — The Decoy Block  `7:53 – 8:39`
+## SCENE 14 — The Decoy Block  `7:43 – 8:29`
 
 So Peter changes.
 
@@ -446,7 +448,7 @@ He hasn't had that since Christmas.
 
 ---
 
-## SCENE 15 — L Let Him See It  `8:39 – 8:57`
+## SCENE 15 — L Let Him See It  `8:29 – 8:47`
 
 But here's what Peter doesn't know…
 
@@ -464,7 +466,7 @@ Spider-Man's studying L.
 
 ---
 
-## SCENE 16 — The Fake Neighborhood  `8:57 – 9:44`
+## SCENE 16 — The Fake Neighborhood  `8:47 – 9:34`
 
 Peter makes the first big move.
 
@@ -496,7 +498,7 @@ And Peter put him there.
 
 ---
 
-## SCENE 17 — Proving the Wrong Kid Innocent  `9:44 – 10:09`
+## SCENE 17 — Proving the Wrong Kid Innocent  `9:34 – 9:59`
 
 This is where a sloppier detective loses the case. Once you've got someone who looks right, every new fact starts looking like proof.
 
@@ -512,7 +514,7 @@ Peter wins that round.
 
 ---
 
-## SCENE 18 — The Story Peter Handed L  `10:09 – 10:39`
+## SCENE 18 — The Story Peter Handed L  `9:59 – 10:29`
 
 But L doesn't toss the failed theory.
 
@@ -536,7 +538,7 @@ he just showed L how his mind works.
 
 ---
 
-## SCENE 19 — Before and After  `10:39 – 11:05`
+## SCENE 19 — Before and After  `10:29 – 10:55`
 
 The map's been poisoned.
 
@@ -560,7 +562,7 @@ But changing his gut instinct to help people? Way harder.
 
 ---
 
-## SCENE 20 — What Spider-Man Can't Fake  `11:05 – 11:38`
+## SCENE 20 — What Spider-Man Can't Fake  `10:55 – 11:28`
 
 L goes back through real emergencies already on record.
 
@@ -594,7 +596,7 @@ Peter's started looking for *him*.
 
 ---
 
-## SCENE 21 — Peter Follows the Chain  `11:38 – 12:11`
+## SCENE 21 — Peter Follows the Chain  `11:28 – 12:01`
 
 Cameras don't turn themselves.
 
@@ -620,7 +622,7 @@ No detective on the case. No task-force boss. No face that keeps showing up.
 
 ---
 
-## SCENE 22 — The Web-Shooter Bluff  `12:11 – 13:02`
+## SCENE 22 — The Web-Shooter Bluff  `12:01 – 12:52`
 
 So Peter runs a test.
 
@@ -668,7 +670,7 @@ Into Spider-Man's past.
 
 ---
 
-## SCENE 23 — Holes in History  `13:02 – 13:37`
+## SCENE 23 — Holes in History  `12:52 – 13:27`
 
 This is where Doctor Strange's spell gets interesting.
 
@@ -694,7 +696,7 @@ Now you've got a story.
 
 ---
 
-## SCENE 24 — MJ and Ned  `13:37 – 14:45`
+## SCENE 24 — MJ and Ned  `13:27 – 14:35`
 
 And the same names keep turning up around that empty spot.
 
@@ -732,7 +734,7 @@ He just calls it an unknown cause.
 
 ---
 
-## SCENE 25 — The Water Tower  `14:45 – 15:06`
+## SCENE 25 — The Water Tower  `14:35 – 14:56`
 
 Then L goes back to his clean pile. Before Peter knew he was being watched.
 
@@ -750,7 +752,7 @@ The coffee shop where Michelle Jones works.
 
 ---
 
-## SCENE 26 — The Regular  `15:06 – 15:43`
+## SCENE 26 — The Regular  `14:56 – 15:33`
 
 L doesn't send a SWAT team.
 
@@ -774,7 +776,7 @@ His head turned *before* it hit the floor.
 
 ---
 
-## SCENE 27 — Peter Parker  `15:43 – 16:17`
+## SCENE 27 — Peter Parker  `15:33 – 16:07`
 
 L runs the name.
 
@@ -800,7 +802,7 @@ No footage of Peter walking into an alley and Spider-Man swinging out. No suit i
 
 ---
 
-## SCENE 28 — L Goes Quiet  `16:17 – 16:36`
+## SCENE 28 — L Goes Quiet  `16:07 – 16:26`
 
 So L does something Peter doesn't see coming.
 
@@ -816,7 +818,7 @@ The safest time to watch a careful target is when he thinks nobody's watching an
 
 ---
 
-## SCENE 29 — May's Grave  `16:36 – 17:07`
+## SCENE 29 — May's Grave  `16:26 – 16:57`
 
 [PETER CUTAWAY: a cemetery in Queens. Gray afternoon. Peter stands at a headstone. MAY PARKER. A few feet away, a heavyset man in a nice coat is laying down flowers. Happy Hogan.]
 
@@ -846,7 +848,7 @@ is a stranger with a camera network.
 
 ---
 
-## SCENE 30 — The Silence Is Fake  `17:07 – 17:20`
+## SCENE 30 — The Silence Is Fake  `16:57 – 17:10`
 
 Then Peter realizes the silence is fake.
 
@@ -860,7 +862,7 @@ For the first time, Peter's actually behind.
 
 ---
 
-## SCENE 31 — The Perfect Alibi  `17:20 – 17:50`
+## SCENE 31 — The Perfect Alibi  `17:10 – 17:40`
 
 Peter needs to kill the main theory.
 
@@ -878,7 +880,7 @@ How?
 
 ---
 
-## SCENE 32 — The Times Square Decoy  `17:50 – 18:17`
+## SCENE 32 — The Times Square Decoy  `17:40 – 18:07`
 
 Remember the Times Square guys L threw out on day one?
 
@@ -898,7 +900,7 @@ A day. Then another.
 
 ---
 
-## SCENE 33 — Why the Alibi Fails  `18:17 – 19:19`
+## SCENE 33 — Why the Alibi Fails  `18:07 – 19:09`
 
 It didn't work.
 
@@ -944,7 +946,7 @@ And Peter answered.
 
 ---
 
-## SCENE 34 — The Case L Can't Prove  `19:19 – 19:53`
+## SCENE 34 — The Case L Can't Prove  `19:09 – 19:43`
 
 Now L believes Peter is Spider-Man.
 
@@ -982,7 +984,7 @@ And Peter gets the difference.
 
 ---
 
-## SCENE 35 — One Last Test  `19:53 – 20:37`
+## SCENE 35 — One Last Test  `19:43 – 20:27`
 
 So he locks in.
 
@@ -1018,7 +1020,7 @@ He gambles with feelings.
 
 ---
 
-## SCENE 36 — The Scaffold  `20:37 – 21:48`
+## SCENE 36 — The Scaffold  `20:27 – 21:38`
 
 Tuesday. Closing time at the coffee shop. Rain coming down sideways.
 
@@ -1076,7 +1078,7 @@ She has no idea who he is.
 
 ---
 
-## SCENE 37 — She Has No Idea Who He Is  `21:48 – 21:59`
+## SCENE 37 — She Has No Idea Who He Is  `21:38 – 21:49`
 
 [BEAT. Music drops out.]
 
@@ -1088,7 +1090,7 @@ He walks back inside, sits down, and doesn't touch his coffee for twenty minutes
 
 ---
 
-## SCENE 38 — A Tenth of a Second  `21:59 – 22:45`
+## SCENE 38 — A Tenth of a Second  `21:49 – 22:35`
 
 The shop's security camera recorded the whole thing.
 
@@ -1128,7 +1130,7 @@ He stops hiding.
 
 ---
 
-## SCENE 39 — Peter's Seat  `22:45 – 24:01`
+## SCENE 39 — Peter's Seat  `22:35 – 23:51`
 
 Two days later, Peter walks into the coffee shop and heads for his seat.
 
@@ -1190,7 +1192,7 @@ And L knows he knows.
 
 ---
 
-## SCENE 40 — "You Can't Prove Any of This"  `24:01 – 25:04`
+## SCENE 40 — "You Can't Prove Any of This"  `23:51 – 24:54`
 
 Finally, Peter leans in.
 
@@ -1238,7 +1240,7 @@ Like they actually *know* who he is.
 
 ---
 
-## SCENE 41 — The Darker Version  `25:04 – 25:43`
+## SCENE 41 — The Darker Version  `24:54 – 25:33`
 
 But there's one thing that should scare Peter more than any of this.
 
@@ -1276,7 +1278,7 @@ That version doesn't end with tea and sugar cubes.
 
 ---
 
-## SCENE 42 — The Verdict  `25:43 – 26:14`
+## SCENE 42 — The Verdict  `25:33 – 26:04`
 
 So, could L catch Spider-Man?
 
@@ -1308,7 +1310,7 @@ but he can never again act like nobody's watching.
 
 ---
 
-## SCENE 43 — The Only Person Who Knows His Name  `26:14 – 26:41`
+## SCENE 43 — The Only Person Who Knows His Name  `26:04 – 26:31`
 
 But here's the part that stays with me.
 

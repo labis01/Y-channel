@@ -16,25 +16,29 @@
 
 ---
 
-### 0:00 — COLD OPEN (flash-forward)
+### 0:00 — COLD OPEN + HOOK (narration starts on frame 1)
 
-[ON SCREEN: a coffee shop booth. Rain on the window. L crouched on a chair, dropping a sugar cube into his tea. Across from him, Peter, frozen.]
+[ON SCREEN from frame 1: a coffee shop booth. Rain on the window. L crouched on a chair, dropping a sugar cube into his tea. Across from him, Peter, frozen. NO silent lead-in, NO logo. The first word plays at 0:00.]
 
-[VOICE NOTE: say "L" as one clear letter, "Elle", with a short pause after it. Check the first 30 seconds in ElevenLabs before exporting. Earlier auto-captions heard "Ella / Al".]
+[VOICE NOTE: say "L" as one clear letter, "Elle", with a short pause after it. Check the first 30 seconds in ElevenLabs before exporting.]
 
-"…Peter."
-
-[HARD CUT to black. One sound hit.]
-
-Three weeks ago, the entire world forgot Peter Parker.
+This Christmas, the entire world forgot Peter Parker.
 
 His best friend. The girl he loves. Everyone.
 
+[L, quietly:] "…Peter."
+
 So how does a detective who's never met him… know his name?
 
-### 0:15 — HOOK
+And knowing a name… and proving it… are two very different things.
 
-Because every night Spider-Man puts on the mask, he acts like Peter Parker.
+Because if L can prove it, Peter goes to federal prison for the Statue of Liberty.
+
+And the spell that cost him everyone he loves… bought him nothing.
+
+### 0:25 — THE CHASE
+
+Here's the problem. Every night Spider-Man puts on the mask, he still acts like Peter Parker.
 
 And L has cracked cases with a lot less.
 
@@ -46,17 +50,15 @@ But somewhere in this case, Peter makes one mistake.
 
 It's not the one you think.
 
-### 0:40 — THE RULES
+### 0:45 — THE RULES (keep under 25 seconds)
 
-Quick ground rules, so nobody's yelling in the comments.
+Quick rules.
 
-One. After the Statue of Liberty, Damage Control has a file on a masked vigilante with no name. So they hire L. He gets police data, city cameras and public records. No Avengers files. No Stark tech.
+Damage Control hires L. Police data, city cameras, public records. No Avengers files.
 
-Two. Doctor Strange's spell didn't just wipe people's memories. It wiped every record that ties Peter Parker to Spider-Man. Mysterio's broadcast still exists, but now it's a dead man pointing at a mask, and no name comes out.
+And Doctor Strange's spell erased every record tying Peter to Spider-Man. Even Mysterio's broadcast. Otherwise, this video is four seconds long.
 
-Otherwise, this video is four seconds long.
-
-Three. Everything else survives. Every sighting. Every receipt. Every camera. Every person who's still alive… and still acting a little strange.
+Everything else? Still out there.
 
 Could L catch Spider-Man?
 
