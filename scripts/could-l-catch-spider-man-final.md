@@ -186,7 +186,7 @@ And to fire it that fast, you need custom pressurized cartridges.
 
 So Spider-Man isn't just a chemist. He builds his own gear.
 
-So now the profile looks like this. Young. Seriously good with tech. Probably a chemist too. Less money than he used to have. Living close to where he patrols.
+So now the profile looks like this. Young. A chemist and an engineer. Less money than he used to have. Living close to where he patrols.
 
 That's still tens of thousands of people.
 
@@ -1074,11 +1074,11 @@ Neither of them says "Spider-Man."
 
 That's the game.
 
-Then, almost bored, "the scaffold accident the other night."
+L asks, almost bored, about "the scaffold accident the other night."
 
-Peter gives answers that make sense.
+Peter gives an answer that makes sense.
 
-L lets them slide.
+L lets it slide.
 
 Then L slides a plain manila folder across the table.
 
@@ -1194,7 +1194,7 @@ If L already knows Peter Parker is Spider-Man…
 
 **how does he prove it without Peter ever figuring out what he's doing?**
 
-Because in Part 2, L never makes a single visible move. No turned cameras. No fake alerts. Peter never knows he needs an alibi.
+In Part 2, L tries again. This time he never makes a single visible move. No turned cameras. No fake alerts. Peter never even knows he needs an alibi.
 
 Drop your plan in the comments. The best one becomes Part 2.
 
