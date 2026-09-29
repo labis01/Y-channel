@@ -67,8 +67,6 @@ He ran fake alerts through police channels. Spider-Man showed up to one almost i
 
 And to another one… he turned toward the scene before the alert even went out.
 
-Two seconds early.
-
 L doesn't believe in precognition. But he can't argue with a timestamp.
 
 So his plan is simple.
