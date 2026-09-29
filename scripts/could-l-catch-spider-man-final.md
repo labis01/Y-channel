@@ -44,7 +44,7 @@ And the spell that cost him everyone he loves… bought him nothing.
 
 Here's the problem. Every night Spider-Man puts on the mask, he still acts like Peter Parker.
 
-And L has cracked cases with a lot less.
+L has cracked cases with a lot less.
 
 But Spider-Sense means L can't tail him. Can't ambush him. Can't even stand too close.
 
@@ -64,6 +64,8 @@ And Doctor Strange's spell erased every record tying Peter to Spider-Man. Even M
 
 Everything else? Still out there.
 
+This is Logic Nexus. We give L the cases he was never written for.
+
 Could L catch Spider-Man?
 
 Let's find out.
@@ -80,7 +82,7 @@ Search eight million people for a guy in a mask and you get eight million suspec
 
 So L rebuilds Spider-Man's life instead.
 
-And the first thing he wants is time.
+The first thing he wants is time.
 
 He pulls every confirmed sighting from the last few months. Police reports. 911 calls. News choppers. Traffic cams. Anything with a time and a place he can check.
 
@@ -96,7 +98,7 @@ The guys in Spider-Man suits posing for tips in Times Square. Gone.
 
 L doesn't want more data. He wants data he can trust.
 
-And what's left shows something weird.
+What's left shows something weird.
 
 Spider-Man isn't always around.
 
@@ -138,7 +140,7 @@ Back across the city, L writes his first note:
 
 **The guy under the mask controls the schedule.**
 
-And right away, he tries to prove himself wrong. Weather? Police shifts? Traffic?
+Right away, he tries to prove himself wrong. Weather? Police shifts? Traffic?
 
 A few line up.
 
@@ -148,7 +150,7 @@ So now L has something. No name. No address.
 
 A rhythm.
 
-And you can hide your face a lot easier than the rhythm of your life.
+You can hide your face a lot easier than the rhythm of your life.
 
 Then L puts old Spider-Man footage next to the new stuff.
 
@@ -172,9 +174,9 @@ He's hunting Spider-Man's bills.
 
 Then there's the web itself.
 
-Spider-Man's webbing dissolves in about two hours. By the time the NYPD bags it, the evidence bag is empty.
+Spider-Man's webbing dissolves in about two hours. By the time it reaches a lab, the evidence bag is empty.
 
-So L has a team waiting at the next scene. Sample sealed in a cold container inside ten minutes.
+L has a team waiting at the next scene. Sample sealed in a cold container inside ten minutes.
 
 The lab calls back the next morning.
 
@@ -182,15 +184,15 @@ It's not a commercial product. It stays liquid under pressure and sets into fibe
 
 Somebody cooked this. By hand.
 
-And to fire it that fast, you need custom pressurized cartridges.
+To fire it that fast, you need custom pressurized cartridges.
 
 So Spider-Man isn't just a chemist. He builds his own gear.
 
-So now the profile looks like this. Young. A chemist and an engineer. Less money than he used to have. Living close to where he patrols.
+Now the profile looks like this. Young. A chemist and an engineer. Less money than he used to have. Living close to where he patrols.
 
 That's still tens of thousands of people.
 
-So L asks a question nobody else chasing Spider-Man thinks to ask.
+L asks a question nobody else chasing Spider-Man thinks to ask.
 
 **When does Spider-Man choose NOT to help?**
 
@@ -220,7 +222,7 @@ Or some kind of sense nobody understands?
 
 Each theory predicts different behavior.
 
-So L tests them.
+L tests them.
 
 No fake hostage situation. Nobody's life on the line.
 
@@ -256,7 +258,7 @@ To L, precognition sounds ridiculous.
 
 But he can't argue with the clock. Spider-Man knows things L can't see.
 
-And that flips the case.
+That flips the case.
 
 A tail might get spotted. An ambush might fail. A hidden watcher might tip him off just by being there.
 
@@ -284,7 +286,7 @@ Instead of following Spider-Man, L studies what he leaves behind.
 
 Decisions.
 
-He's looking for friction.
+Where does the city slow him down? That's friction. That's what L's looking for.
 
 Midtown's perfect for swinging. Queens flattens out. Some blocks are private. Some are packed with cameras.
 
@@ -296,7 +298,7 @@ The last sightings don't point to one building. Peter's too careful for that.
 
 But they're not random either. They form a few wide corridors.
 
-And all of them run into Queens.
+All of them run into Queens.
 
 Which makes sense, if you think about it like physics instead of comics.
 
@@ -304,11 +306,11 @@ Web-swinging needs height. Manhattan is basically a jungle gym. But cross the Ea
 
 Swinging stops being fast and starts being work.
 
-So somewhere around that drop-off, Spider-Man has to slow down. Run rooftops. Maybe even walk.
+Somewhere around that drop-off, Spider-Man has to slow down. Run rooftops. Maybe even walk.
 
-And that's exactly where cameras have their best shot at him.
+That's exactly where cameras have their best shot at him.
 
-So L pulls the traffic cameras on the Queensboro Bridge. Every night since Christmas. Four in the morning, when nothing should be moving up there.
+L pulls the traffic cameras on the Queensboro Bridge. Every night since Christmas. Four in the morning, when nothing should be moving up there.
 
 Frame after frame of empty steel cable.
 
@@ -320,7 +322,7 @@ L doesn't celebrate. He just draws a line on the map.
 
 Now L has a hunting zone.
 
-And then he does something you wouldn't expect.
+Then he does something you wouldn't expect.
 
 He stops narrowing it down.
 
@@ -328,7 +330,7 @@ Honestly? This is the moment I'd have lost the case. L doesn't.
 
 Narrow too fast and you start bending the evidence to fit your theory.
 
-So he builds three competing guesses and waits.
+He builds three competing guesses and waits.
 
 One weakens. One holds. The third keeps looking better.
 
@@ -370,7 +372,7 @@ Three times, you start keeping score.
 
 None of it's designed to hurt him.
 
-And somehow that's the creepy part.
+Somehow that's the creepy part.
 
 *Nobody's shooting at me. Nobody's asking for money. Nobody's monologuing, which, honestly, I kind of miss.*
 
@@ -380,13 +382,13 @@ Nobody's attacking him.
 
 Somebody's **measuring** him.
 
-And every normal patrol is free intel.
+Every normal patrol is free intel.
 
 So Peter changes.
 
 Longer routes. Different times. Sometimes he changes clothes far from home and takes the 7 train in a hoodie, just another tired guy with a backpack.
 
-And then he gets clever.
+Then he gets clever.
 
 Four nights in a row, Spider-Man ends his patrol near the same block in Astoria.
 
@@ -416,7 +418,7 @@ L *wanted* him to notice.
 
 If Spider-Man's smart enough to spot a profiler, sooner or later he'll test the profiler.
 
-So L lets one camera move get spotted on purpose.
+L lets one camera move get spotted on purpose.
 
 Now they both know the other one's thinking.
 
@@ -432,7 +434,7 @@ Peter makes the first big move.
 
 *You want geography? Fine. I'll give you geography.*
 
-Over the next week, Spider-Man quietly leans his movements toward Jackson Heights.
+Over the next few nights, Spider-Man quietly leans his movements toward Jackson Heights.
 
 Not every night. Too obvious.
 
@@ -454,15 +456,15 @@ A match. Then another. Then another.
 
 For the first time, L has a real person on the board.
 
-And Peter put him there.
+Peter put him there.
 
 This is where a sloppier detective loses the case. Once you've got someone who looks right, every new fact starts looking like proof.
 
-So L doesn't try to prove the kid *is* Spider-Man.
+L doesn't try to prove the kid *is* Spider-Man.
 
 He tries to prove he **isn't**.
 
-And he pulls it off. A confirmed Spider-Man sighting in the Bronx, while the kid is on the shop's camera, clocked in, fixing a cracked iPhone screen.
+He pulls it off. A confirmed Spider-Man sighting in the Bronx, while the kid is on the shop's camera, clocked in, fixing a cracked iPhone screen.
 
 Suspect cleared.
 
@@ -488,13 +490,19 @@ Actually…
 
 he just showed L how his mind works.
 
+[PETER CUTAWAY: the 7 train, late. Peter in a hoodie, reading a local news app: *Jackson Heights repair tech questioned in Spider-Man probe. Released.*]
+
+*Great. Now I'm ruining strangers' lives.*
+
+He closes the app. He doesn't use a fake neighborhood again.
+
 ---
 
 # 6 — THE INVESTIGATION TURNS INSIDE OUT
 
 The map's been poisoned.
 
-So L splits his data in two.
+L splits his data in two.
 
 Everything **before** Spider-Man got suspicious goes in one pile. That's his real life.
 
@@ -576,15 +584,15 @@ He switches wrists. Shakes the thing. Swings off one-handed.
 
 It was never broken.
 
-A few days later, a setup appears in a spot where losing one web-shooter would actually matter.
+A couple of nights later, a setup appears in a spot where losing one web-shooter would actually matter.
 
 Peter has his answer.
 
 The investigator bought the glitch and built a test around it.
 
-They don't just collect evidence.
+Whoever this is doesn't just watch.
 
-They design experiments with it.
+They run tests.
 
 But L learns something that same night.
 
@@ -606,7 +614,7 @@ If L keeps testing Spider-Man directly, Peter will test the tests.
 
 He needs a way in that Peter doesn't know exists.
 
-So L goes backward.
+L goes backward.
 
 Into Spider-Man's past.
 
@@ -618,7 +626,9 @@ Into Spider-Man's past.
 
 Halfway through the case, and L still doesn't have a name.
 
-So he stops looking forward… and looks back.
+Quick pause. If you were L, where would you look next? Drop it in the comments, then see if you beat him.
+
+L stops looking forward… and looks back.
 
 This is where Doctor Strange's spell gets interesting.
 
@@ -628,7 +638,7 @@ He just notices Spider-Man's history has holes in it.
 
 Spider-Man has years of public history. The Washington Monument. The Europe trip. The Statue of Liberty.
 
-So L asks a simple question.
+L asks a simple question.
 
 If Spider-Man was this young back then…
 
@@ -642,7 +652,7 @@ Hundreds of them, all turned toward the same empty spot?
 
 Now you've got a story.
 
-And the same names keep turning up around that empty spot.
+The same names keep turning up around that empty spot.
 
 Michelle Jones. Ned Leeds.
 
@@ -654,7 +664,7 @@ It's… a lot.
 
 But MJ and Ned are all over it.
 
-So L sends two people to talk to them, posing as reporters doing a feature on the Statue of Liberty.
+L sends two people to talk to them, posing as reporters doing a feature on the Statue of Liberty.
 
 MJ remembers everything. The explosions. The cold. The scaffolding.
 
@@ -666,7 +676,7 @@ They remember the events.
 
 They don't remember the person who connects them.
 
-No hack or cover-up explains why *people* act like the connection never existed.
+You can hack a file. You can't hack a memory.
 
 L doesn't jump to magic.
 
@@ -724,7 +734,7 @@ L runs it.
 
 Peter Parker.
 
-And this is where it gets eerie.
+This is where it gets eerie.
 
 Peter Parker barely exists before this winter. A GED application. A tiny apartment lease that started the same week the world forgot. No transcripts. No old addresses. No history anybody can find.
 
@@ -748,7 +758,7 @@ By now, L knows Peter better than anyone left on Earth. The grief. The jokes. Th
 
 And he's using all of it.
 
-So L does something Peter doesn't see coming.
+L does something Peter doesn't see coming.
 
 He goes quiet.
 
@@ -850,11 +860,11 @@ Right after L goes quiet, a perfect contradiction shows up, aimed at the exact t
 
 Why now?
 
-So L doesn't ask if that Spider-Man *looked* real.
+L doesn't ask if that Spider-Man *looked* real.
 
 He asks if he *acted* real.
 
-Faking decisions is a lot harder.
+Faking what you'd *do*? That's the hard part.
 
 The Brooklyn Spider-Man saves a fake purse…
 
@@ -920,9 +930,9 @@ So he locks in.
 
 He never changes where he could be seen. Never keeps the suit anywhere obvious. Never goes straight from Peter to Spider-Man.
 
-And for the first time, L starts running out of new evidence.
+For the first time, L starts running out of new evidence.
 
-So L needs one last test.
+L needs one last test.
 
 A trap for Peter Parker, not Spider-Man.
 
@@ -932,13 +942,13 @@ Peter can't know he's being tested.
 
 Spider-Sense can't point him to the watcher.
 
-And it has to hit the one thing Peter can't switch off.
+It has to hit the one thing Peter can't switch off.
 
 Not his routes. Not his schedule.
 
 His heart.
 
-And this is the part of the case that should make you a little uncomfortable.
+This is the part of the case that should make you a little uncomfortable.
 
 L doesn't gamble with lives.
 
@@ -974,7 +984,7 @@ Now think about what that means.
 
 The danger isn't real. The cables will catch it.
 
-So Peter's Spider-Sense stays completely quiet.
+Peter's Spider-Sense stays completely quiet.
 
 Nothing inside him says *move*.
 
@@ -1046,7 +1056,7 @@ But L knows.
 
 And now Peter knows L knows.
 
-So Peter does the last thing L expects.
+Peter does the last thing L expects.
 
 He stops hiding.
 
@@ -1098,7 +1108,7 @@ But L isn't watching his face.
 
 He's watching for the questions Peter never asks.
 
-Someone innocent would've said something twenty minutes ago.
+Someone innocent would've said something by now.
 
 Why are you telling me this?
 
@@ -1126,6 +1136,8 @@ Then he asks the only question that actually matters to him.
 
 "The people who hired you. Are you going to tell them?"
 
+He knows what "yes" means. A cell. And the spell… for nothing.
+
 L thinks about it. Really thinks.
 
 "They hired me to find a masked man who knocked a hole in the Statue of Liberty," he says. "What I found is a kid who pulls strangers out of the way of falling steel and then sits alone with a cold coffee."
@@ -1149,6 +1161,8 @@ Then he stops.
 And he says it quietly, the way you'd say an old friend's name.
 
 "…Peter."
+
+[2 seconds of silence.]
 
 Peter doesn't move.
 
@@ -1176,13 +1190,13 @@ But every lie is another decision.
 
 And decisions show you the mind making them.
 
-So L gets a strange kind of win.
+L gets a strange kind of win.
 
 He solves Spider-Man.
 
 But he can't expose him.
 
-And Peter gets his own strange kind of win.
+Peter gets his own strange kind of win.
 
 He keeps the secret…
 
