@@ -22,24 +22,28 @@ Drop your plan in the comments: if L already knows it's Peter, how does he PROVE
 CHAPTERS
 0:00 The World Forgot Peter Parker
 0:50 The Rules
-1:06 L Starts With Time
-3:00 Hunting Spider-Man's Bills
-3:50 The Crimes Spider-Man Skips
-4:45 The Spider-Sense Clue
-5:26 The Friction Map
-7:09 Peter Realizes He's Being Measured
-8:56 The Fake Neighborhood
-10:38 What Spider-Man Can't Fake
-12:05 The Web-Shooter Bluff
-12:56 Holes in History: MJ and Ned
-15:07 The Regular
-16:47 May's Grave
-17:42 The Perfect Alibi
-19:42 The Case L Can't Prove
-21:04 The Scaffold
-23:16 The Meeting
-25:34 The Darker Version
-26:13 The Verdict
+1:06 Day 1: L Starts With Time
+2:52 Hunting Spider-Man's Bills
+3:24 The Web That Melts
+4:16 Day 3: The Crimes Spider-Man Skips
+5:12 The Spider-Sense Clue
+5:52 Day 6: The Friction Map
+6:46 One Blur on the Bridge
+7:44 Day 9: Peter Realizes He's Being Measured
+9:31 The Fake Neighborhood
+11:35 What Spider-Man Can't Fake
+12:41 The Web-Shooter Bluff
+13:32 Day 15: Holes in History
+14:15 MJ and Ned
+15:39 The Regular
+16:16 Day 21: Peter Parker
+17:29 May's Grave
+18:24 The Perfect Alibi
+20:14 The Case L Can't Prove
+21:30 Day 26: The Scaffold
+23:42 The Folder
+25:03 "You Can't Prove Any of This"
+26:06 The Verdict
 
 This is a fan-made analysis and original story. Spider-Man is owned by Marvel/Sony. Death Note is owned by Tsugumi Ohba, Takeshi Obata and Shueisha. Dramatized footage is illustrative.
 

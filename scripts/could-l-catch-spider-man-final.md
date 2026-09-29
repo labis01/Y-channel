@@ -72,9 +72,9 @@ Let's find out.
 
 # 1 — THE RHYTHM AND THE BILLS
 
-L's first move is to skip the obvious one.
+**Day one.**
 
-He doesn't search for Spider-Man's identity. Not yet.
+L's first move is to skip the obvious one.
 
 Search eight million people for a guy in a mask and you get eight million suspects.
 
@@ -101,8 +101,6 @@ And what's left shows something weird.
 Spider-Man isn't always around.
 
 There are gaps. Big ones.
-
-This guy crosses half of New York without hitting traffic. He can go for hours.
 
 So why does he keep vanishing?
 
@@ -172,6 +170,22 @@ L isn't hunting Spider-Man's powers.
 
 He's hunting Spider-Man's bills.
 
+Then there's the web itself.
+
+Spider-Man's webbing dissolves in about two hours. By the time the NYPD bags it, the evidence bag is empty.
+
+So L has a team waiting at the next scene. Sample sealed in a cold container inside ten minutes.
+
+The lab calls back the next morning.
+
+It's not a commercial product. It stays liquid under pressure and sets into fiber the instant it hits air.
+
+Somebody cooked this. By hand.
+
+And to fire it that fast, you need custom pressurized cartridges.
+
+So Spider-Man isn't just a chemist. He builds his own gear.
+
 So now the profile looks like this. Young. Seriously good with tech. Probably a chemist too. Less money than he used to have. Living close to where he patrols.
 
 That's still tens of thousands of people.
@@ -183,6 +197,8 @@ So L asks a question nobody else chasing Spider-Man thinks to ask.
 ---
 
 # 2 — THE CRIMES SPIDER-MAN MISSES
+
+**Day three.**
 
 Everybody else studies Spider-Man's rescues.
 
@@ -262,13 +278,11 @@ Stop being dangerous.
 
 # 3 — L BUILDS A CITY-SIZED EXPERIMENT
 
+**Day six.**
+
 Instead of following Spider-Man, L studies what he leaves behind.
 
 Decisions.
-
-Where does he show up fast? Where does he show up late? Where does he vanish and never show up on another camera?
-
-L's not looking for one route home. Peter would just switch it up.
 
 He's looking for friction.
 
@@ -293,6 +307,16 @@ Swinging stops being fast and starts being work.
 So somewhere around that drop-off, Spider-Man has to slow down. Run rooftops. Maybe even walk.
 
 And that's exactly where cameras have their best shot at him.
+
+So L pulls the traffic cameras on the Queensboro Bridge. Every night since Christmas. Four in the morning, when nothing should be moving up there.
+
+Frame after frame of empty steel cable.
+
+Then, 3:47 a.m., a Tuesday in January…
+
+a single blur crossing the upper cables. Toward Queens.
+
+L doesn't celebrate. He just draws a line on the map.
 
 Now L has a hunting zone.
 
@@ -323,6 +347,8 @@ the game's already started.
 ---
 
 # 4 — PETER REALIZES HE'S BEING MEASURED
+
+**Day nine.**
 
 Peter has no idea L exists.
 
@@ -550,7 +576,7 @@ He switches wrists. Shakes the thing. Swings off one-handed.
 
 It was never broken.
 
-Nine days later, a setup appears in a spot where losing one web-shooter would actually matter.
+A few days later, a setup appears in a spot where losing one web-shooter would actually matter.
 
 Peter has his answer.
 
@@ -587,6 +613,8 @@ Into Spider-Man's past.
 ---
 
 # 8 — THE PERSON WHO SHOULD BE THERE
+
+**Day fifteen.**
 
 Halfway through the case, and L still doesn't have a name.
 
@@ -638,9 +666,7 @@ They remember the events.
 
 They don't remember the person who connects them.
 
-L tries the normal explanations. A classified identity. Deleted records. Witness protection. A really good hack.
-
-None of them explain why *people* act like the connection never existed.
+No hack or cover-up explains why *people* act like the connection never existed.
 
 L doesn't jump to magic.
 
@@ -686,6 +712,8 @@ Except him.
 
 His head turned *before* it hit the floor.
 
+**Day twenty-one.**
+
 On the fourth day, the kid leaves a GED prep book on the table while he grabs a refill.
 
 The observer snaps one photo of the inside cover.
@@ -713,6 +741,12 @@ L's confidence climbs.
 His proof stays flat.
 
 No footage of Peter walking into an alley and Spider-Man swinging out. No suit in his trash. Nothing.
+
+And here's the uncomfortable part.
+
+By now, L knows Peter better than anyone left on Earth. The grief. The jokes. The empty apartment.
+
+And he's using all of it.
 
 So L does something Peter doesn't see coming.
 
@@ -812,15 +846,13 @@ Because L has a problem with this alibi.
 
 It's too convenient.
 
-For weeks, Peter Parker's records have been painfully boring. Then, right after the investigation goes quiet, a big clean contradiction shows up, aimed at the exact theory L was testing.
+Right after L goes quiet, a perfect contradiction shows up, aimed at the exact theory he was testing.
 
 Why now?
 
 So L doesn't ask if that Spider-Man *looked* real.
 
 He asks if he *acted* real.
-
-You can copy a costume. You can copy moves.
 
 Faking decisions is a lot harder.
 
@@ -835,8 +867,6 @@ Not once. Not in hundreds of hours of footage.
 That wasn't Spider-Man.
 
 That was a guy in a suit who works for tips.
-
-So L gets more sure, not less.
 
 Peter didn't hand him an alibi.
 
@@ -892,12 +922,6 @@ He never changes where he could be seen. Never keeps the suit anywhere obvious. 
 
 And for the first time, L starts running out of new evidence.
 
-L could confront Peter. But Peter knows reactions are evidence.
-
-More surveillance? Spider-Sense.
-
-Another staged emergency? Peter's expecting it.
-
 So L needs one last test.
 
 A trap for Peter Parker, not Spider-Man.
@@ -923,6 +947,8 @@ He gambles with feelings.
 ---
 
 # 12 — L'S FINAL EXPERIMENT
+
+**Day twenty-six.**
 
 Tuesday. Closing time at the coffee shop. Rain coming down sideways.
 
@@ -1048,25 +1074,25 @@ Neither of them says "Spider-Man."
 
 That's the game.
 
-L starts with something harmless. The GED. Then chemistry. Then New York.
-
 Then, almost bored, "the scaffold accident the other night."
 
 Peter gives answers that make sense.
 
 L lets them slide.
 
-He brings up a neighborhood in Jackson Heights that turned out to be fake.
+Then L slides a plain manila folder across the table.
 
-Peter's face barely moves.
+Page one: a map of Jackson Heights, one word written across it. *Fake.*
 
-A web-shooter glitch that wasn't real.
+Page two: a traffic-cam still. 2:14 a.m. A jammed web-shooter.
 
-Blank.
+Page three: a Times Square Spider-Man, walking right past an old woman on the ice.
 
-A Times Square Spider-Man who walked right past an old woman on the ice.
+Page four: the coffee shop camera. Frame one. Frame two. Frame three.
 
-Peter stays locked in.
+Peter closes the folder.
+
+His face doesn't move.
 
 But L isn't watching his face.
 
@@ -1134,44 +1160,6 @@ Like they actually *know* who he is.
 
 # 14 — THE DARKER VERSION
 
-But there's one thing that should scare Peter more than any of this.
-
-We gave him the chance to realize someone was investigating him.
-
-That's the only reason he could fight back.
-
-Take that away…
-
-and this case gets a lot darker.
-
-Imagine L never makes an obvious move.
-
-Never turns a visible camera.
-
-Never feeds Peter a suspicious emergency.
-
-Peter keeps patrolling like normal.
-
-Normal routes.
-
-Normal habits.
-
-Normal mistakes.
-
-For thirty days straight.
-
-L gets the schedule. The travel patterns. The profile. The coffee shop.
-
-Peter Parker ends up on the suspect list…
-
-and Peter doesn't even know he needs an alibi.
-
-That version doesn't end with tea and sugar cubes.
-
----
-
-# 15 — THE VERDICT
-
 So, could L catch Spider-Man?
 
 Here's my answer.
@@ -1205,6 +1193,8 @@ So here's the question.
 If L already knows Peter Parker is Spider-Man…
 
 **how does he prove it without Peter ever figuring out what he's doing?**
+
+Because in Part 2, L never makes a single visible move. No turned cameras. No fake alerts. Peter never knows he needs an alibi.
 
 Drop your plan in the comments. The best one becomes Part 2.
 
