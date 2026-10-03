@@ -315,3 +315,132 @@ Shot numbers match `could-l-catch-spider-man-visual-prompts.md`. Only the AI sho
 
 **177.** A pale young man with wild messy black hair alone in a café booth at night, gazing out a rain-covered window at city lights. Cinematic film still, photorealistic, deep blue and amber light.
 🎬 Motion: rain runs down the glass, very slow push-in.
+
+---
+
+# PART 2: THE REST OF THE SHOTS (so every shot has its own image)
+These replace the stock clips, the montages and the shots that reused your cold-open images. Use them if you'd rather have a fresh image for every shot.
+
+**2.** A dark city emergency control room at night, rows of glowing screens showing traffic cameras and police maps, a dispatcher wearing a headset seen from behind. Cinematic film still, photorealistic, cold blue glow, film grain.
+
+**4.** A packed Times Square crowd at night seen from above, thousands of people blurred in motion, neon billboards glowing. Cinematic film still, photorealistic, long exposure, deep navy-blue shadows.
+🎬 Motion: the crowd streams past in fast motion.
+
+**7.** A news helicopter flying low over Manhattan at night, its spotlight sweeping the wet streets below. Cinematic film still, photorealistic, film grain.
+
+**13.** A dark rainy alley in Queens at night, red and blue police lights reflecting off puddles, nobody in sight. Cinematic film still, photorealistic, film grain.
+
+**16.** A split view of the same New York street corner: left half in grey daytime, right half at night with glowing windows. Cinematic film still, photorealistic.
+
+**24.** Three small images in a row: rain running down a window at night; a traffic jam of red taillights; the front steps of a police precinct under a streetlight. Cinematic film still, photorealistic, deep navy-blue tones.
+
+**26.** A small Queens bodega at night, its door left open, a broken bottle on the floor, red and blue police lights flashing through the window. Cinematic film still, photorealistic, film grain.
+
+**27.** A car chase on a wet Queens street at night, a dark sedan speeding with police cars behind it, headlights streaking. Cinematic film still, photorealistic, motion blur.
+🎬 Motion: cars race past the camera.
+
+**32.** The Queensboro Bridge at night seen from the East River, glowing lights reflected in the black water, the low Queens skyline beyond. Cinematic film still, photorealistic, deep navy-blue sky.
+
+**35.** A row of street surveillance cameras on poles along a wet Queens street at night, each one pointing a slightly different way. Cinematic film still, photorealistic, film grain.
+
+**43.** An elevated subway train rolling over a Jackson Heights street at night, sparks under the wheels, shop signs glowing below. Cinematic film still, photorealistic, film grain.
+🎬 Motion: the train rolls across the frame.
+
+**58.** A computer screen in a dark room filled with digital static and glitch noise, broken map lines flickering underneath. Cinematic, photorealistic, cold blue glow.
+
+**65.** A long empty government office corridor at night, rows of grey filing cabinets, one flickering fluorescent light. Cinematic film still, photorealistic, deep shadows.
+
+**73.** Close-up of a cheap wall clock in a dark Queens apartment showing just after 3 a.m., rain running down the window beside it. Cinematic film still, photorealistic, shallow depth of field.
+
+**93.** A computer monitor in a dark room showing a plain ID-style photo of an 18-year-old young man with messy curly dark-brown hair, a cursor blinking beside it, a pale hand resting near the keyboard. Cold blue glow, cinematic film still, photorealistic.
+
+**96.** A pale young man with wild messy black hair seen from behind, staring at a monitor showing a grid of nine small profile cards of different young men. Dark room, cold blue glow, cinematic film still, photorealistic.
+
+**97.** A monitor showing a grid of nine profile cards of young men, eight of them greyed out and faded, one still brightly lit. Dark room, cinematic film still, photorealistic.
+
+**98.** Close-up of a single brightly lit profile photo of an 18-year-old young man with curly dark-brown hair on a monitor, all the photos around it faded grey. Cinematic, photorealistic, shallow depth of field.
+
+**113.** Split image: on the left, a warm-lit library window at night with students inside; on the right, a dark Brooklyn street at night with phones raised in a crowd. Cinematic film still, photorealistic.
+
+**115.** Close-up of a hand tapping a student card on a library card reader that glows green, a small paper café receipt on the counter beside it. Cinematic film still, photorealistic, warm light.
+
+**121.** A pale young man with wild messy black hair crouching on a chair, studying shaky phone footage of a costumed figure on a Brooklyn street, frame by frame. Dark room, cold blue glow, cinematic film still, photorealistic.
+
+**123.** A masked hero in a red and dark-blue suit helping a fallen elderly woman up from an icy sidewalk at night, gentle, streetlight glow. Cinematic film still, photorealistic, film grain.
+
+**127.** A young man with curly dark-brown hair walking through a crowd of other young people on a Queens street at night, all of them blending together. Cinematic film still, photorealistic, shallow depth of field.
+
+**136.** Heavy freezing rain pouring down on an empty Queens street at night, streetlights glowing through the downpour. Cinematic film still, photorealistic, deep navy-blue tones.
+🎬 Motion: rain pours, puddles ripple.
+
+**140.** A dark wall covered in pinned photos, maps and red string: a schedule chart, a map of Queens, a repair shop photo, a traffic-camera still, a coffee shop, a costumed figure on ice, all linked to one photo of a young man with curly dark-brown hair in the center. Single desk lamp, cinematic film still, photorealistic.
+
+**143.** Inside a warm coffee shop at night, a pale young man with wild messy black hair in a white long-sleeve shirt crouching barefoot on a booth seat with a cup of tea, rain on the window. Cinematic film still, photorealistic.
+
+**144.** An 18-year-old young man with curly dark-brown hair in a black hoodie standing beside a café booth looking down, unimpressed, at someone sitting in his seat. Warm light, rainy window, cinematic film still, photorealistic.
+
+**150.** An open manila folder on a café table showing a grainy black-and-white traffic-camera photo of a figure on a building ledge at night. Warm light, cinematic film still, photorealistic, shallow depth of field.
+
+**152.** An open manila folder on a café table showing a photo of a costumed figure walking past an elderly woman who has fallen on ice. Warm light, cinematic film still, photorealistic.
+
+**159.** An 18-year-old young man with curly dark-brown hair in a café, eyes wet, watching a young woman with curly dark hair at the counter who doesn't look back. Warm and blue light, cinematic film still, photorealistic, shallow depth of field.
+
+**161.** Close-up of a pale young man with wild messy black hair over dark-circled eyes, looking straight ahead, calm and certain, rainy café window behind. Cinematic film still, photorealistic.
+
+**162.** A faded black-and-white collage of four memories: tangled route lines on a map, a grainy CCTV frame of a bodega awning, a jammed wrist device, a costumed figure on a Brooklyn street. Desaturated, film grain.
+
+**163.** A desaturated photo of a lanky young man with glasses sitting alone in a police interview room. Black-and-white, film grain, photorealistic.
+
+**169.** A monitor in a dark room showing three panels: a timeline, a map of Queens, and a hero helping an injured man. Cold blue glow, cinematic film still, photorealistic.
+
+**170.** Three photographs laid side by side on a dark desk: a phone repair shop, a mechanical wrist device, a library study group. Desk lamp, cinematic film still, photorealistic.
+
+**171.** A pale young man with wild messy black hair seen from behind, facing a huge wall covered in every clue of the case, photos and red string everywhere. Single lamp, cinematic film still, photorealistic.
+
+**172.** Close-up of an elderly woman sitting on an icy Brooklyn sidewalk at night, alone, people walking past in a blur. Streetlight, cinematic film still, photorealistic, shallow depth of field.
+
+**173.** A judge's empty wooden bench in a dark courtroom, a single lamp, a gavel resting beside a thin closed folder. Cinematic film still, photorealistic, deep navy-blue shadows.
+
+**175.** An 18-year-old young man with messy curly dark-brown hair in a black jacket standing still in a crowded New York street at Christmas, people blurring past him, golden lights everywhere, his head down. Cinematic film still, photorealistic, long exposure.
+
+**176.** Through a rain-covered café window at night: inside, a young woman with curly dark hair laughing with a friend at the counter; outside, an 18-year-old young man in a black hoodie standing in the rain looking in. Cinematic film still, photorealistic, warm inside, cold blue outside.
+
+**178.** Extreme close-up of a pale young man with wild messy black hair and dark-circled eyes looking straight into the camera, rainy café window behind him, quiet and serious. Cinematic film still, photorealistic, shallow depth of field.
+🎬 Motion: very slow push-in, then hold.
+
+---
+
+# PART 3: YOUR COLD-OPEN IMAGES (to remake or match them)
+Use these if you need to redo one or make a matching variation.
+
+**C1. Rooftop hero.** A masked hero in a red and dark-blue suit with black web lines standing at the edge of a wet rooftop at night, seen from behind, looking out over a huge glowing New York skyline under heavy dark clouds, river on the right. Cinematic film still, photorealistic, deep navy-blue tones, film grain.
+
+**C2. Peter in the booth (wide).** An 18-year-old young man with messy wet curly dark-brown hair in a black hoodie and dark jacket, sitting in a café booth at night with a cup of coffee, looking worried at someone across the table whose messy black hair and white shirt blur in the foreground. Rain-covered window with city bokeh, warm lamps, cinematic film still, photorealistic.
+
+**C3. Peter in the booth (close).** Close-up of an 18-year-old young man with messy wet curly dark-brown hair in a black hoodie, eyes wet, frightened, looking at someone in the foreground whose messy black hair is out of focus. Rain-covered window, colorful bokeh, cinematic film still, photorealistic.
+
+**C4. Two-shot.** A pale young man with wild messy black hair in a white long-sleeve shirt crouching on a chair, facing an 18-year-old young man with curly dark-brown hair in a black hoodie across a wet wooden café table, two cups of coffee and a sugar dispenser between them, a big rainy window behind them showing city lights. Cinematic film still, photorealistic, warm and blue light.
+
+**C5. L close-up.** Extreme close-up of a pale young man with wild messy black hair falling over intense dark-circled eyes, white shirt, looking up at the camera, rainy café window and warm lamps behind. Cinematic film still, photorealistic, shallow depth of field.
+
+**C6. L watching Peter on screen.** A pale young man with wild messy black hair in a white shirt crouching with his thumb at his lips, staring at a large monitor showing an 18-year-old young man with curly dark-brown hair in a crowded Christmas street, smaller black-and-white surveillance photos beside it. Dark room, stacked books, cinematic film still, photorealistic.
+
+**C7. Peter in the Christmas crowd.** An 18-year-old young man with curly dark-brown hair in a black jacket and jeans standing alone with his head down on a crowded Fifth Avenue sidewalk at Christmas, happy people blurring past him, golden lights and a Christmas tree behind. Cinematic film still, photorealistic, long exposure.
+
+**C8. Peter and MJ.** An 18-year-old young man with curly dark-brown hair in a black jacket smiling at a young woman with big curly dark hair in a red knit coat and scarf, her chin on her hand, two paper coffee cups between them, Christmas lights and bokeh behind. Warm golden light, cinematic film still, photorealistic.
+
+**C9. Peter and Ned.** An 18-year-old young man with curly dark-brown hair laughing with his heavyset best friend in a maroon hoodie in a retro diner booth, burgers and fries in red baskets, ketchup and mustard bottles, a Christmas tree in the background. Warm golden light, cinematic film still, photorealistic.
+
+**C10. Peter by the tree.** An 18-year-old young man with curly dark-brown hair in a black jacket and hoodie standing in falling snow at night, looking away sadly, a giant glowing Christmas tree and wreath-covered buildings behind him, people blurring past. Cinematic film still, photorealistic.
+
+**C11. The "?" wall.** A pale young man with wild messy black hair seen from behind, hand at his mouth, staring at a wall covered in black-and-white photos of young men seen from behind, many faces replaced by black silhouettes with question marks, a city map in the middle, red string. Single desk lamp, cinematic film still, photorealistic.
+
+**C12. The "Unexplained Event" wall.** A pale young man with wild messy black hair hunched at a desk staring at a corkboard of newspaper clippings and photos of a glowing magical event in the sky over a city at night, a big red question mark, red string, two monitors with black-and-white street footage. Desk lamp, cinematic film still, photorealistic. (Add the headline words in Canva.)
+
+**C13. Face grid.** A pale young man with wild messy black hair, hand at his mouth, staring at a large monitor showing a grid of dozens of surveillance photos of similar young men with dark hair in hoodies on city streets. Dark room, cold blue glow, cinematic film still, photorealistic.
+
+**C14. Queens map.** A pale young man with wild messy black hair, hand at his mouth, staring at a large monitor showing a satellite map of Queens marked with red target circles, small street photos around it, and a photo of a young man with curly dark-brown hair. Dark room, desk lamp, cinematic film still, photorealistic.
+
+**C15. Evidence board.** A dark desk covered in papers, fingerprint cards and black-and-white photos, under a corkboard with red string connecting a large photo of an 18-year-old young man with curly dark-brown hair to photos of a masked hero in a red and dark-blue suit. One desk lamp, cinematic film still, photorealistic.
+
+**C16. Manhattan route map.** A pale young man with wild messy black hair, hand at his chin, staring at a huge monitor showing a 3D night map of Manhattan covered in glowing red route lines and target circles, small black-and-white street camera feeds on the sides. Dark room, cinematic film still, photorealistic.
